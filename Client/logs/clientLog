@@ -1,0 +1,28 @@
+[Start of logging]10.05.2018 22:12:17.375 INFO     1 Testing Client.SimpleClient started  
+10.05.2018 22:12:17.499 INFO    10 Query processed [Q1] in 100 ms.  
+10.05.2018 22:12:17.499 INFO    11 Query processed [Q7] in 40 ms.  
+10.05.2018 22:12:17.500 INFO    12 Query processed [Q5] in 41 ms.  
+10.05.2018 22:12:17.501 INFO    11 Query processed [Q3] in 42 ms.  
+10.05.2018 22:12:17.502 INFO    10 Query processed [Q4] in 42 ms.  
+10.05.2018 22:12:17.502 INFO     9 Query processed [Q2] in 43 ms.  
+10.05.2018 22:12:17.502 INFO    12 Query processed [Q6] in 43 ms.  
+10.05.2018 22:12:17.504 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]10.05.2018 22:12:52.782 INFO     1 Testing Client.SimpleClient started  
+10.05.2018 22:12:52.863 INFO     9 Query processed [Q3] in 9 ms.  
+10.05.2018 22:12:52.864 INFO    10 Query processed [Q4] in 10 ms.  
+10.05.2018 22:12:52.864 INFO     9 Query processed [Q1] in 60 ms.  
+10.05.2018 22:12:52.865 INFO     9 Query processed [Q7] in 11 ms.  
+10.05.2018 22:12:52.865 INFO    10 Query processed [Q5] in 11 ms.  
+10.05.2018 22:12:52.865 INFO     9 Query processed [Q6] in 11 ms.  
+10.05.2018 22:12:52.866 INFO    11 Query processed [Q2] in 11 ms.  
+10.05.2018 22:12:52.866 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]10.05.2018 22:12:58.064 INFO     1 Testing Client.SimpleClient started  
+10.05.2018 22:12:58.155 INFO    12 Query processed [Q3] in 11 ms.  
+10.05.2018 22:12:58.155 INFO    10 Query processed [Q6] in 11 ms.  
+10.05.2018 22:12:58.156 INFO     9 Query processed [Q5] in 12 ms.  
+10.05.2018 22:12:58.157 INFO    12 Query processed [Q7] in 13 ms.  
+10.05.2018 22:12:58.157 INFO    12 Query processed [Q1] in 69 ms.  
+10.05.2018 22:12:58.158 INFO    11 Query processed [Q2] in 14 ms.  
+10.05.2018 22:12:58.158 INFO    10 Query processed [Q4] in 14 ms.  
+10.05.2018 22:12:58.160 INFO     1 Testing Client.SimpleClient finished  
+[End of logging]

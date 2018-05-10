@@ -1,0 +1,1699 @@
+[Start of logging]07.05.2018 16:49:15.128 INFO     1 Testing Client.SimpleClient started  
+07.05.2018 16:49:16.224 WARN     7 Query "Q1" timeout (1073 ms).  
+07.05.2018 16:49:16.235 WARN    11 Query "Q2" timeout (1019 ms).  
+07.05.2018 16:49:16.257 WARN     9 Query "Q7" timeout (1041 ms).  
+07.05.2018 16:49:16.258 WARN    13 Query "Q4" timeout (1041 ms).  
+07.05.2018 16:49:16.258 WARN    10 Query "Q3" timeout (1042 ms).  
+07.05.2018 16:49:16.258 WARN     8 Query "Q6" timeout (1041 ms).  
+07.05.2018 16:49:16.258 WARN    12 Query "Q5" timeout (1021 ms).  
+07.05.2018 16:49:16.264 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]07.05.2018 16:49:53.493 INFO     1 Testing Client.SimpleClient started  
+07.05.2018 16:49:54.603 WARN    11 Query "Q2" timeout (1040 ms).  
+07.05.2018 16:49:54.603 WARN     8 Query "Q1" timeout (1090 ms).  
+07.05.2018 16:49:54.607 WARN    12 Query "Q6" timeout (1044 ms).  
+07.05.2018 16:49:54.609 WARN     9 Query "Q4" timeout (1046 ms).  
+07.05.2018 16:49:54.609 WARN     5 Query "Q3" timeout (1046 ms).  
+07.05.2018 16:49:54.609 WARN     4 Query "Q5" timeout (1046 ms).  
+07.05.2018 16:49:54.609 WARN     7 Query "Q7" timeout (1046 ms).  
+07.05.2018 16:49:54.612 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]07.05.2018 16:52:33.981 INFO     1 Testing Client.SimpleClient started  
+07.05.2018 16:52:35.073 WARN    11 Query "Q4" timeout (1025 ms).  
+07.05.2018 16:52:35.073 WARN    10 Query "Q2" timeout (1026 ms).  
+07.05.2018 16:52:35.073 WARN     5 Query "Q6" timeout (1026 ms).  
+07.05.2018 16:52:35.073 WARN    13 Query "Q3" timeout (1026 ms).  
+07.05.2018 16:52:35.073 WARN     8 Query "Q5" timeout (1026 ms).  
+07.05.2018 16:52:35.074 WARN     7 Query "Q7" timeout (1025 ms).  
+07.05.2018 16:52:35.074 WARN     4 Query "Q1" timeout (1072 ms).  
+07.05.2018 16:52:35.077 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]07.05.2018 16:53:11.905 INFO     1 Testing Client.SimpleClient started  
+07.05.2018 16:53:11.993 INFO    10 Response from http://127.0.0.1:666/do?query=Q6 received in 20 ms.  
+07.05.2018 16:53:11.993 INFO    12 Response from http://127.0.0.1:666/do?query=Q1 received in 34 ms.  
+07.05.2018 16:53:11.993 INFO     9 Response from http://127.0.0.1:666/do?query=Q7 received in 21 ms.  
+07.05.2018 16:53:11.994 INFO    10 Processed query "Q6" in 21 ms.  
+07.05.2018 16:53:11.994 INFO    12 Processed query "Q1" in 70 ms.  
+07.05.2018 16:53:11.994 INFO    11 Response from http://127.0.0.1:666/do?query=Q3 received in 22 ms.  
+07.05.2018 16:53:11.995 INFO    10 Response from http://127.0.0.1:666/do?query=Q2 received in 22 ms.  
+07.05.2018 16:53:11.996 INFO    11 Processed query "Q3" in 23 ms.  
+07.05.2018 16:53:11.996 INFO    11 Response from http://127.0.0.1:666/do?query=Q4 received in 24 ms.  
+07.05.2018 16:53:11.997 INFO     9 Processed query "Q7" in 25 ms.  
+07.05.2018 16:53:11.998 INFO    11 Processed query "Q4" in 26 ms.  
+07.05.2018 16:53:11.999 INFO    12 Response from http://127.0.0.1:666/do?query=Q5 received in 26 ms.  
+07.05.2018 16:53:12.000 INFO    10 Processed query "Q2" in 28 ms.  
+07.05.2018 16:53:12.011 INFO    12 Processed query "Q5" in 38 ms.  
+07.05.2018 16:53:12.014 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]07.05.2018 16:57:14.817 INFO     1 Testing Client.SimpleClient started  
+07.05.2018 16:57:14.900 INFO    10 Response from http://127.0.0.1:666/do?query=Q7 received in 15 ms.  
+07.05.2018 16:57:14.900 INFO     9 Response from http://127.0.0.1:666/do?query=Q2 received in 16 ms.  
+07.05.2018 16:57:14.900 INFO    11 Response from http://127.0.0.1:666/do?query=Q1 received in 29 ms.  
+07.05.2018 16:57:14.901 INFO    12 Response from http://127.0.0.1:666/do?query=Q3 received in 17 ms.  
+07.05.2018 16:57:14.902 INFO    10 Processed query "Q7" in 18 ms.  
+07.05.2018 16:57:14.904 INFO     9 Processed query "Q2" in 20 ms.  
+07.05.2018 16:57:14.905 INFO     9 Response from http://127.0.0.1:666/do?query=Q4 received in 21 ms.  
+07.05.2018 16:57:14.908 INFO     9 Processed query "Q4" in 23 ms.  
+07.05.2018 16:57:14.914 INFO    11 Processed query "Q1" in 77 ms.  
+07.05.2018 16:57:14.917 INFO    12 Processed query "Q3" in 33 ms.  
+07.05.2018 16:57:14.920 INFO    10 Response from http://127.0.0.1:666/do?query=Q6 received in 36 ms.  
+07.05.2018 16:57:14.926 INFO     9 Response from http://127.0.0.1:666/do?query=Q5 received in 42 ms.  
+07.05.2018 16:57:14.933 INFO    10 Processed query "Q6" in 48 ms.  
+07.05.2018 16:57:14.941 INFO     9 Processed query "Q5" in 57 ms.  
+07.05.2018 16:57:14.944 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]07.05.2018 17:18:07.167 INFO     1 Testing Client.SimpleClient started  
+07.05.2018 17:18:07.251 INFO     9 Response from http://127.0.0.1:666/do?query=Q2 received in 12 ms.  
+07.05.2018 17:18:07.252 INFO     9 Processed query "Q2" in 14 ms.  
+07.05.2018 17:18:07.254 INFO    11 Response from http://127.0.0.1:666/do?query=Q3 received in 16 ms.  
+07.05.2018 17:18:07.256 INFO     9 Response from http://127.0.0.1:666/do?query=Q5 received in 17 ms.  
+07.05.2018 17:18:07.257 INFO    12 Response from http://127.0.0.1:666/do?query=Q7 received in 18 ms.  
+07.05.2018 17:18:07.257 INFO    11 Processed query "Q3" in 19 ms.  
+07.05.2018 17:18:07.258 INFO    10 Response from http://127.0.0.1:666/do?query=Q4 received in 19 ms.  
+07.05.2018 17:18:07.259 INFO    12 Processed query "Q7" in 20 ms.  
+07.05.2018 17:18:07.264 INFO    12 Response from http://127.0.0.1:666/do?query=Q6 received in 25 ms.  
+07.05.2018 17:18:07.265 INFO     9 Processed query "Q5" in 26 ms.  
+07.05.2018 17:18:07.269 INFO    11 Response from http://127.0.0.1:666/do?query=Q1 received in 44 ms.  
+07.05.2018 17:18:07.270 INFO    10 Processed query "Q4" in 31 ms.  
+07.05.2018 17:18:07.271 INFO    12 Processed query "Q6" in 32 ms.  
+07.05.2018 17:18:07.277 INFO    11 Processed query "Q1" in 89 ms.  
+07.05.2018 17:18:07.281 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]07.05.2018 18:11:58.466 INFO     1 Testing Client.SimpleClient started  
+07.05.2018 18:11:59.554 WARN     7 Query "Q1" timeout (1063 ms).  
+07.05.2018 18:11:59.564 WARN     9 Query "Q4" timeout (1020 ms).  
+07.05.2018 18:11:59.564 WARN    12 Query "Q7" timeout (1020 ms).  
+07.05.2018 18:11:59.568 WARN     5 Query "Q6" timeout (1023 ms).  
+07.05.2018 18:11:59.569 WARN     4 Query "Q5" timeout (1024 ms).  
+07.05.2018 18:11:59.569 WARN    10 Query "Q3" timeout (1024 ms).  
+07.05.2018 18:11:59.569 WARN     8 Query "Q2" timeout (1025 ms).  
+07.05.2018 18:11:59.589 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]07.05.2018 18:12:06.055 INFO     1 Testing Client.SimpleClient started  
+07.05.2018 18:12:06.148 INFO     9 Response from http://127.0.0.1:666/do?query=Q3 received in 19 ms.  
+07.05.2018 18:12:06.149 INFO     9 Processed query "Q3" in 20 ms.  
+07.05.2018 18:12:06.151 INFO    12 Response from http://127.0.0.1:666/do?query=Q2 received in 22 ms.  
+07.05.2018 18:12:06.152 INFO    10 Response from http://127.0.0.1:666/do?query=Q5 received in 23 ms.  
+07.05.2018 18:12:06.155 INFO     9 Response from http://127.0.0.1:666/do?query=Q4 received in 26 ms.  
+07.05.2018 18:12:06.156 INFO    12 Processed query "Q2" in 28 ms.  
+07.05.2018 18:12:06.157 INFO    11 Response from http://127.0.0.1:666/do?query=Q1 received in 44 ms.  
+07.05.2018 18:12:06.163 INFO    12 Response from http://127.0.0.1:666/do?query=Q6 received in 34 ms.  
+07.05.2018 18:12:06.165 INFO    10 Processed query "Q5" in 37 ms.  
+07.05.2018 18:12:06.168 INFO     9 Processed query "Q4" in 39 ms.  
+07.05.2018 18:12:06.169 INFO    11 Processed query "Q1" in 93 ms.  
+07.05.2018 18:12:06.175 INFO    12 Processed query "Q6" in 46 ms.  
+07.05.2018 18:12:06.177 INFO    10 Response from http://127.0.0.1:666/do?query=Q7 received in 48 ms.  
+07.05.2018 18:12:06.182 INFO    10 Processed query "Q7" in 53 ms.  
+07.05.2018 18:12:06.189 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]07.05.2018 18:12:53.802 INFO     1 Testing Client.SimpleClient started  
+07.05.2018 18:12:53.913 INFO     9 Response from http://127.0.0.1:666/do?query=Q4 received in 25 ms.  
+07.05.2018 18:12:53.914 INFO     9 Processed query "Q4" in 27 ms.  
+07.05.2018 18:12:53.915 INFO    12 Response from http://127.0.0.1:666/do?query=Q2 received in 29 ms.  
+07.05.2018 18:12:53.916 INFO    10 Response from http://127.0.0.1:666/do?query=Q5 received in 30 ms.  
+07.05.2018 18:12:53.920 INFO    12 Processed query "Q2" in 35 ms.  
+07.05.2018 18:12:53.920 INFO     9 Response from http://127.0.0.1:666/do?query=Q1 received in 49 ms.  
+07.05.2018 18:12:53.927 INFO    11 Response from http://127.0.0.1:666/do?query=Q7 received in 40 ms.  
+07.05.2018 18:12:53.931 INFO    12 Response from http://127.0.0.1:666/do?query=Q6 received in 44 ms.  
+07.05.2018 18:12:53.931 INFO    10 Processed query "Q5" in 44 ms.  
+07.05.2018 18:12:53.934 INFO     9 Processed query "Q1" in 104 ms.  
+07.05.2018 18:12:53.939 INFO    11 Processed query "Q7" in 53 ms.  
+07.05.2018 18:12:53.941 INFO    12 Processed query "Q6" in 55 ms.  
+07.05.2018 18:12:53.943 INFO    10 Response from http://127.0.0.1:666/do?query=Q3 received in 58 ms.  
+07.05.2018 18:12:53.954 INFO    10 Processed query "Q3" in 68 ms.  
+07.05.2018 18:12:53.955 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]07.05.2018 18:23:17.298 INFO     1 Testing Client.SimpleClient started  
+07.05.2018 18:23:17.407 INFO    10 Response from http://127.0.0.1:666/do?query=Q6 received in 32 ms.  
+07.05.2018 18:23:17.409 INFO    10 Processed query "Q6" in 35 ms.  
+07.05.2018 18:23:17.410 INFO     9 Response from http://127.0.0.1:666/do?query=Q4 received in 36 ms.  
+07.05.2018 18:23:17.412 INFO    12 Response from http://127.0.0.1:666/do?query=Q7 received in 37 ms.  
+07.05.2018 18:23:17.414 INFO    10 Response from http://127.0.0.1:666/do?query=Q3 received in 40 ms.  
+07.05.2018 18:23:17.414 INFO     9 Processed query "Q4" in 40 ms.  
+07.05.2018 18:23:17.417 INFO    10 Processed query "Q3" in 43 ms.  
+07.05.2018 18:23:17.417 INFO    11 Response from http://127.0.0.1:666/do?query=Q1 received in 59 ms.  
+07.05.2018 18:23:17.426 INFO    10 Response from http://127.0.0.1:666/do?query=Q5 received in 52 ms.  
+07.05.2018 18:23:17.429 INFO    12 Processed query "Q7" in 55 ms.  
+07.05.2018 18:23:17.432 INFO     9 Response from http://127.0.0.1:666/do?query=Q2 received in 58 ms.  
+07.05.2018 18:23:17.433 INFO    11 Processed query "Q1" in 113 ms.  
+07.05.2018 18:23:17.440 INFO    10 Processed query "Q5" in 67 ms.  
+07.05.2018 18:23:17.444 INFO     9 Processed query "Q2" in 71 ms.  
+07.05.2018 18:23:17.447 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]07.05.2018 18:23:42.918 INFO     1 Testing Client.SimpleClient started  
+07.05.2018 18:23:43.018 INFO    11 Response from http://127.0.0.1:666/do?query=Q6 received in 28 ms.  
+07.05.2018 18:23:43.019 INFO    11 Processed query "Q6" in 30 ms.  
+07.05.2018 18:23:43.034 INFO    11 Response from http://127.0.0.1:666/do?query=Q4 received in 44 ms.  
+07.05.2018 18:23:43.039 INFO    11 Processed query "Q4" in 49 ms.  
+07.05.2018 18:23:43.039 INFO    12 Response from http://127.0.0.1:666/do?query=Q7 received in 50 ms.  
+07.05.2018 18:23:43.042 INFO     9 Response from http://127.0.0.1:666/do?query=Q5 received in 52 ms.  
+07.05.2018 18:23:43.046 INFO    10 Response from http://127.0.0.1:666/do?query=Q3 received in 57 ms.  
+07.05.2018 18:23:43.050 INFO    12 Processed query "Q7" in 61 ms.  
+07.05.2018 18:23:43.053 INFO    11 Response from http://127.0.0.1:666/do?query=Q2 received in 64 ms.  
+07.05.2018 18:23:43.055 INFO     9 Processed query "Q5" in 65 ms.  
+07.05.2018 18:23:43.060 INFO    10 Processed query "Q3" in 71 ms.  
+07.05.2018 18:23:43.062 INFO    12 Response from http://127.0.0.1:666/do?query=Q1 received in 86 ms.  
+07.05.2018 18:23:43.065 INFO    11 Processed query "Q2" in 77 ms.  
+07.05.2018 18:23:43.072 INFO    12 Processed query "Q1" in 132 ms.  
+07.05.2018 18:23:43.076 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]07.05.2018 18:23:46.913 INFO     1 Testing Client.SimpleClient started  
+07.05.2018 18:23:47.013 INFO    12 Response from http://127.0.0.1:666/do?query=Q5 received in 25 ms.  
+07.05.2018 18:23:47.014 INFO    12 Processed query "Q5" in 27 ms.  
+07.05.2018 18:23:47.017 INFO    11 Response from http://127.0.0.1:666/do?query=Q1 received in 43 ms.  
+07.05.2018 18:23:47.021 INFO    12 Response from http://127.0.0.1:666/do?query=Q6 received in 33 ms.  
+07.05.2018 18:23:47.023 INFO    10 Response from http://127.0.0.1:666/do?query=Q4 received in 35 ms.  
+07.05.2018 18:23:47.027 INFO    11 Processed query "Q1" in 91 ms.  
+07.05.2018 18:23:47.029 INFO     9 Response from http://127.0.0.1:666/do?query=Q7 received in 42 ms.  
+07.05.2018 18:23:47.030 INFO    12 Processed query "Q6" in 43 ms.  
+07.05.2018 18:23:47.033 INFO    10 Processed query "Q4" in 46 ms.  
+07.05.2018 18:23:47.043 INFO    11 Response from http://127.0.0.1:666/do?query=Q3 received in 56 ms.  
+07.05.2018 18:23:47.044 INFO     9 Processed query "Q7" in 57 ms.  
+07.05.2018 18:23:47.046 INFO    12 Response from http://127.0.0.1:666/do?query=Q2 received in 59 ms.  
+07.05.2018 18:23:47.049 INFO    11 Processed query "Q3" in 62 ms.  
+07.05.2018 18:23:47.055 INFO    12 Processed query "Q2" in 68 ms.  
+07.05.2018 18:23:47.060 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]07.05.2018 18:24:33.340 INFO     1 Testing Client.SimpleClient started  
+07.05.2018 18:24:33.460 INFO    10 Response from http://127.0.0.1:666/do?query=Q4 received in 44 ms.  
+07.05.2018 18:24:33.461 INFO    10 Processed query "Q4" in 46 ms.  
+07.05.2018 18:24:33.462 INFO    11 Response from http://127.0.0.1:666/do?query=Q1 received in 62 ms.  
+07.05.2018 18:24:33.463 INFO    12 Response from http://127.0.0.1:666/do?query=Q3 received in 49 ms.  
+07.05.2018 18:24:33.465 INFO    11 Processed query "Q1" in 103 ms.  
+07.05.2018 18:24:33.465 INFO    10 Response from http://127.0.0.1:666/do?query=Q2 received in 50 ms.  
+07.05.2018 18:24:33.470 INFO    11 Response from http://127.0.0.1:666/do?query=Q6 received in 55 ms.  
+07.05.2018 18:24:33.474 INFO     9 Response from http://127.0.0.1:666/do?query=Q5 received in 59 ms.  
+07.05.2018 18:24:33.478 INFO    12 Processed query "Q3" in 63 ms.  
+07.05.2018 18:24:33.479 INFO    10 Processed query "Q2" in 65 ms.  
+07.05.2018 18:24:33.481 INFO    11 Processed query "Q6" in 66 ms.  
+07.05.2018 18:24:33.487 INFO     9 Processed query "Q5" in 72 ms.  
+07.05.2018 18:24:33.488 INFO    12 Response from http://127.0.0.1:666/do?query=Q7 received in 73 ms.  
+07.05.2018 18:24:33.494 INFO    12 Processed query "Q7" in 79 ms.  
+07.05.2018 18:24:33.498 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]07.05.2018 18:25:36.778 INFO     1 Testing Client.SimpleClient started  
+07.05.2018 18:25:36.908 INFO    12 Response from http://127.0.0.1:666/do?query=Q4 received in 48 ms.  
+07.05.2018 18:25:36.911 INFO    11 Response from http://127.0.0.1:666/do?query=Q6 received in 52 ms.  
+07.05.2018 18:25:36.911 INFO    12 Processed query "Q4" in 52 ms.  
+07.05.2018 18:25:36.912 INFO    10 Response from http://127.0.0.1:666/do?query=Q7 received in 53 ms.  
+07.05.2018 18:25:36.914 INFO    11 Processed query "Q6" in 55 ms.  
+07.05.2018 18:25:36.914 INFO     9 Response from http://127.0.0.1:666/do?query=Q3 received in 56 ms.  
+07.05.2018 18:25:36.925 INFO    11 Response from http://127.0.0.1:666/do?query=Q5 received in 66 ms.  
+07.05.2018 18:25:36.927 INFO     9 Processed query "Q3" in 68 ms.  
+07.05.2018 18:25:36.931 INFO    10 Processed query "Q7" in 72 ms.  
+07.05.2018 18:25:36.943 INFO    12 Response from http://127.0.0.1:666/do?query=Q1 received in 99 ms.  
+07.05.2018 18:25:36.949 INFO    11 Processed query "Q5" in 90 ms.  
+07.05.2018 18:25:36.960 INFO     9 Response from http://127.0.0.1:666/do?query=Q2 received in 101 ms.  
+07.05.2018 18:25:36.964 INFO     9 Processed query "Q2" in 106 ms.  
+07.05.2018 18:25:36.973 INFO    12 Processed query "Q1" in 173 ms.  
+07.05.2018 18:25:36.977 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]07.05.2018 18:26:15.495 INFO     1 Testing Client.SimpleClient started  
+07.05.2018 18:26:15.637 INFO    12 Response from http://127.0.0.1:666/do?query=Q2 received in 66 ms.  
+07.05.2018 18:26:15.638 INFO    12 Processed query "Q2" in 68 ms.  
+07.05.2018 18:26:15.639 INFO    10 Response from http://127.0.0.1:666/do?query=Q6 received in 69 ms.  
+07.05.2018 18:26:15.640 INFO     9 Response from http://127.0.0.1:666/do?query=Q5 received in 69 ms.  
+07.05.2018 18:26:15.642 INFO    12 Response from http://127.0.0.1:666/do?query=Q4 received in 71 ms.  
+07.05.2018 18:26:15.644 INFO    10 Processed query "Q6" in 73 ms.  
+07.05.2018 18:26:15.647 INFO    10 Response from http://127.0.0.1:666/do?query=Q1 received in 91 ms.  
+07.05.2018 18:26:15.651 INFO    11 Response from http://127.0.0.1:666/do?query=Q7 received in 80 ms.  
+07.05.2018 18:26:15.655 INFO     9 Processed query "Q5" in 84 ms.  
+07.05.2018 18:26:15.656 INFO    12 Processed query "Q4" in 85 ms.  
+07.05.2018 18:26:15.657 INFO    10 Processed query "Q1" in 139 ms.  
+07.05.2018 18:26:15.660 INFO    12 Response from http://127.0.0.1:666/do?query=Q3 received in 89 ms.  
+07.05.2018 18:26:15.661 INFO    11 Processed query "Q7" in 90 ms.  
+07.05.2018 18:26:15.669 INFO    12 Processed query "Q3" in 99 ms.  
+07.05.2018 18:26:15.672 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]07.05.2018 18:27:11.077 INFO     1 Testing Client.SimpleClient started  
+07.05.2018 18:27:11.269 INFO    12 Response from http://127.0.0.1:666/do?query=Q7 received in 123 ms.  
+07.05.2018 18:27:11.270 INFO    12 Processed query "Q7" in 125 ms.  
+07.05.2018 18:27:11.271 INFO    10 Response from http://127.0.0.1:666/do?query=Q3 received in 126 ms.  
+07.05.2018 18:27:11.273 INFO    11 Response from http://127.0.0.1:666/do?query=Q1 received in 141 ms.  
+07.05.2018 18:27:11.274 INFO    10 Processed query "Q3" in 129 ms.  
+07.05.2018 18:27:11.275 INFO    12 Response from http://127.0.0.1:666/do?query=Q4 received in 130 ms.  
+07.05.2018 18:27:11.277 INFO    10 Response from http://127.0.0.1:666/do?query=Q5 received in 132 ms.  
+07.05.2018 18:27:11.280 INFO     9 Response from http://127.0.0.1:666/do?query=Q2 received in 135 ms.  
+07.05.2018 18:27:11.283 INFO    12 Processed query "Q4" in 138 ms.  
+07.05.2018 18:27:11.286 INFO    11 Processed query "Q1" in 189 ms.  
+07.05.2018 18:27:11.288 INFO    10 Processed query "Q5" in 143 ms.  
+07.05.2018 18:27:11.289 INFO     9 Processed query "Q2" in 145 ms.  
+07.05.2018 18:27:11.291 INFO    12 Response from http://127.0.0.1:666/do?query=Q6 received in 146 ms.  
+07.05.2018 18:27:11.302 INFO    12 Processed query "Q6" in 158 ms.  
+07.05.2018 18:27:11.304 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]07.05.2018 18:30:22.248 INFO     1 Testing Client.SimpleClient started  
+07.05.2018 18:30:22.442 INFO    12 Response from http://127.0.0.1:666/do?query=Q1 received in 141 ms.  
+07.05.2018 18:30:22.445 INFO     9 Response from http://127.0.0.1:666/do?query=Q7 received in 130 ms.  
+07.05.2018 18:30:22.446 INFO    10 Response from http://127.0.0.1:666/do?query=Q3 received in 132 ms.  
+07.05.2018 18:30:22.447 INFO    11 Response from http://127.0.0.1:666/do?query=Q4 received in 133 ms.  
+07.05.2018 18:30:22.449 INFO    12 Processed query "Q1" in 182 ms.  
+07.05.2018 18:30:22.451 INFO     9 Processed query "Q7" in 137 ms.  
+07.05.2018 18:30:22.454 INFO     9 Response from http://127.0.0.1:666/do?query=Q6 received in 140 ms.  
+07.05.2018 18:30:22.457 INFO     9 Processed query "Q6" in 143 ms.  
+07.05.2018 18:30:22.462 INFO     9 Response from http://127.0.0.1:666/do?query=Q5 received in 148 ms.  
+07.05.2018 18:30:22.464 INFO     9 Processed query "Q5" in 150 ms.  
+07.05.2018 18:30:22.467 INFO     9 Response from http://127.0.0.1:666/do?query=Q2 received in 153 ms.  
+07.05.2018 18:30:22.473 INFO    11 Processed query "Q4" in 159 ms.  
+07.05.2018 18:30:22.475 INFO    10 Processed query "Q3" in 162 ms.  
+07.05.2018 18:30:22.477 INFO     9 Processed query "Q2" in 163 ms.  
+07.05.2018 18:30:22.480 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]07.05.2018 18:30:34.128 INFO     1 Testing Client.SimpleClient started  
+07.05.2018 18:30:34.333 INFO    10 Response from [http://127.0.0.1:666/do?query=Q3] received in 133 ms.  
+07.05.2018 18:30:34.335 INFO    10 Processed query "Q3" in 136 ms.  
+07.05.2018 18:30:34.335 INFO     9 Response from [http://127.0.0.1:666/do?query=Q1] received in 149 ms.  
+07.05.2018 18:30:34.337 INFO    10 Response from [http://127.0.0.1:666/do?query=Q7] received in 138 ms.  
+07.05.2018 18:30:34.340 INFO    12 Response from [http://127.0.0.1:666/do?query=Q6] received in 141 ms.  
+07.05.2018 18:30:34.340 INFO     9 Processed query "Q1" in 191 ms.  
+07.05.2018 18:30:34.343 INFO    12 Processed query "Q6" in 143 ms.  
+07.05.2018 18:30:34.345 INFO    11 Response from [http://127.0.0.1:666/do?query=Q5] received in 145 ms.  
+07.05.2018 18:30:34.350 INFO    12 Response from [http://127.0.0.1:666/do?query=Q2] received in 151 ms.  
+07.05.2018 18:30:34.352 INFO    10 Processed query "Q7" in 153 ms.  
+07.05.2018 18:30:34.355 INFO     9 Response from [http://127.0.0.1:666/do?query=Q4] received in 155 ms.  
+07.05.2018 18:30:34.359 INFO    11 Processed query "Q5" in 159 ms.  
+07.05.2018 18:30:34.360 INFO    12 Processed query "Q2" in 161 ms.  
+07.05.2018 18:30:34.363 INFO     9 Processed query "Q4" in 164 ms.  
+07.05.2018 18:30:34.371 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]07.05.2018 18:32:35.603 INFO     1 Testing Client.SimpleClient started  
+07.05.2018 18:32:35.801 INFO    12 Response from [666,?query=Q4] received in 123 ms.  
+07.05.2018 18:32:35.803 INFO     9 Response from [666,?query=Q1] received in 140 ms.  
+07.05.2018 18:32:35.804 INFO    10 Response from [666,?query=Q3] received in 127 ms.  
+07.05.2018 18:32:35.807 INFO    12 Query processed [Q4] in 129 ms.  
+07.05.2018 18:32:35.808 INFO     9 Query processed [Q1] in 183 ms.  
+07.05.2018 18:32:35.815 INFO     9 Response from [666,?query=Q7] received in 137 ms.  
+07.05.2018 18:32:35.817 INFO    11 Response from [666,?query=Q2] received in 140 ms.  
+07.05.2018 18:32:35.820 INFO    10 Query processed [Q3] in 143 ms.  
+07.05.2018 18:32:35.823 INFO    11 Query processed [Q2] in 145 ms.  
+07.05.2018 18:32:35.826 INFO    12 Response from [666,?query=Q6] received in 149 ms.  
+07.05.2018 18:32:35.828 INFO     9 Query processed [Q7] in 150 ms.  
+07.05.2018 18:32:35.829 INFO    10 Response from [666,?query=Q5] received in 152 ms.  
+07.05.2018 18:32:35.831 INFO    12 Query processed [Q6] in 154 ms.  
+07.05.2018 18:32:35.834 INFO    10 Query processed [Q5] in 156 ms.  
+07.05.2018 18:32:35.840 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]07.05.2018 18:34:57.678 INFO     1 Testing Client.SimpleClient started  
+07.05.2018 18:34:57.871 INFO    12 Response from [666,?query=Q7] received in 119 ms.  
+07.05.2018 18:34:57.872 INFO    12 Query processed [Q7] in 122 ms.  
+07.05.2018 18:34:57.874 INFO    10 Response from [666,?query=Q6] received in 123 ms.  
+07.05.2018 18:34:57.876 INFO    10 Query processed [Q6] in 125 ms.  
+07.05.2018 18:34:57.876 INFO    11 Response from [666,?query=Q3] received in 126 ms.  
+07.05.2018 18:34:57.878 INFO    12 Response from [666,?query=Q5] received in 128 ms.  
+07.05.2018 18:34:57.880 INFO    10 Response from [666,?query=Q1] received in 145 ms.  
+07.05.2018 18:34:57.881 INFO    11 Query processed [Q3] in 130 ms.  
+07.05.2018 18:34:57.885 INFO     9 Response from [666,?query=Q4] received in 134 ms.  
+07.05.2018 18:34:57.886 INFO    10 Query processed [Q1] in 186 ms.  
+07.05.2018 18:34:57.889 INFO    12 Query processed [Q5] in 138 ms.  
+07.05.2018 18:34:57.891 INFO    11 Response from [666,?query=Q2] received in 141 ms.  
+07.05.2018 18:34:57.892 INFO     9 Query processed [Q4] in 141 ms.  
+07.05.2018 18:34:57.901 INFO    11 Query processed [Q2] in 151 ms.  
+07.05.2018 18:34:57.904 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]07.05.2018 18:35:21.487 INFO     1 Testing Client.SimpleClient started  
+07.05.2018 18:35:21.725 INFO    11 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 163 ms.  
+07.05.2018 18:35:21.745 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 183 ms.  
+07.05.2018 18:35:21.745 INFO     9 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 184 ms.  
+07.05.2018 18:35:21.750 INFO    12 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 188 ms.  
+07.05.2018 18:35:21.751 INFO    10 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 190 ms.  
+07.05.2018 18:35:21.753 INFO    11 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 192 ms.  
+07.05.2018 18:35:21.754 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 192 ms.  
+07.05.2018 18:35:21.757 INFO     9 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 195 ms.  
+07.05.2018 18:35:21.759 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 198 ms.  
+07.05.2018 18:35:21.766 INFO     9 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 205 ms.  
+07.05.2018 18:35:21.768 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 207 ms.  
+07.05.2018 18:35:21.775 INFO     9 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 214 ms.  
+07.05.2018 18:35:21.781 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 219 ms.  
+07.05.2018 18:35:21.787 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 226 ms.  
+07.05.2018 18:35:21.794 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 233 ms.  
+07.05.2018 18:35:21.799 INFO    12 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 236 ms.  
+07.05.2018 18:35:21.802 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 239 ms.  
+07.05.2018 18:35:21.812 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 251 ms.  
+07.05.2018 18:35:21.816 INFO     9 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 254 ms.  
+07.05.2018 18:35:21.828 INFO    12 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 267 ms.  
+07.05.2018 18:35:21.830 INFO    10 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 269 ms.  
+07.05.2018 18:35:21.837 INFO    11 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 275 ms.  
+07.05.2018 18:35:21.846 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 285 ms.  
+07.05.2018 18:35:21.849 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 287 ms.  
+07.05.2018 18:35:21.854 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 292 ms.  
+07.05.2018 18:35:21.861 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 299 ms.  
+07.05.2018 18:35:21.866 INFO    12 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 305 ms.  
+07.05.2018 18:35:21.871 INFO     9 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 310 ms.  
+07.05.2018 18:35:21.876 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 314 ms.  
+07.05.2018 18:35:21.883 INFO    10 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 322 ms.  
+07.05.2018 18:35:21.887 INFO    11 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 326 ms.  
+07.05.2018 18:35:21.894 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 333 ms.  
+07.05.2018 18:35:21.897 INFO     9 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 336 ms.  
+07.05.2018 18:35:21.900 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 339 ms.  
+07.05.2018 18:35:21.907 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 346 ms.  
+07.05.2018 18:35:21.911 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 350 ms.  
+07.05.2018 18:35:21.919 INFO    12 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 357 ms.  
+07.05.2018 18:35:21.921 INFO     9 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 360 ms.  
+07.05.2018 18:35:21.928 INFO    10 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 367 ms.  
+07.05.2018 18:35:21.934 INFO    11 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 373 ms.  
+07.05.2018 18:35:21.939 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 378 ms.  
+07.05.2018 18:35:21.945 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 384 ms.  
+07.05.2018 18:35:21.953 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 392 ms.  
+07.05.2018 18:35:21.961 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 400 ms.  
+07.05.2018 18:35:21.966 INFO    12 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 405 ms.  
+07.05.2018 18:35:21.973 INFO     9 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 412 ms.  
+07.05.2018 18:35:21.979 INFO    10 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 418 ms.  
+07.05.2018 18:35:21.987 INFO    11 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 426 ms.  
+07.05.2018 18:35:21.992 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 431 ms.  
+07.05.2018 18:35:22.000 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 439 ms.  
+07.05.2018 18:35:22.004 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 444 ms.  
+07.05.2018 18:35:22.010 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 449 ms.  
+07.05.2018 18:35:22.016 INFO    12 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 455 ms.  
+07.05.2018 18:35:22.023 INFO     9 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 462 ms.  
+07.05.2018 18:35:22.028 INFO    10 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 467 ms.  
+07.05.2018 18:35:22.035 INFO    11 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 474 ms.  
+07.05.2018 18:35:22.039 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 478 ms.  
+07.05.2018 18:35:22.046 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 485 ms.  
+07.05.2018 18:35:22.053 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 492 ms.  
+07.05.2018 18:35:22.058 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 497 ms.  
+07.05.2018 18:35:22.066 INFO    12 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 506 ms.  
+07.05.2018 18:35:22.071 INFO     9 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 509 ms.  
+07.05.2018 18:35:22.082 INFO    10 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 522 ms.  
+07.05.2018 18:35:22.083 INFO    11 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 522 ms.  
+07.05.2018 18:35:22.090 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 531 ms.  
+07.05.2018 18:35:22.095 INFO    14 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 533 ms.  
+07.05.2018 18:35:22.096 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 534 ms.  
+07.05.2018 18:35:22.103 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 542 ms.  
+07.05.2018 18:35:22.107 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 545 ms.  
+07.05.2018 18:35:22.117 INFO    12 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 556 ms.  
+07.05.2018 18:35:22.121 INFO    14 Query processed [abcdefghijklmnopqrstuvwxwz] in 559 ms.  
+07.05.2018 18:35:22.125 INFO     9 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 564 ms.  
+07.05.2018 18:35:22.131 INFO    10 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 570 ms.  
+07.05.2018 18:35:22.136 INFO    11 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 576 ms.  
+07.05.2018 18:35:22.143 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 582 ms.  
+07.05.2018 18:35:22.147 INFO    14 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 587 ms.  
+07.05.2018 18:35:22.150 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 588 ms.  
+07.05.2018 18:35:22.155 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 594 ms.  
+07.05.2018 18:35:22.159 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 598 ms.  
+07.05.2018 18:35:22.165 INFO    12 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 604 ms.  
+07.05.2018 18:35:22.169 INFO    14 Query processed [abcdefghijklmnopqrstuvwxwz] in 608 ms.  
+07.05.2018 18:35:22.175 INFO     9 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 614 ms.  
+07.05.2018 18:35:22.179 INFO    10 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 618 ms.  
+07.05.2018 18:35:22.182 INFO    11 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 621 ms.  
+07.05.2018 18:35:22.190 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 629 ms.  
+07.05.2018 18:35:22.192 INFO    14 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 632 ms.  
+07.05.2018 18:35:22.198 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 638 ms.  
+07.05.2018 18:35:22.204 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 643 ms.  
+07.05.2018 18:35:22.212 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 651 ms.  
+07.05.2018 18:35:22.217 INFO    12 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 657 ms.  
+07.05.2018 18:35:22.226 INFO    14 Query processed [abcdefghijklmnopqrstuvwxwz] in 665 ms.  
+07.05.2018 18:35:22.229 INFO     9 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 669 ms.  
+07.05.2018 18:35:22.237 INFO    10 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 677 ms.  
+07.05.2018 18:35:22.241 INFO    11 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 680 ms.  
+07.05.2018 18:35:22.247 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 687 ms.  
+07.05.2018 18:35:22.252 INFO    14 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 692 ms.  
+07.05.2018 18:35:22.256 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 695 ms.  
+07.05.2018 18:35:22.264 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 704 ms.  
+07.05.2018 18:35:22.272 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 712 ms.  
+07.05.2018 18:35:22.277 INFO    12 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 717 ms.  
+07.05.2018 18:35:22.285 INFO    14 Query processed [abcdefghijklmnopqrstuvwxwz] in 725 ms.  
+07.05.2018 18:35:22.289 INFO     9 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 729 ms.  
+07.05.2018 18:35:22.297 INFO    10 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 737 ms.  
+07.05.2018 18:35:22.301 INFO    11 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 741 ms.  
+07.05.2018 18:35:22.309 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 749 ms.  
+07.05.2018 18:35:22.314 INFO    14 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 754 ms.  
+07.05.2018 18:35:22.316 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 756 ms.  
+07.05.2018 18:35:22.321 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 761 ms.  
+07.05.2018 18:35:22.324 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 764 ms.  
+07.05.2018 18:35:22.327 INFO    12 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 766 ms.  
+07.05.2018 18:35:22.331 INFO    14 Query processed [abcdefghijklmnopqrstuvwxwz] in 771 ms.  
+07.05.2018 18:35:22.334 INFO     9 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 774 ms.  
+07.05.2018 18:35:22.336 INFO    10 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 776 ms.  
+07.05.2018 18:35:22.338 INFO    11 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 779 ms.  
+07.05.2018 18:35:22.342 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 782 ms.  
+07.05.2018 18:35:22.346 INFO    14 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 786 ms.  
+07.05.2018 18:35:22.349 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 789 ms.  
+07.05.2018 18:35:22.356 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 796 ms.  
+07.05.2018 18:35:22.363 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 804 ms.  
+07.05.2018 18:35:22.368 INFO    12 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 807 ms.  
+07.05.2018 18:35:22.369 INFO    14 Query processed [abcdefghijklmnopqrstuvwxwz] in 809 ms.  
+07.05.2018 18:35:22.379 INFO     9 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 819 ms.  
+07.05.2018 18:35:22.383 INFO    10 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 823 ms.  
+07.05.2018 18:35:22.388 INFO    11 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 828 ms.  
+07.05.2018 18:35:22.393 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 833 ms.  
+07.05.2018 18:35:22.398 INFO    14 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 839 ms.  
+07.05.2018 18:35:22.402 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 842 ms.  
+07.05.2018 18:35:22.410 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 851 ms.  
+07.05.2018 18:35:22.413 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 853 ms.  
+07.05.2018 18:35:22.415 INFO    12 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 856 ms.  
+07.05.2018 18:35:22.421 INFO    14 Query processed [abcdefghijklmnopqrstuvwxwz] in 861 ms.  
+07.05.2018 18:35:22.423 INFO     9 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 863 ms.  
+07.05.2018 18:35:22.425 INFO    10 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 865 ms.  
+07.05.2018 18:35:22.428 INFO    11 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 868 ms.  
+07.05.2018 18:35:22.432 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 873 ms.  
+07.05.2018 18:35:22.435 INFO    14 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 876 ms.  
+07.05.2018 18:35:22.438 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 878 ms.  
+07.05.2018 18:35:22.442 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 882 ms.  
+07.05.2018 18:35:22.444 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 885 ms.  
+07.05.2018 18:35:22.446 INFO    12 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 887 ms.  
+07.05.2018 18:35:22.448 INFO    14 Query processed [abcdefghijklmnopqrstuvwxwz] in 888 ms.  
+07.05.2018 18:35:22.454 INFO     9 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 894 ms.  
+07.05.2018 18:35:22.456 INFO    10 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 896 ms.  
+07.05.2018 18:35:22.458 INFO    11 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 898 ms.  
+07.05.2018 18:35:22.460 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 901 ms.  
+07.05.2018 18:35:22.465 INFO    14 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 905 ms.  
+07.05.2018 18:35:22.467 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 907 ms.  
+07.05.2018 18:35:22.470 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 910 ms.  
+07.05.2018 18:35:22.472 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 912 ms.  
+07.05.2018 18:35:22.477 INFO    12 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 917 ms.  
+07.05.2018 18:35:22.479 INFO    14 Query processed [abcdefghijklmnopqrstuvwxwz] in 920 ms.  
+07.05.2018 18:35:22.482 INFO     9 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 923 ms.  
+07.05.2018 18:35:22.486 INFO    10 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 927 ms.  
+07.05.2018 18:35:22.491 INFO    11 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 931 ms.  
+07.05.2018 18:35:22.491 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 931 ms.  
+07.05.2018 18:35:22.494 INFO    14 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 935 ms.  
+07.05.2018 18:35:22.499 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 939 ms.  
+07.05.2018 18:35:22.502 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 942 ms.  
+07.05.2018 18:35:22.504 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 945 ms.  
+07.05.2018 18:35:22.509 INFO    12 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 949 ms.  
+07.05.2018 18:35:22.512 INFO    14 Query processed [abcdefghijklmnopqrstuvwxwz] in 953 ms.  
+07.05.2018 18:35:22.516 INFO     9 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 957 ms.  
+07.05.2018 18:35:22.520 INFO    10 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 961 ms.  
+07.05.2018 18:35:22.522 INFO    11 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 963 ms.  
+07.05.2018 18:35:22.524 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 965 ms.  
+07.05.2018 18:35:22.530 INFO    14 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 970 ms.  
+07.05.2018 18:35:22.531 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 972 ms.  
+07.05.2018 18:35:22.533 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 974 ms.  
+07.05.2018 18:35:22.535 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 976 ms.  
+07.05.2018 18:35:22.537 INFO    12 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 978 ms.  
+07.05.2018 18:35:22.541 INFO    14 Query processed [abcdefghijklmnopqrstuvwxwz] in 982 ms.  
+07.05.2018 18:35:22.544 INFO     9 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 985 ms.  
+07.05.2018 18:35:22.547 INFO    10 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 987 ms.  
+07.05.2018 18:35:22.551 INFO    11 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 992 ms.  
+07.05.2018 18:35:22.553 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 994 ms.  
+07.05.2018 18:35:22.555 INFO    14 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 996 ms.  
+07.05.2018 18:35:22.561 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 1001 ms.  
+07.05.2018 18:35:22.562 INFO    15 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 1003 ms.  
+07.05.2018 18:35:22.563 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 1004 ms.  
+07.05.2018 18:35:22.565 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 1006 ms.  
+07.05.2018 18:35:22.568 INFO    12 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 1009 ms.  
+07.05.2018 18:35:22.569 WARN     5 Query [abcdefghijklmnopqrstuvwxwz] timeout (1010 ms).  
+07.05.2018 18:35:22.569 WARN     7 Query [abcdefghijklmnopqrstuvwxwz] timeout (1010 ms).  
+07.05.2018 18:35:22.570 WARN     4 Query [abcdefghijklmnopqrstuvwxwz] timeout (1011 ms).  
+07.05.2018 18:35:22.571 WARN    13 Query [abcdefghijklmnopqrstuvwxwz] timeout (1013 ms).  
+07.05.2018 18:35:22.571 WARN     8 Query [abcdefghijklmnopqrstuvwxwz] timeout (1013 ms).  
+07.05.2018 18:35:22.573 INFO    14 Query processed [abcdefghijklmnopqrstuvwxwz] in 1014 ms.  
+07.05.2018 18:35:22.576 WARN    13 Query [abcdefghijklmnopqrstuvwxwz] timeout (1017 ms).  
+07.05.2018 18:35:22.578 INFO    15 Query processed [abcdefghijklmnopqrstuvwxwz] in 1019 ms.  
+07.05.2018 18:35:22.584 INFO     9 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 1024 ms.  
+07.05.2018 18:35:22.586 INFO    10 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 1028 ms.  
+07.05.2018 18:35:22.589 INFO    11 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 1030 ms.  
+07.05.2018 18:35:22.594 WARN     5 Query [abcdefghijklmnopqrstuvwxwz] timeout (1031 ms).  
+07.05.2018 18:35:22.596 WARN     7 Query [abcdefghijklmnopqrstuvwxwz] timeout (1037 ms).  
+07.05.2018 18:35:22.598 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 1039 ms.  
+07.05.2018 18:35:22.600 WARN     4 Query [abcdefghijklmnopqrstuvwxwz] timeout (1041 ms).  
+07.05.2018 18:35:22.605 WARN     8 Query [abcdefghijklmnopqrstuvwxwz] timeout (1046 ms).  
+07.05.2018 18:35:22.608 INFO    14 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 1048 ms.  
+07.05.2018 18:35:22.610 WARN    13 Query [abcdefghijklmnopqrstuvwxwz] timeout (1051 ms).  
+07.05.2018 18:35:22.612 INFO    15 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 1053 ms.  
+07.05.2018 18:35:22.616 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 1057 ms.  
+07.05.2018 18:35:22.618 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 1059 ms.  
+07.05.2018 18:35:22.620 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 1061 ms.  
+07.05.2018 18:35:22.622 WARN     5 Query [abcdefghijklmnopqrstuvwxwz] timeout (1064 ms).  
+07.05.2018 18:35:22.627 WARN     7 Query [abcdefghijklmnopqrstuvwxwz] timeout (1069 ms).  
+07.05.2018 18:35:22.630 INFO    12 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 1071 ms.  
+07.05.2018 18:35:22.632 WARN     4 Query [abcdefghijklmnopqrstuvwxwz] timeout (1073 ms).  
+07.05.2018 18:35:22.637 WARN     8 Query [abcdefghijklmnopqrstuvwxwz] timeout (1078 ms).  
+07.05.2018 18:35:22.639 INFO    14 Query processed [abcdefghijklmnopqrstuvwxwz] in 1080 ms.  
+07.05.2018 18:35:22.641 WARN    13 Query [abcdefghijklmnopqrstuvwxwz] timeout (1083 ms).  
+07.05.2018 18:35:22.643 INFO    15 Query processed [abcdefghijklmnopqrstuvwxwz] in 1084 ms.  
+07.05.2018 18:35:22.647 INFO     9 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 1088 ms.  
+07.05.2018 18:35:22.650 INFO    10 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 1091 ms.  
+07.05.2018 18:35:22.653 INFO    11 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 1094 ms.  
+07.05.2018 18:35:22.656 WARN     5 Query [abcdefghijklmnopqrstuvwxwz] timeout (1097 ms).  
+07.05.2018 18:35:22.660 WARN     7 Query [abcdefghijklmnopqrstuvwxwz] timeout (1102 ms).  
+07.05.2018 18:35:22.663 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 1104 ms.  
+07.05.2018 18:35:22.665 WARN     4 Query [abcdefghijklmnopqrstuvwxwz] timeout (1106 ms).  
+07.05.2018 18:35:22.667 WARN     8 Query [abcdefghijklmnopqrstuvwxwz] timeout (1108 ms).  
+07.05.2018 18:35:22.671 INFO    14 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 1112 ms.  
+07.05.2018 18:35:22.674 WARN    13 Query [abcdefghijklmnopqrstuvwxwz] timeout (1116 ms).  
+07.05.2018 18:35:22.677 INFO    15 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 1118 ms.  
+07.05.2018 18:35:22.682 INFO     9 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 1123 ms.  
+07.05.2018 18:35:22.685 INFO    10 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 1126 ms.  
+07.05.2018 18:35:22.688 INFO    11 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 1129 ms.  
+07.05.2018 18:35:22.692 WARN     5 Query [abcdefghijklmnopqrstuvwxwz] timeout (1134 ms).  
+07.05.2018 18:35:22.695 WARN     7 Query [abcdefghijklmnopqrstuvwxwz] timeout (1137 ms).  
+07.05.2018 18:35:22.705 INFO    12 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 1146 ms.  
+07.05.2018 18:35:22.706 WARN     4 Query [abcdefghijklmnopqrstuvwxwz] timeout (1199 ms).  
+07.05.2018 18:35:22.709 WARN     8 Query [abcdefghijklmnopqrstuvwxwz] timeout (1146 ms).  
+07.05.2018 18:35:22.719 INFO    14 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 1160 ms.  
+07.05.2018 18:35:22.734 WARN    13 Query [abcdefghijklmnopqrstuvwxwz] timeout (1171 ms).  
+07.05.2018 18:35:22.737 INFO    15 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 1178 ms.  
+07.05.2018 18:35:22.740 INFO     9 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 1181 ms.  
+07.05.2018 18:35:22.745 INFO    10 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 1186 ms.  
+07.05.2018 18:35:22.747 INFO    11 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 1189 ms.  
+07.05.2018 18:35:22.750 WARN     5 Query [abcdefghijklmnopqrstuvwxwz] timeout (1187 ms).  
+07.05.2018 18:35:22.754 WARN     7 Query [abcdefghijklmnopqrstuvwxwz] timeout (1192 ms).  
+07.05.2018 18:35:22.756 INFO    12 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 1211 ms.  
+07.05.2018 18:35:22.759 WARN     4 Query [abcdefghijklmnopqrstuvwxwz] timeout (1196 ms).  
+07.05.2018 18:35:22.761 WARN     8 Query [abcdefghijklmnopqrstuvwxwz] timeout (1198 ms).  
+07.05.2018 18:35:22.765 INFO    14 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 1207 ms.  
+07.05.2018 18:35:22.768 WARN    13 Query [abcdefghijklmnopqrstuvwxwz] timeout (1205 ms).  
+07.05.2018 18:35:22.770 INFO    15 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 1211 ms.  
+07.05.2018 18:35:22.772 INFO     9 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 1213 ms.  
+07.05.2018 18:35:22.776 INFO    10 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 1218 ms.  
+07.05.2018 18:35:22.779 INFO    11 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 1221 ms.  
+07.05.2018 18:35:22.783 WARN     7 Query [abcdefghijklmnopqrstuvwxwz] timeout (1221 ms).  
+07.05.2018 18:35:22.787 INFO    12 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 1229 ms.  
+07.05.2018 18:35:22.790 WARN     4 Query [abcdefghijklmnopqrstuvwxwz] timeout (1227 ms).  
+07.05.2018 18:35:22.793 WARN     8 Query [abcdefghijklmnopqrstuvwxwz] timeout (1231 ms).  
+07.05.2018 18:35:22.795 INFO    14 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 1237 ms.  
+07.05.2018 18:35:22.800 WARN    13 Query [abcdefghijklmnopqrstuvwxwz] timeout (1238 ms).  
+07.05.2018 18:35:22.802 INFO    15 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 1244 ms.  
+07.05.2018 18:35:22.804 INFO     9 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 1241 ms.  
+07.05.2018 18:35:22.807 INFO    10 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 1244 ms.  
+07.05.2018 18:35:22.812 INFO    11 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 1249 ms.  
+07.05.2018 18:35:22.815 WARN     7 Query [abcdefghijklmnopqrstuvwxwz] timeout (1252 ms).  
+07.05.2018 18:35:22.817 INFO    12 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 1254 ms.  
+07.05.2018 18:35:22.821 WARN     4 Query [abcdefghijklmnopqrstuvwxwz] timeout (1258 ms).  
+07.05.2018 18:35:22.824 WARN     8 Query [abcdefghijklmnopqrstuvwxwz] timeout (1262 ms).  
+07.05.2018 18:35:22.826 INFO    14 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 1264 ms.  
+07.05.2018 18:35:22.831 WARN    13 Query [abcdefghijklmnopqrstuvwxwz] timeout (1269 ms).  
+07.05.2018 18:35:22.833 INFO    15 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 1270 ms.  
+07.05.2018 18:35:22.835 INFO     9 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 1272 ms.  
+07.05.2018 18:35:22.837 INFO    10 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 1275 ms.  
+07.05.2018 18:35:22.842 INFO    11 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 1280 ms.  
+07.05.2018 18:35:22.845 WARN     7 Query [abcdefghijklmnopqrstuvwxwz] timeout (1282 ms).  
+07.05.2018 18:35:22.847 INFO    12 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 1284 ms.  
+07.05.2018 18:35:22.849 WARN     4 Query [abcdefghijklmnopqrstuvwxwz] timeout (1287 ms).  
+07.05.2018 18:35:22.854 WARN     8 Query [abcdefghijklmnopqrstuvwxwz] timeout (1292 ms).  
+07.05.2018 18:35:22.857 INFO    14 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 1295 ms.  
+07.05.2018 18:35:22.859 WARN    13 Query [abcdefghijklmnopqrstuvwxwz] timeout (1297 ms).  
+07.05.2018 18:35:22.863 INFO    15 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 1301 ms.  
+07.05.2018 18:35:22.866 INFO     9 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 1303 ms.  
+07.05.2018 18:35:22.867 INFO    10 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 1305 ms.  
+07.05.2018 18:35:22.869 INFO    11 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 1307 ms.  
+07.05.2018 18:35:22.875 WARN     7 Query [abcdefghijklmnopqrstuvwxwz] timeout (1313 ms).  
+07.05.2018 18:35:22.878 INFO    12 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 1315 ms.  
+07.05.2018 18:35:22.880 WARN     4 Query [abcdefghijklmnopqrstuvwxwz] timeout (1318 ms).  
+07.05.2018 18:35:22.882 WARN     8 Query [abcdefghijklmnopqrstuvwxwz] timeout (1320 ms).  
+07.05.2018 18:35:22.886 INFO    14 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 1324 ms.  
+07.05.2018 18:35:22.890 WARN    13 Query [abcdefghijklmnopqrstuvwxwz] timeout (1328 ms).  
+07.05.2018 18:35:22.892 INFO    15 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 1329 ms.  
+07.05.2018 18:35:22.896 INFO     9 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 1333 ms.  
+07.05.2018 18:35:22.898 INFO    10 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 1336 ms.  
+07.05.2018 18:35:22.900 INFO    11 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 1338 ms.  
+07.05.2018 18:35:22.902 WARN     7 Query [abcdefghijklmnopqrstuvwxwz] timeout (1340 ms).  
+07.05.2018 18:35:22.904 INFO    12 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 1342 ms.  
+07.05.2018 18:35:22.909 WARN     4 Query [abcdefghijklmnopqrstuvwxwz] timeout (1347 ms).  
+07.05.2018 18:35:22.912 WARN     8 Query [abcdefghijklmnopqrstuvwxwz] timeout (1350 ms).  
+07.05.2018 18:35:22.914 INFO    14 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 1352 ms.  
+07.05.2018 18:35:22.919 WARN    13 Query [abcdefghijklmnopqrstuvwxwz] timeout (1357 ms).  
+07.05.2018 18:35:22.923 INFO    15 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 1360 ms.  
+07.05.2018 18:35:22.925 INFO     9 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 1363 ms.  
+07.05.2018 18:35:22.927 INFO    10 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 1366 ms.  
+07.05.2018 18:35:22.932 INFO    11 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 1369 ms.  
+07.05.2018 18:35:22.936 WARN     7 Query [abcdefghijklmnopqrstuvwxwz] timeout (1373 ms).  
+07.05.2018 18:35:22.938 INFO    12 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 1375 ms.  
+07.05.2018 18:35:22.942 WARN     4 Query [abcdefghijklmnopqrstuvwxwz] timeout (1380 ms).  
+07.05.2018 18:35:22.944 WARN     8 Query [abcdefghijklmnopqrstuvwxwz] timeout (1382 ms).  
+07.05.2018 18:35:22.946 INFO    14 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 1384 ms.  
+07.05.2018 18:35:22.948 WARN    13 Query [abcdefghijklmnopqrstuvwxwz] timeout (1386 ms).  
+07.05.2018 18:35:22.952 INFO    15 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 1390 ms.  
+07.05.2018 18:35:22.955 INFO     9 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 1393 ms.  
+07.05.2018 18:35:22.958 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 1397 ms.  
+07.05.2018 18:35:22.960 INFO    11 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 1398 ms.  
+07.05.2018 18:35:22.965 WARN     7 Query [abcdefghijklmnopqrstuvwxwz] timeout (1403 ms).  
+07.05.2018 18:35:22.968 INFO    12 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 1406 ms.  
+07.05.2018 18:35:22.970 WARN     4 Query [abcdefghijklmnopqrstuvwxwz] timeout (1408 ms).  
+07.05.2018 18:35:22.974 WARN     8 Query [abcdefghijklmnopqrstuvwxwz] timeout (1412 ms).  
+07.05.2018 18:35:22.976 INFO    14 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 1414 ms.  
+07.05.2018 18:35:22.978 WARN    13 Query [abcdefghijklmnopqrstuvwxwz] timeout (1417 ms).  
+07.05.2018 18:35:22.981 INFO    15 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 1419 ms.  
+07.05.2018 18:35:22.986 INFO     9 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 1424 ms.  
+07.05.2018 18:35:22.988 INFO    10 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 1427 ms.  
+07.05.2018 18:35:22.991 INFO    11 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 1429 ms.  
+07.05.2018 18:35:22.993 WARN     7 Query [abcdefghijklmnopqrstuvwxwz] timeout (1431 ms).  
+07.05.2018 18:35:22.998 INFO    12 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 1436 ms.  
+07.05.2018 18:35:23.000 WARN     4 Query [abcdefghijklmnopqrstuvwxwz] timeout (1438 ms).  
+07.05.2018 18:35:23.002 WARN     8 Query [abcdefghijklmnopqrstuvwxwz] timeout (1441 ms).  
+07.05.2018 18:35:23.004 INFO    14 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 1442 ms.  
+07.05.2018 18:35:23.009 WARN    13 Query [abcdefghijklmnopqrstuvwxwz] timeout (1448 ms).  
+07.05.2018 18:35:23.011 INFO    15 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 1449 ms.  
+07.05.2018 18:35:23.013 INFO     9 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 1452 ms.  
+07.05.2018 18:35:23.015 INFO    10 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 1454 ms.  
+07.05.2018 18:35:23.020 INFO    11 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 1458 ms.  
+07.05.2018 18:35:23.023 WARN     7 Query [abcdefghijklmnopqrstuvwxwz] timeout (1461 ms).  
+07.05.2018 18:35:23.025 INFO    12 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 1463 ms.  
+07.05.2018 18:35:23.028 WARN     4 Query [abcdefghijklmnopqrstuvwxwz] timeout (1466 ms).  
+07.05.2018 18:35:23.032 WARN     8 Query [abcdefghijklmnopqrstuvwxwz] timeout (1470 ms).  
+07.05.2018 18:35:23.035 INFO    14 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 1473 ms.  
+07.05.2018 18:35:23.037 WARN    13 Query [abcdefghijklmnopqrstuvwxwz] timeout (1475 ms).  
+07.05.2018 18:35:23.040 INFO    15 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 1479 ms.  
+07.05.2018 18:35:23.042 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 1481 ms.  
+07.05.2018 18:35:23.045 INFO    10 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 1483 ms.  
+07.05.2018 18:35:23.047 INFO    11 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 1486 ms.  
+07.05.2018 18:35:23.052 WARN     7 Query [abcdefghijklmnopqrstuvwxwz] timeout (1491 ms).  
+07.05.2018 18:35:23.054 INFO    12 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 1493 ms.  
+07.05.2018 18:35:23.056 WARN     4 Query [abcdefghijklmnopqrstuvwxwz] timeout (1495 ms).  
+07.05.2018 18:35:23.058 INFO    16 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 1497 ms.  
+07.05.2018 18:35:23.059 WARN     8 Query [abcdefghijklmnopqrstuvwxwz] timeout (1498 ms).  
+07.05.2018 18:35:23.059 WARN     5 Query [abcdefghijklmnopqrstuvwxwz] timeout (1498 ms).  
+07.05.2018 18:35:23.064 INFO    14 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 1502 ms.  
+07.05.2018 18:35:23.066 WARN    13 Query [abcdefghijklmnopqrstuvwxwz] timeout (1505 ms).  
+07.05.2018 18:35:23.068 INFO    15 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 1507 ms.  
+07.05.2018 18:35:23.070 INFO     9 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 1509 ms.  
+07.05.2018 18:35:23.075 INFO    10 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 1514 ms.  
+07.05.2018 18:35:23.077 INFO    11 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 1516 ms.  
+07.05.2018 18:35:23.079 WARN     7 Query [abcdefghijklmnopqrstuvwxwz] timeout (1518 ms).  
+07.05.2018 18:35:23.082 INFO    12 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 1520 ms.  
+07.05.2018 18:35:23.086 WARN     4 Query [abcdefghijklmnopqrstuvwxwz] timeout (1525 ms).  
+07.05.2018 18:35:23.087 INFO    16 Query processed [abcdefghijklmnopqrstuvwxwz] in 1526 ms.  
+07.05.2018 18:35:23.090 WARN     8 Query [abcdefghijklmnopqrstuvwxwz] timeout (1529 ms).  
+07.05.2018 18:35:23.092 WARN     5 Query [abcdefghijklmnopqrstuvwxwz] timeout (1531 ms).  
+07.05.2018 18:35:23.097 INFO    14 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 1536 ms.  
+07.05.2018 18:35:23.099 WARN    13 Query [abcdefghijklmnopqrstuvwxwz] timeout (1538 ms).  
+07.05.2018 18:35:23.101 INFO    15 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 1540 ms.  
+07.05.2018 18:35:23.110 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 1548 ms.  
+07.05.2018 18:35:23.112 WARN     7 Query [abcdefghijklmnopqrstuvwxwz] timeout (1551 ms).  
+07.05.2018 18:35:23.143 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]07.05.2018 18:36:35.000 INFO     1 Testing Client.SimpleClient started  
+07.05.2018 18:36:35.140 INFO    12 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 60 ms.  
+07.05.2018 18:36:35.141 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 62 ms.  
+07.05.2018 18:36:35.143 INFO    12 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 64 ms.  
+07.05.2018 18:36:35.145 INFO    11 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 66 ms.  
+07.05.2018 18:36:35.146 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 66 ms.  
+07.05.2018 18:36:35.147 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 68 ms.  
+07.05.2018 18:36:35.147 INFO    10 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 68 ms.  
+07.05.2018 18:36:35.151 INFO     9 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 71 ms.  
+07.05.2018 18:36:35.156 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 77 ms.  
+07.05.2018 18:36:35.158 INFO    11 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 78 ms.  
+07.05.2018 18:36:35.160 INFO    12 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 81 ms.  
+07.05.2018 18:36:35.160 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 81 ms.  
+07.05.2018 18:36:35.164 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 86 ms.  
+07.05.2018 18:36:35.168 INFO    10 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 89 ms.  
+07.05.2018 18:36:35.170 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 91 ms.  
+07.05.2018 18:36:35.176 INFO     9 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 97 ms.  
+07.05.2018 18:36:35.179 INFO    12 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 100 ms.  
+07.05.2018 18:36:35.181 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 102 ms.  
+07.05.2018 18:36:35.183 INFO    10 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 104 ms.  
+07.05.2018 18:36:35.189 INFO    11 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 111 ms.  
+07.05.2018 18:36:35.191 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 112 ms.  
+07.05.2018 18:36:35.193 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 114 ms.  
+07.05.2018 18:36:35.195 INFO    12 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 116 ms.  
+07.05.2018 18:36:35.200 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 121 ms.  
+07.05.2018 18:36:35.201 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 123 ms.  
+07.05.2018 18:36:35.206 INFO     9 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 127 ms.  
+07.05.2018 18:36:35.207 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 128 ms.  
+07.05.2018 18:36:35.213 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 134 ms.  
+07.05.2018 18:36:35.214 INFO    10 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 135 ms.  
+07.05.2018 18:36:35.216 INFO    11 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 137 ms.  
+07.05.2018 18:36:35.219 INFO    12 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 141 ms.  
+07.05.2018 18:36:35.223 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 146 ms.  
+07.05.2018 18:36:35.226 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 147 ms.  
+07.05.2018 18:36:35.228 INFO     9 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 150 ms.  
+07.05.2018 18:36:35.231 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 152 ms.  
+07.05.2018 18:36:35.237 INFO    11 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 159 ms.  
+07.05.2018 18:36:35.240 INFO    12 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 162 ms.  
+07.05.2018 18:36:35.241 INFO    10 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 163 ms.  
+07.05.2018 18:36:35.244 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 166 ms.  
+07.05.2018 18:36:35.250 INFO     9 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 171 ms.  
+07.05.2018 18:36:35.252 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 173 ms.  
+07.05.2018 18:36:35.255 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 176 ms.  
+07.05.2018 18:36:35.257 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 178 ms.  
+07.05.2018 18:36:35.261 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 182 ms.  
+07.05.2018 18:36:35.264 INFO    11 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 185 ms.  
+07.05.2018 18:36:35.266 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 188 ms.  
+07.05.2018 18:36:35.268 INFO    12 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 190 ms.  
+07.05.2018 18:36:35.274 INFO    10 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 195 ms.  
+07.05.2018 18:36:35.276 INFO     9 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 197 ms.  
+07.05.2018 18:36:35.278 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 200 ms.  
+07.05.2018 18:36:35.280 INFO    11 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 201 ms.  
+07.05.2018 18:36:35.284 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 206 ms.  
+07.05.2018 18:36:35.288 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 209 ms.  
+07.05.2018 18:36:35.290 INFO     9 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 211 ms.  
+07.05.2018 18:36:35.291 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 213 ms.  
+07.05.2018 18:36:35.296 INFO    11 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 218 ms.  
+07.05.2018 18:36:35.298 INFO    12 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 220 ms.  
+07.05.2018 18:36:35.300 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 222 ms.  
+07.05.2018 18:36:35.303 INFO    10 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 226 ms.  
+07.05.2018 18:36:35.307 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 228 ms.  
+07.05.2018 18:36:35.310 INFO     9 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 231 ms.  
+07.05.2018 18:36:35.312 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 234 ms.  
+07.05.2018 18:36:35.313 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 235 ms.  
+07.05.2018 18:36:35.319 INFO     9 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 241 ms.  
+07.05.2018 18:36:35.322 INFO    12 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 244 ms.  
+07.05.2018 18:36:35.324 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 247 ms.  
+07.05.2018 18:36:35.326 INFO    11 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 248 ms.  
+07.05.2018 18:36:35.330 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 252 ms.  
+07.05.2018 18:36:35.333 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 255 ms.  
+07.05.2018 18:36:35.336 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 258 ms.  
+07.05.2018 18:36:35.342 INFO    10 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 264 ms.  
+07.05.2018 18:36:35.346 INFO    11 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 267 ms.  
+07.05.2018 18:36:35.347 INFO     9 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 269 ms.  
+07.05.2018 18:36:35.351 INFO    12 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 272 ms.  
+07.05.2018 18:36:35.354 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 276 ms.  
+07.05.2018 18:36:35.357 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 278 ms.  
+07.05.2018 18:36:35.360 INFO    11 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 281 ms.  
+07.05.2018 18:36:35.362 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 283 ms.  
+07.05.2018 18:36:35.367 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 289 ms.  
+07.05.2018 18:36:35.371 INFO    10 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 293 ms.  
+07.05.2018 18:36:35.373 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 295 ms.  
+07.05.2018 18:36:35.377 INFO     9 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 299 ms.  
+07.05.2018 18:36:35.379 INFO    12 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 301 ms.  
+07.05.2018 18:36:35.381 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 303 ms.  
+07.05.2018 18:36:35.384 INFO    11 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 306 ms.  
+07.05.2018 18:36:35.390 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 312 ms.  
+07.05.2018 18:36:35.393 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 315 ms.  
+07.05.2018 18:36:35.395 INFO    10 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 317 ms.  
+07.05.2018 18:36:35.397 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 319 ms.  
+07.05.2018 18:36:35.401 INFO    11 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 323 ms.  
+07.05.2018 18:36:35.404 INFO     9 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 327 ms.  
+07.05.2018 18:36:35.406 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 328 ms.  
+07.05.2018 18:36:35.412 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 334 ms.  
+07.05.2018 18:36:35.415 INFO    12 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 337 ms.  
+07.05.2018 18:36:35.417 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 339 ms.  
+07.05.2018 18:36:35.425 INFO     9 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 347 ms.  
+07.05.2018 18:36:35.428 INFO    10 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 350 ms.  
+07.05.2018 18:36:35.430 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 353 ms.  
+07.05.2018 18:36:35.436 INFO    11 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 358 ms.  
+07.05.2018 18:36:35.438 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 361 ms.  
+07.05.2018 18:36:35.440 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 363 ms.  
+07.05.2018 18:36:35.443 INFO    12 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 365 ms.  
+07.05.2018 18:36:35.448 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 370 ms.  
+07.05.2018 18:36:35.451 INFO     9 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 373 ms.  
+07.05.2018 18:36:35.455 INFO    10 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 377 ms.  
+07.05.2018 18:36:35.459 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 381 ms.  
+07.05.2018 18:36:35.461 INFO    11 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 383 ms.  
+07.05.2018 18:36:35.463 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 385 ms.  
+07.05.2018 18:36:35.466 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 389 ms.  
+07.05.2018 18:36:35.472 INFO    12 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 394 ms.  
+07.05.2018 18:36:35.473 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 396 ms.  
+07.05.2018 18:36:35.476 INFO     9 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 398 ms.  
+07.05.2018 18:36:35.478 INFO    10 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 400 ms.  
+07.05.2018 18:36:35.489 INFO    11 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 411 ms.  
+07.05.2018 18:36:35.490 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 412 ms.  
+07.05.2018 18:36:35.493 INFO    12 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 415 ms.  
+07.05.2018 18:36:35.497 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 420 ms.  
+07.05.2018 18:36:35.500 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 422 ms.  
+07.05.2018 18:36:35.501 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 424 ms.  
+07.05.2018 18:36:35.504 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 426 ms.  
+07.05.2018 18:36:35.509 INFO     9 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 432 ms.  
+07.05.2018 18:36:35.511 INFO    10 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 434 ms.  
+07.05.2018 18:36:35.514 INFO    11 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 437 ms.  
+07.05.2018 18:36:35.517 INFO    12 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 439 ms.  
+07.05.2018 18:36:35.523 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 445 ms.  
+07.05.2018 18:36:35.525 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 447 ms.  
+07.05.2018 18:36:35.527 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 450 ms.  
+07.05.2018 18:36:35.530 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 453 ms.  
+07.05.2018 18:36:35.536 INFO    12 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 458 ms.  
+07.05.2018 18:36:35.538 INFO     9 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 461 ms.  
+07.05.2018 18:36:35.540 INFO    10 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 462 ms.  
+07.05.2018 18:36:35.543 INFO    11 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 466 ms.  
+07.05.2018 18:36:35.551 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 474 ms.  
+07.05.2018 18:36:35.553 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 475 ms.  
+07.05.2018 18:36:35.555 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 477 ms.  
+07.05.2018 18:36:35.560 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 482 ms.  
+07.05.2018 18:36:35.563 INFO    11 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 485 ms.  
+07.05.2018 18:36:35.565 INFO    12 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 488 ms.  
+07.05.2018 18:36:35.567 INFO     9 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 492 ms.  
+07.05.2018 18:36:35.572 INFO    10 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 499 ms.  
+07.05.2018 18:36:35.574 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 496 ms.  
+07.05.2018 18:36:35.575 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 499 ms.  
+07.05.2018 18:36:35.577 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 501 ms.  
+07.05.2018 18:36:35.579 INFO     9 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 502 ms.  
+07.05.2018 18:36:35.584 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 507 ms.  
+07.05.2018 18:36:35.587 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 514 ms.  
+07.05.2018 18:36:35.590 INFO    11 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 512 ms.  
+07.05.2018 18:36:35.592 INFO    12 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 515 ms.  
+07.05.2018 18:36:35.597 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 520 ms.  
+07.05.2018 18:36:35.600 INFO    13 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 523 ms.  
+07.05.2018 18:36:35.601 INFO    12 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 524 ms.  
+07.05.2018 18:36:35.602 INFO     9 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 525 ms.  
+07.05.2018 18:36:35.606 INFO    10 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 529 ms.  
+07.05.2018 18:36:35.609 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 531 ms.  
+07.05.2018 18:36:35.612 INFO    11 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 535 ms.  
+07.05.2018 18:36:35.614 INFO    13 Query processed [abcdefghijklmnopqrstuvwxwz] in 537 ms.  
+07.05.2018 18:36:35.616 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 539 ms.  
+07.05.2018 18:36:35.622 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 545 ms.  
+07.05.2018 18:36:35.624 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 547 ms.  
+07.05.2018 18:36:35.627 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 550 ms.  
+07.05.2018 18:36:35.629 INFO    13 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 553 ms.  
+07.05.2018 18:36:35.635 INFO    12 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 558 ms.  
+07.05.2018 18:36:35.639 INFO     9 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 562 ms.  
+07.05.2018 18:36:35.642 INFO    10 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 565 ms.  
+07.05.2018 18:36:35.647 INFO    13 Query processed [abcdefghijklmnopqrstuvwxwz] in 570 ms.  
+07.05.2018 18:36:35.647 INFO    11 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 570 ms.  
+07.05.2018 18:36:35.650 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 573 ms.  
+07.05.2018 18:36:35.652 INFO    12 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 575 ms.  
+07.05.2018 18:36:35.660 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 583 ms.  
+07.05.2018 18:36:35.662 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 584 ms.  
+07.05.2018 18:36:35.664 INFO    13 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 587 ms.  
+07.05.2018 18:36:35.669 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 593 ms.  
+07.05.2018 18:36:35.676 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 600 ms.  
+07.05.2018 18:36:35.680 INFO    10 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 604 ms.  
+07.05.2018 18:36:35.685 INFO     9 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 609 ms.  
+07.05.2018 18:36:35.692 INFO    13 Query processed [abcdefghijklmnopqrstuvwxwz] in 616 ms.  
+07.05.2018 18:36:35.695 INFO    11 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 619 ms.  
+07.05.2018 18:36:35.702 INFO    12 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 626 ms.  
+07.05.2018 18:36:35.706 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 631 ms.  
+07.05.2018 18:36:35.714 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 638 ms.  
+07.05.2018 18:36:35.717 INFO    13 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 641 ms.  
+07.05.2018 18:36:35.721 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 645 ms.  
+07.05.2018 18:36:35.740 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 665 ms.  
+07.05.2018 18:36:35.743 INFO    10 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 667 ms.  
+07.05.2018 18:36:35.746 INFO     9 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 670 ms.  
+07.05.2018 18:36:35.750 INFO    13 Query processed [abcdefghijklmnopqrstuvwxwz] in 674 ms.  
+07.05.2018 18:36:35.752 INFO    11 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 676 ms.  
+07.05.2018 18:36:35.754 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 677 ms.  
+07.05.2018 18:36:35.755 INFO    12 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 679 ms.  
+07.05.2018 18:36:35.757 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 681 ms.  
+07.05.2018 18:36:35.758 INFO    10 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 682 ms.  
+07.05.2018 18:36:35.762 INFO    13 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 686 ms.  
+07.05.2018 18:36:35.763 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 687 ms.  
+07.05.2018 18:36:35.765 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 690 ms.  
+07.05.2018 18:36:35.768 INFO     9 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 692 ms.  
+07.05.2018 18:36:35.772 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 697 ms.  
+07.05.2018 18:36:35.775 INFO    13 Query processed [abcdefghijklmnopqrstuvwxwz] in 699 ms.  
+07.05.2018 18:36:35.777 INFO    11 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 701 ms.  
+07.05.2018 18:36:35.778 INFO    12 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 703 ms.  
+07.05.2018 18:36:35.779 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 704 ms.  
+07.05.2018 18:36:35.780 INFO    10 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 705 ms.  
+07.05.2018 18:36:35.784 INFO    13 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 709 ms.  
+07.05.2018 18:36:35.785 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 710 ms.  
+07.05.2018 18:36:35.786 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 711 ms.  
+07.05.2018 18:36:35.787 INFO     9 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 712 ms.  
+07.05.2018 18:36:35.789 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 713 ms.  
+07.05.2018 18:36:35.790 INFO    13 Query processed [abcdefghijklmnopqrstuvwxwz] in 715 ms.  
+07.05.2018 18:36:35.791 INFO    11 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 716 ms.  
+07.05.2018 18:36:35.792 INFO    12 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 717 ms.  
+07.05.2018 18:36:35.796 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 721 ms.  
+07.05.2018 18:36:35.798 INFO    10 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 724 ms.  
+07.05.2018 18:36:35.800 INFO    13 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 725 ms.  
+07.05.2018 18:36:35.802 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 726 ms.  
+07.05.2018 18:36:35.803 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 728 ms.  
+07.05.2018 18:36:35.804 INFO     9 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 729 ms.  
+07.05.2018 18:36:35.808 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 734 ms.  
+07.05.2018 18:36:35.810 INFO    13 Query processed [abcdefghijklmnopqrstuvwxwz] in 735 ms.  
+07.05.2018 18:36:35.811 INFO    11 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 736 ms.  
+07.05.2018 18:36:35.813 INFO    12 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 737 ms.  
+07.05.2018 18:36:35.814 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 739 ms.  
+07.05.2018 18:36:35.815 INFO    10 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 740 ms.  
+07.05.2018 18:36:35.816 INFO    13 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 741 ms.  
+07.05.2018 18:36:35.820 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 744 ms.  
+07.05.2018 18:36:35.821 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 746 ms.  
+07.05.2018 18:36:35.823 INFO     9 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 748 ms.  
+07.05.2018 18:36:35.825 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 750 ms.  
+07.05.2018 18:36:35.826 INFO    13 Query processed [abcdefghijklmnopqrstuvwxwz] in 751 ms.  
+07.05.2018 18:36:35.827 INFO    11 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 752 ms.  
+07.05.2018 18:36:35.832 INFO    12 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 757 ms.  
+07.05.2018 18:36:35.832 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 757 ms.  
+07.05.2018 18:36:35.834 INFO    10 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 759 ms.  
+07.05.2018 18:36:35.835 INFO    13 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 760 ms.  
+07.05.2018 18:36:35.836 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 761 ms.  
+07.05.2018 18:36:35.838 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 763 ms.  
+07.05.2018 18:36:35.842 INFO     9 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 767 ms.  
+07.05.2018 18:36:35.844 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 769 ms.  
+07.05.2018 18:36:35.846 INFO    13 Query processed [abcdefghijklmnopqrstuvwxwz] in 771 ms.  
+07.05.2018 18:36:35.847 INFO    11 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 772 ms.  
+07.05.2018 18:36:35.848 INFO    12 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 773 ms.  
+07.05.2018 18:36:35.849 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 774 ms.  
+07.05.2018 18:36:35.851 INFO    10 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 773 ms.  
+07.05.2018 18:36:35.855 INFO    13 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 779 ms.  
+07.05.2018 18:36:35.856 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 781 ms.  
+07.05.2018 18:36:35.857 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 782 ms.  
+07.05.2018 18:36:35.859 INFO     9 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 784 ms.  
+07.05.2018 18:36:35.860 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 783 ms.  
+07.05.2018 18:36:35.864 INFO    13 Query processed [abcdefghijklmnopqrstuvwxwz] in 789 ms.  
+07.05.2018 18:36:35.866 INFO    11 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 789 ms.  
+07.05.2018 18:36:35.867 INFO    12 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 792 ms.  
+07.05.2018 18:36:35.868 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 794 ms.  
+07.05.2018 18:36:35.869 INFO    10 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 795 ms.  
+07.05.2018 18:36:35.872 INFO    13 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 795 ms.  
+07.05.2018 18:36:35.875 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 799 ms.  
+07.05.2018 18:36:35.877 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 802 ms.  
+07.05.2018 18:36:35.879 INFO     9 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 804 ms.  
+07.05.2018 18:36:35.880 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 805 ms.  
+07.05.2018 18:36:35.881 INFO    13 Query processed [abcdefghijklmnopqrstuvwxwz] in 804 ms.  
+07.05.2018 18:36:35.882 INFO    11 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 806 ms.  
+07.05.2018 18:36:35.886 INFO    12 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 811 ms.  
+07.05.2018 18:36:35.887 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 813 ms.  
+07.05.2018 18:36:35.889 INFO    10 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 812 ms.  
+07.05.2018 18:36:35.890 INFO    13 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 814 ms.  
+07.05.2018 18:36:35.892 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 815 ms.  
+07.05.2018 18:36:35.893 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 819 ms.  
+07.05.2018 18:36:35.895 INFO     9 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 820 ms.  
+07.05.2018 18:36:35.898 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 821 ms.  
+07.05.2018 18:36:35.899 INFO    13 Query processed [abcdefghijklmnopqrstuvwxwz] in 823 ms.  
+07.05.2018 18:36:35.901 INFO    11 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 826 ms.  
+07.05.2018 18:36:35.903 INFO    12 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 828 ms.  
+07.05.2018 18:36:35.904 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 829 ms.  
+07.05.2018 18:36:35.905 INFO    10 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 829 ms.  
+07.05.2018 18:36:35.909 INFO    13 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 833 ms.  
+07.05.2018 18:36:35.910 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 836 ms.  
+07.05.2018 18:36:35.911 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 837 ms.  
+07.05.2018 18:36:35.913 INFO     9 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 839 ms.  
+07.05.2018 18:36:35.914 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 838 ms.  
+07.05.2018 18:36:35.915 INFO    13 Query processed [abcdefghijklmnopqrstuvwxwz] in 839 ms.  
+07.05.2018 18:36:35.917 INFO    11 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 841 ms.  
+07.05.2018 18:36:35.922 INFO    12 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 847 ms.  
+07.05.2018 18:36:35.923 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 849 ms.  
+07.05.2018 18:36:35.925 INFO    10 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 849 ms.  
+07.05.2018 18:36:35.926 INFO    13 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 852 ms.  
+07.05.2018 18:36:35.927 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 851 ms.  
+07.05.2018 18:36:35.928 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 854 ms.  
+07.05.2018 18:36:35.932 INFO     9 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 856 ms.  
+07.05.2018 18:36:35.934 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 857 ms.  
+07.05.2018 18:36:35.935 INFO    13 Query processed [abcdefghijklmnopqrstuvwxwz] in 860 ms.  
+07.05.2018 18:36:35.936 INFO    11 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 860 ms.  
+07.05.2018 18:36:35.937 INFO    12 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 863 ms.  
+07.05.2018 18:36:35.939 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 863 ms.  
+07.05.2018 18:36:35.943 INFO    10 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 869 ms.  
+07.05.2018 18:36:35.944 INFO    13 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 870 ms.  
+07.05.2018 18:36:35.945 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 870 ms.  
+07.05.2018 18:36:35.946 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 872 ms.  
+07.05.2018 18:36:35.948 INFO     9 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 872 ms.  
+07.05.2018 18:36:35.950 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 875 ms.  
+07.05.2018 18:36:35.951 INFO    13 Query processed [abcdefghijklmnopqrstuvwxwz] in 877 ms.  
+07.05.2018 18:36:35.955 INFO    11 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 880 ms.  
+07.05.2018 18:36:35.957 INFO    12 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 881 ms.  
+07.05.2018 18:36:35.958 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 882 ms.  
+07.05.2018 18:36:35.960 INFO    10 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 884 ms.  
+07.05.2018 18:36:35.961 INFO    13 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 885 ms.  
+07.05.2018 18:36:35.962 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 887 ms.  
+07.05.2018 18:36:35.963 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 887 ms.  
+07.05.2018 18:36:35.968 INFO     9 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 892 ms.  
+07.05.2018 18:36:35.969 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 894 ms.  
+07.05.2018 18:36:35.970 INFO    13 Query processed [abcdefghijklmnopqrstuvwxwz] in 895 ms.  
+07.05.2018 18:36:35.972 INFO    11 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 913 ms.  
+07.05.2018 18:36:35.974 INFO    12 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 897 ms.  
+07.05.2018 18:36:35.974 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 898 ms.  
+07.05.2018 18:36:35.975 INFO    10 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 899 ms.  
+07.05.2018 18:36:35.979 INFO    13 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 902 ms.  
+07.05.2018 18:36:35.980 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 959 ms.  
+07.05.2018 18:36:35.981 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 904 ms.  
+07.05.2018 18:36:35.982 INFO     9 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 906 ms.  
+07.05.2018 18:36:35.984 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 907 ms.  
+07.05.2018 18:36:35.985 INFO    13 Query processed [abcdefghijklmnopqrstuvwxwz] in 909 ms.  
+07.05.2018 18:36:35.987 INFO    11 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 910 ms.  
+07.05.2018 18:36:35.991 INFO    12 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 914 ms.  
+07.05.2018 18:36:35.992 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 915 ms.  
+07.05.2018 18:36:35.993 INFO    10 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 917 ms.  
+07.05.2018 18:36:35.994 INFO    13 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 918 ms.  
+07.05.2018 18:36:35.995 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 919 ms.  
+07.05.2018 18:36:35.996 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 920 ms.  
+07.05.2018 18:36:35.997 INFO     9 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 921 ms.  
+07.05.2018 18:36:36.001 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 925 ms.  
+07.05.2018 18:36:36.003 INFO    13 Query processed [abcdefghijklmnopqrstuvwxwz] in 927 ms.  
+07.05.2018 18:36:36.005 INFO    11 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 929 ms.  
+07.05.2018 18:36:36.007 INFO    12 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 931 ms.  
+07.05.2018 18:36:36.008 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 932 ms.  
+07.05.2018 18:36:36.009 INFO    10 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 933 ms.  
+07.05.2018 18:36:36.013 INFO    13 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 936 ms.  
+07.05.2018 18:36:36.014 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 938 ms.  
+07.05.2018 18:36:36.015 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 939 ms.  
+07.05.2018 18:36:36.016 INFO     9 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 940 ms.  
+07.05.2018 18:36:36.017 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 941 ms.  
+07.05.2018 18:36:36.018 INFO    13 Query processed [abcdefghijklmnopqrstuvwxwz] in 942 ms.  
+07.05.2018 18:36:36.020 INFO    11 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 944 ms.  
+07.05.2018 18:36:36.021 INFO    12 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 945 ms.  
+07.05.2018 18:36:36.025 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 949 ms.  
+07.05.2018 18:36:36.026 INFO    10 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 950 ms.  
+07.05.2018 18:36:36.027 INFO    13 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 952 ms.  
+07.05.2018 18:36:36.028 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 953 ms.  
+07.05.2018 18:36:36.030 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 954 ms.  
+07.05.2018 18:36:36.032 INFO     9 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 958 ms.  
+07.05.2018 18:36:36.035 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 959 ms.  
+07.05.2018 18:36:36.037 INFO    13 Query processed [abcdefghijklmnopqrstuvwxwz] in 961 ms.  
+07.05.2018 18:36:36.038 INFO    11 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 964 ms.  
+07.05.2018 18:36:36.039 INFO    12 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 961 ms.  
+07.05.2018 18:36:36.041 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 967 ms.  
+07.05.2018 18:36:36.042 INFO    10 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 963 ms.  
+07.05.2018 18:36:36.043 INFO    13 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 964 ms.  
+07.05.2018 18:36:36.047 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 973 ms.  
+07.05.2018 18:36:36.049 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 970 ms.  
+07.05.2018 18:36:36.050 INFO     9 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 971 ms.  
+07.05.2018 18:36:36.052 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 972 ms.  
+07.05.2018 18:36:36.053 INFO    13 Query processed [abcdefghijklmnopqrstuvwxwz] in 974 ms.  
+07.05.2018 18:36:36.054 INFO    11 Response from [666,?query=abcdefghijklmnopqrstuvwxwz] received in 975 ms.  
+07.05.2018 18:36:36.060 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 981 ms.  
+07.05.2018 18:36:36.063 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 984 ms.  
+07.05.2018 18:36:36.065 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]07.05.2018 18:37:45.115 INFO     1 Testing Client.SimpleClient started  
+07.05.2018 18:37:45.263 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 69 ms.  
+07.05.2018 18:37:45.271 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 78 ms.  
+07.05.2018 18:37:45.272 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 79 ms.  
+07.05.2018 18:37:45.275 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 83 ms.  
+07.05.2018 18:37:45.278 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 86 ms.  
+07.05.2018 18:37:45.282 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 88 ms.  
+07.05.2018 18:37:45.285 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 90 ms.  
+07.05.2018 18:37:45.286 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 92 ms.  
+07.05.2018 18:37:45.289 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 95 ms.  
+07.05.2018 18:37:45.290 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 96 ms.  
+07.05.2018 18:37:45.293 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 99 ms.  
+07.05.2018 18:37:45.297 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 103 ms.  
+07.05.2018 18:37:45.297 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 103 ms.  
+07.05.2018 18:37:45.303 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 109 ms.  
+07.05.2018 18:37:45.304 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 110 ms.  
+07.05.2018 18:37:45.306 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 112 ms.  
+07.05.2018 18:37:45.308 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 114 ms.  
+07.05.2018 18:37:45.313 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 119 ms.  
+07.05.2018 18:37:45.315 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 121 ms.  
+07.05.2018 18:37:45.318 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 124 ms.  
+07.05.2018 18:37:45.323 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 130 ms.  
+07.05.2018 18:37:45.326 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 132 ms.  
+07.05.2018 18:37:45.329 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 135 ms.  
+07.05.2018 18:37:45.331 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 138 ms.  
+07.05.2018 18:37:45.337 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 143 ms.  
+07.05.2018 18:37:45.340 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 147 ms.  
+07.05.2018 18:37:45.343 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 150 ms.  
+07.05.2018 18:37:45.348 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 155 ms.  
+07.05.2018 18:37:45.350 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 157 ms.  
+07.05.2018 18:37:45.352 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 159 ms.  
+07.05.2018 18:37:45.355 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 161 ms.  
+07.05.2018 18:37:45.360 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 166 ms.  
+07.05.2018 18:37:45.363 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 169 ms.  
+07.05.2018 18:37:45.365 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 172 ms.  
+07.05.2018 18:37:45.367 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 173 ms.  
+07.05.2018 18:37:45.373 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 180 ms.  
+07.05.2018 18:37:45.374 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 181 ms.  
+07.05.2018 18:37:45.380 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 185 ms.  
+07.05.2018 18:37:45.383 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 189 ms.  
+07.05.2018 18:37:45.386 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 192 ms.  
+07.05.2018 18:37:45.387 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 193 ms.  
+07.05.2018 18:37:45.390 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 196 ms.  
+07.05.2018 18:37:45.395 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 202 ms.  
+07.05.2018 18:37:45.396 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 202 ms.  
+07.05.2018 18:37:45.397 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 204 ms.  
+07.05.2018 18:37:45.398 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 205 ms.  
+07.05.2018 18:37:45.401 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 208 ms.  
+07.05.2018 18:37:45.407 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 215 ms.  
+07.05.2018 18:37:45.409 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 216 ms.  
+07.05.2018 18:37:45.413 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 220 ms.  
+07.05.2018 18:37:45.418 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 225 ms.  
+07.05.2018 18:37:45.419 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 227 ms.  
+07.05.2018 18:37:45.423 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 231 ms.  
+07.05.2018 18:37:45.426 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 234 ms.  
+07.05.2018 18:37:45.431 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 239 ms.  
+07.05.2018 18:37:45.433 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 240 ms.  
+07.05.2018 18:37:45.437 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 245 ms.  
+07.05.2018 18:37:45.440 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 247 ms.  
+07.05.2018 18:37:45.443 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 251 ms.  
+07.05.2018 18:37:45.447 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 255 ms.  
+07.05.2018 18:37:45.451 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 259 ms.  
+07.05.2018 18:37:45.455 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 263 ms.  
+07.05.2018 18:37:45.458 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 266 ms.  
+07.05.2018 18:37:45.462 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 270 ms.  
+07.05.2018 18:37:45.466 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 274 ms.  
+07.05.2018 18:37:45.468 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 277 ms.  
+07.05.2018 18:37:45.471 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 279 ms.  
+07.05.2018 18:37:45.474 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 282 ms.  
+07.05.2018 18:37:45.478 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 286 ms.  
+07.05.2018 18:37:45.481 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 288 ms.  
+07.05.2018 18:37:45.485 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 291 ms.  
+07.05.2018 18:37:45.490 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 296 ms.  
+07.05.2018 18:37:45.492 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 298 ms.  
+07.05.2018 18:37:45.494 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 301 ms.  
+07.05.2018 18:37:45.497 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 303 ms.  
+07.05.2018 18:37:45.503 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 310 ms.  
+07.05.2018 18:37:45.505 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 312 ms.  
+07.05.2018 18:37:45.506 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 313 ms.  
+07.05.2018 18:37:45.508 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 315 ms.  
+07.05.2018 18:37:45.511 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 318 ms.  
+07.05.2018 18:37:45.518 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 325 ms.  
+07.05.2018 18:37:45.519 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 326 ms.  
+07.05.2018 18:37:45.522 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 330 ms.  
+07.05.2018 18:37:45.527 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 334 ms.  
+07.05.2018 18:37:45.530 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 337 ms.  
+07.05.2018 18:37:45.533 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 339 ms.  
+07.05.2018 18:37:45.535 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 342 ms.  
+07.05.2018 18:37:45.540 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 348 ms.  
+07.05.2018 18:37:45.542 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 350 ms.  
+07.05.2018 18:37:45.544 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 352 ms.  
+07.05.2018 18:37:45.548 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 355 ms.  
+07.05.2018 18:37:45.549 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 356 ms.  
+07.05.2018 18:37:45.560 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 367 ms.  
+07.05.2018 18:37:45.568 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 374 ms.  
+07.05.2018 18:37:45.569 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 377 ms.  
+07.05.2018 18:37:45.571 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 378 ms.  
+07.05.2018 18:37:45.575 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 383 ms.  
+07.05.2018 18:37:45.580 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 388 ms.  
+07.05.2018 18:37:45.581 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 389 ms.  
+07.05.2018 18:37:45.583 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 390 ms.  
+07.05.2018 18:37:45.588 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 396 ms.  
+07.05.2018 18:37:45.592 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 400 ms.  
+07.05.2018 18:37:45.593 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 401 ms.  
+07.05.2018 18:37:45.601 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 408 ms.  
+07.05.2018 18:37:45.604 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 411 ms.  
+07.05.2018 18:37:45.606 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 414 ms.  
+07.05.2018 18:37:45.608 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 416 ms.  
+07.05.2018 18:37:45.615 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 423 ms.  
+07.05.2018 18:37:45.619 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 427 ms.  
+07.05.2018 18:37:45.621 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 429 ms.  
+07.05.2018 18:37:45.624 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 432 ms.  
+07.05.2018 18:37:45.630 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 438 ms.  
+07.05.2018 18:37:45.632 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 440 ms.  
+07.05.2018 18:37:45.634 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 442 ms.  
+07.05.2018 18:37:45.640 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 448 ms.  
+07.05.2018 18:37:45.642 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 450 ms.  
+07.05.2018 18:37:45.644 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 452 ms.  
+07.05.2018 18:37:45.646 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 454 ms.  
+07.05.2018 18:37:45.649 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 457 ms.  
+07.05.2018 18:37:45.656 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 464 ms.  
+07.05.2018 18:37:45.658 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 468 ms.  
+07.05.2018 18:37:45.660 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 468 ms.  
+07.05.2018 18:37:45.662 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 470 ms.  
+07.05.2018 18:37:45.664 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 473 ms.  
+07.05.2018 18:37:45.669 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 479 ms.  
+07.05.2018 18:37:45.670 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 479 ms.  
+07.05.2018 18:37:45.674 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 482 ms.  
+07.05.2018 18:37:45.676 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 485 ms.  
+07.05.2018 18:37:45.682 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 490 ms.  
+07.05.2018 18:37:45.685 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 493 ms.  
+07.05.2018 18:37:45.686 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 495 ms.  
+07.05.2018 18:37:45.688 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 496 ms.  
+07.05.2018 18:37:45.693 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 502 ms.  
+07.05.2018 18:37:45.707 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 515 ms.  
+07.05.2018 18:37:45.721 INFO    13 Query processed [abcdefghijklmnopqrstuvwxwz] in 530 ms.  
+07.05.2018 18:37:45.723 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 532 ms.  
+07.05.2018 18:37:45.725 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 533 ms.  
+07.05.2018 18:37:45.739 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 548 ms.  
+07.05.2018 18:37:45.741 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 550 ms.  
+07.05.2018 18:37:45.744 INFO    13 Query processed [abcdefghijklmnopqrstuvwxwz] in 553 ms.  
+07.05.2018 18:37:45.746 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 555 ms.  
+07.05.2018 18:37:45.751 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 560 ms.  
+07.05.2018 18:37:45.759 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 568 ms.  
+07.05.2018 18:37:45.765 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 574 ms.  
+07.05.2018 18:37:45.766 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 575 ms.  
+07.05.2018 18:37:45.768 INFO    13 Query processed [abcdefghijklmnopqrstuvwxwz] in 578 ms.  
+07.05.2018 18:37:45.772 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 581 ms.  
+07.05.2018 18:37:45.775 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 583 ms.  
+07.05.2018 18:37:45.778 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 586 ms.  
+07.05.2018 18:37:45.778 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 587 ms.  
+07.05.2018 18:37:45.779 INFO    13 Query processed [abcdefghijklmnopqrstuvwxwz] in 588 ms.  
+07.05.2018 18:37:45.783 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 592 ms.  
+07.05.2018 18:37:45.785 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 594 ms.  
+07.05.2018 18:37:45.786 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 596 ms.  
+07.05.2018 18:37:45.788 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 597 ms.  
+07.05.2018 18:37:45.790 INFO    13 Query processed [abcdefghijklmnopqrstuvwxwz] in 599 ms.  
+07.05.2018 18:37:45.791 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 600 ms.  
+07.05.2018 18:37:45.794 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 603 ms.  
+07.05.2018 18:37:45.795 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 605 ms.  
+07.05.2018 18:37:45.797 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 606 ms.  
+07.05.2018 18:37:45.798 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 608 ms.  
+07.05.2018 18:37:45.800 INFO    13 Query processed [abcdefghijklmnopqrstuvwxwz] in 609 ms.  
+07.05.2018 18:37:45.801 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 611 ms.  
+07.05.2018 18:37:45.804 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 614 ms.  
+07.05.2018 18:37:45.806 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 616 ms.  
+07.05.2018 18:37:45.807 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 617 ms.  
+07.05.2018 18:37:45.809 INFO    13 Query processed [abcdefghijklmnopqrstuvwxwz] in 619 ms.  
+07.05.2018 18:37:45.810 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 618 ms.  
+07.05.2018 18:37:45.812 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 620 ms.  
+07.05.2018 18:37:45.816 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 624 ms.  
+07.05.2018 18:37:45.817 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 626 ms.  
+07.05.2018 18:37:45.819 INFO    13 Query processed [abcdefghijklmnopqrstuvwxwz] in 627 ms.  
+07.05.2018 18:37:45.820 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 628 ms.  
+07.05.2018 18:37:45.820 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 629 ms.  
+07.05.2018 18:37:45.822 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 631 ms.  
+07.05.2018 18:37:45.823 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 633 ms.  
+07.05.2018 18:37:45.827 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 636 ms.  
+07.05.2018 18:37:45.828 INFO    13 Query processed [abcdefghijklmnopqrstuvwxwz] in 638 ms.  
+07.05.2018 18:37:45.830 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 640 ms.  
+07.05.2018 18:37:45.831 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 692 ms.  
+07.05.2018 18:37:45.840 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]07.05.2018 18:37:52.915 INFO     1 Testing Client.SimpleClient started  
+07.05.2018 18:37:53.034 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 49 ms.  
+07.05.2018 18:37:53.035 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 50 ms.  
+07.05.2018 18:37:53.036 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 50 ms.  
+07.05.2018 18:37:53.036 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 50 ms.  
+07.05.2018 18:37:53.040 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 54 ms.  
+07.05.2018 18:37:53.040 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 55 ms.  
+07.05.2018 18:37:53.042 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 57 ms.  
+07.05.2018 18:37:53.051 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 65 ms.  
+07.05.2018 18:37:53.052 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 67 ms.  
+07.05.2018 18:37:53.054 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 69 ms.  
+07.05.2018 18:37:53.056 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 71 ms.  
+07.05.2018 18:37:53.061 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 75 ms.  
+07.05.2018 18:37:53.063 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 78 ms.  
+07.05.2018 18:37:53.067 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 81 ms.  
+07.05.2018 18:37:53.068 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 83 ms.  
+07.05.2018 18:37:53.074 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 89 ms.  
+07.05.2018 18:37:53.076 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 91 ms.  
+07.05.2018 18:37:53.079 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 93 ms.  
+07.05.2018 18:37:53.081 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 95 ms.  
+07.05.2018 18:37:53.090 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 105 ms.  
+07.05.2018 18:37:53.090 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 106 ms.  
+07.05.2018 18:37:53.095 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 109 ms.  
+07.05.2018 18:37:53.098 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 113 ms.  
+07.05.2018 18:37:53.100 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 114 ms.  
+07.05.2018 18:37:53.105 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 119 ms.  
+07.05.2018 18:37:53.106 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 120 ms.  
+07.05.2018 18:37:53.112 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 127 ms.  
+07.05.2018 18:37:53.115 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 129 ms.  
+07.05.2018 18:37:53.118 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 132 ms.  
+07.05.2018 18:37:53.121 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 136 ms.  
+07.05.2018 18:37:53.124 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 139 ms.  
+07.05.2018 18:37:53.126 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 141 ms.  
+07.05.2018 18:37:53.128 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 143 ms.  
+07.05.2018 18:37:53.132 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 147 ms.  
+07.05.2018 18:37:53.135 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 149 ms.  
+07.05.2018 18:37:53.140 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 155 ms.  
+07.05.2018 18:37:53.141 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 155 ms.  
+07.05.2018 18:37:53.145 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 160 ms.  
+07.05.2018 18:37:53.147 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 162 ms.  
+07.05.2018 18:37:53.151 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 166 ms.  
+07.05.2018 18:37:53.159 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 174 ms.  
+07.05.2018 18:37:53.161 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 176 ms.  
+07.05.2018 18:37:53.164 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 179 ms.  
+07.05.2018 18:37:53.168 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 183 ms.  
+07.05.2018 18:37:53.170 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 185 ms.  
+07.05.2018 18:37:53.171 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 186 ms.  
+07.05.2018 18:37:53.174 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 189 ms.  
+07.05.2018 18:37:53.179 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 194 ms.  
+07.05.2018 18:37:53.181 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 196 ms.  
+07.05.2018 18:37:53.183 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 198 ms.  
+07.05.2018 18:37:53.186 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 201 ms.  
+07.05.2018 18:37:53.193 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 208 ms.  
+07.05.2018 18:37:53.194 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 209 ms.  
+07.05.2018 18:37:53.198 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 214 ms.  
+07.05.2018 18:37:53.204 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 219 ms.  
+07.05.2018 18:37:53.212 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 227 ms.  
+07.05.2018 18:37:53.215 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 230 ms.  
+07.05.2018 18:37:53.220 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 235 ms.  
+07.05.2018 18:37:53.227 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 242 ms.  
+07.05.2018 18:37:53.230 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 245 ms.  
+07.05.2018 18:37:53.238 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 254 ms.  
+07.05.2018 18:37:53.241 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 256 ms.  
+07.05.2018 18:37:53.244 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 260 ms.  
+07.05.2018 18:37:53.253 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 269 ms.  
+07.05.2018 18:37:53.259 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 274 ms.  
+07.05.2018 18:37:53.267 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 283 ms.  
+07.05.2018 18:37:53.270 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 286 ms.  
+07.05.2018 18:37:53.279 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 295 ms.  
+07.05.2018 18:37:53.283 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 299 ms.  
+07.05.2018 18:37:53.291 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 307 ms.  
+07.05.2018 18:37:53.296 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 312 ms.  
+07.05.2018 18:37:53.299 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 314 ms.  
+07.05.2018 18:37:53.309 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 325 ms.  
+07.05.2018 18:37:53.314 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 330 ms.  
+07.05.2018 18:37:53.318 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 334 ms.  
+07.05.2018 18:37:53.321 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 337 ms.  
+07.05.2018 18:37:53.326 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 342 ms.  
+07.05.2018 18:37:53.327 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 343 ms.  
+07.05.2018 18:37:53.333 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 348 ms.  
+07.05.2018 18:37:53.336 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 352 ms.  
+07.05.2018 18:37:53.339 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 355 ms.  
+07.05.2018 18:37:53.341 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 356 ms.  
+07.05.2018 18:37:53.345 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 409 ms.  
+07.05.2018 18:37:53.346 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 363 ms.  
+07.05.2018 18:37:53.349 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 362 ms.  
+07.05.2018 18:37:53.353 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 367 ms.  
+07.05.2018 18:37:53.359 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 373 ms.  
+07.05.2018 18:37:53.361 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 373 ms.  
+07.05.2018 18:37:53.364 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 377 ms.  
+07.05.2018 18:37:53.369 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 383 ms.  
+07.05.2018 18:37:53.373 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 387 ms.  
+07.05.2018 18:37:53.379 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 393 ms.  
+07.05.2018 18:37:53.382 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 395 ms.  
+07.05.2018 18:37:53.384 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 398 ms.  
+07.05.2018 18:37:53.391 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 405 ms.  
+07.05.2018 18:37:53.393 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 407 ms.  
+07.05.2018 18:37:53.395 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 409 ms.  
+07.05.2018 18:37:53.398 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 412 ms.  
+07.05.2018 18:37:53.404 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 418 ms.  
+07.05.2018 18:37:53.407 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 421 ms.  
+07.05.2018 18:37:53.408 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 422 ms.  
+07.05.2018 18:37:53.413 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 427 ms.  
+07.05.2018 18:37:53.414 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 429 ms.  
+07.05.2018 18:37:53.416 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 428 ms.  
+07.05.2018 18:37:53.417 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 429 ms.  
+07.05.2018 18:37:53.419 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 431 ms.  
+07.05.2018 18:37:53.425 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 436 ms.  
+07.05.2018 18:37:53.429 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 440 ms.  
+07.05.2018 18:37:53.430 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 442 ms.  
+07.05.2018 18:37:53.434 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 446 ms.  
+07.05.2018 18:37:53.436 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 448 ms.  
+07.05.2018 18:37:53.440 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 452 ms.  
+07.05.2018 18:37:53.443 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 454 ms.  
+07.05.2018 18:37:53.448 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 460 ms.  
+07.05.2018 18:37:53.453 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 465 ms.  
+07.05.2018 18:37:53.455 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 467 ms.  
+07.05.2018 18:37:53.457 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 469 ms.  
+07.05.2018 18:37:53.458 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 470 ms.  
+07.05.2018 18:37:53.465 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 477 ms.  
+07.05.2018 18:37:53.468 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 480 ms.  
+07.05.2018 18:37:53.469 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 481 ms.  
+07.05.2018 18:37:53.475 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 487 ms.  
+07.05.2018 18:37:53.477 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 489 ms.  
+07.05.2018 18:37:53.480 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 493 ms.  
+07.05.2018 18:37:53.482 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 494 ms.  
+07.05.2018 18:37:53.483 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 496 ms.  
+07.05.2018 18:37:53.489 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 501 ms.  
+07.05.2018 18:37:53.491 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 503 ms.  
+07.05.2018 18:37:53.496 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 509 ms.  
+07.05.2018 18:37:53.499 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 512 ms.  
+07.05.2018 18:37:53.502 INFO    13 Query processed [abcdefghijklmnopqrstuvwxwz] in 514 ms.  
+07.05.2018 18:37:53.503 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 516 ms.  
+07.05.2018 18:37:53.504 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 517 ms.  
+07.05.2018 18:37:53.508 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 520 ms.  
+07.05.2018 18:37:53.513 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 525 ms.  
+07.05.2018 18:37:53.514 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 527 ms.  
+07.05.2018 18:37:53.519 INFO    13 Query processed [abcdefghijklmnopqrstuvwxwz] in 532 ms.  
+07.05.2018 18:37:53.523 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 536 ms.  
+07.05.2018 18:37:53.525 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 537 ms.  
+07.05.2018 18:37:53.529 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 541 ms.  
+07.05.2018 18:37:53.536 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 549 ms.  
+07.05.2018 18:37:53.540 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 552 ms.  
+07.05.2018 18:37:53.541 INFO    13 Query processed [abcdefghijklmnopqrstuvwxwz] in 554 ms.  
+07.05.2018 18:37:53.546 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 558 ms.  
+07.05.2018 18:37:53.549 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 562 ms.  
+07.05.2018 18:37:53.552 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 565 ms.  
+07.05.2018 18:37:53.557 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 570 ms.  
+07.05.2018 18:37:53.558 INFO    13 Query processed [abcdefghijklmnopqrstuvwxwz] in 570 ms.  
+07.05.2018 18:37:53.560 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 572 ms.  
+07.05.2018 18:37:53.560 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 574 ms.  
+07.05.2018 18:37:53.562 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 575 ms.  
+07.05.2018 18:37:53.563 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 576 ms.  
+07.05.2018 18:37:53.567 INFO    13 Query processed [abcdefghijklmnopqrstuvwxwz] in 580 ms.  
+07.05.2018 18:37:53.569 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 581 ms.  
+07.05.2018 18:37:53.570 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 583 ms.  
+07.05.2018 18:37:53.572 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 584 ms.  
+07.05.2018 18:37:53.573 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 587 ms.  
+07.05.2018 18:37:53.577 INFO    13 Query processed [abcdefghijklmnopqrstuvwxwz] in 590 ms.  
+07.05.2018 18:37:53.579 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 592 ms.  
+07.05.2018 18:37:53.581 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 594 ms.  
+07.05.2018 18:37:53.581 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 595 ms.  
+07.05.2018 18:37:53.583 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 596 ms.  
+07.05.2018 18:37:53.584 INFO    13 Query processed [abcdefghijklmnopqrstuvwxwz] in 597 ms.  
+07.05.2018 18:37:53.585 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 598 ms.  
+07.05.2018 18:37:53.589 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 603 ms.  
+07.05.2018 18:37:53.591 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 604 ms.  
+07.05.2018 18:37:53.592 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 605 ms.  
+07.05.2018 18:37:53.593 INFO    13 Query processed [abcdefghijklmnopqrstuvwxwz] in 607 ms.  
+07.05.2018 18:37:53.594 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 608 ms.  
+07.05.2018 18:37:53.596 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 609 ms.  
+07.05.2018 18:37:53.597 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 611 ms.  
+07.05.2018 18:37:53.601 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 614 ms.  
+07.05.2018 18:37:53.602 INFO    13 Query processed [abcdefghijklmnopqrstuvwxwz] in 615 ms.  
+07.05.2018 18:37:53.603 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 616 ms.  
+07.05.2018 18:37:53.605 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 618 ms.  
+07.05.2018 18:37:53.606 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 620 ms.  
+07.05.2018 18:37:53.608 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 621 ms.  
+07.05.2018 18:37:53.609 INFO    13 Query processed [abcdefghijklmnopqrstuvwxwz] in 622 ms.  
+07.05.2018 18:37:53.612 INFO    12 Query processed [abcdefghijklmnopqrstuvwxwz] in 626 ms.  
+07.05.2018 18:37:53.614 INFO    11 Query processed [abcdefghijklmnopqrstuvwxwz] in 628 ms.  
+07.05.2018 18:37:53.621 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]07.05.2018 18:50:06.446 INFO     1 Testing Client.SimpleClient started  
+07.05.2018 18:50:06.532 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 65 ms.  
+07.05.2018 18:50:06.533 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]07.05.2018 18:50:16.989 INFO     1 Testing Client.SimpleClient started  
+07.05.2018 18:50:17.066 INFO     8 Query processed [abcdefghijklmnopqrstuvwxwz] in 55 ms.  
+07.05.2018 18:50:17.067 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]07.05.2018 18:50:53.651 INFO     1 Testing Client.SimpleClient started  
+07.05.2018 18:50:53.747 INFO     8 Query processed [abcdefghijklmnopqrstuvwxwz] in 76 ms.  
+07.05.2018 18:50:53.749 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]07.05.2018 18:51:56.835 INFO     1 Testing Client.SimpleClient started  
+07.05.2018 18:51:56.920 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 64 ms.  
+07.05.2018 18:51:56.921 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]07.05.2018 18:52:15.406 INFO     1 Testing Client.SimpleClient started  
+07.05.2018 18:52:15.483 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 57 ms.  
+07.05.2018 18:52:15.484 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]07.05.2018 18:52:16.549 INFO     1 Testing Client.SimpleClient started  
+07.05.2018 18:52:16.632 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 60 ms.  
+07.05.2018 18:52:16.633 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]07.05.2018 18:52:17.325 INFO     1 Testing Client.SimpleClient started  
+07.05.2018 18:52:17.403 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 56 ms.  
+07.05.2018 18:52:17.404 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]07.05.2018 18:52:18.006 INFO     1 Testing Client.SimpleClient started  
+07.05.2018 18:52:18.088 INFO     7 Query processed [abcdefghijklmnopqrstuvwxwz] in 59 ms.  
+07.05.2018 18:52:18.089 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]07.05.2018 18:52:18.621 INFO     1 Testing Client.SimpleClient started  
+07.05.2018 18:52:18.701 INFO     8 Query processed [abcdefghijklmnopqrstuvwxwz] in 58 ms.  
+07.05.2018 18:52:18.702 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]07.05.2018 18:52:19.235 INFO     1 Testing Client.SimpleClient started  
+07.05.2018 18:52:19.317 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 60 ms.  
+07.05.2018 18:52:19.318 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]07.05.2018 18:52:19.919 INFO     1 Testing Client.SimpleClient started  
+07.05.2018 18:52:20.010 INFO     8 Query processed [abcdefghijklmnopqrstuvwxwz] in 70 ms.  
+07.05.2018 18:52:20.011 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]07.05.2018 18:52:20.740 INFO     1 Testing Client.SimpleClient started  
+07.05.2018 18:52:20.826 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 61 ms.  
+07.05.2018 18:52:20.827 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]07.05.2018 18:52:58.694 INFO     1 Testing Client.SimpleClient started  
+07.05.2018 18:52:58.798 INFO     8 Query processed [abcdefghijklmnopqrstuvwxwz] in 67 ms.  
+07.05.2018 18:52:58.800 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]07.05.2018 18:53:00.010 INFO     1 Testing Client.SimpleClient started  
+07.05.2018 18:53:00.089 INFO     8 Query processed [abcdefghijklmnopqrstuvwxwz] in 58 ms.  
+07.05.2018 18:53:00.090 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]07.05.2018 18:53:00.868 INFO     1 Testing Client.SimpleClient started  
+07.05.2018 18:53:00.943 INFO     8 Query processed [abcdefghijklmnopqrstuvwxwz] in 54 ms.  
+07.05.2018 18:53:00.944 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]07.05.2018 18:53:01.658 INFO     1 Testing Client.SimpleClient started  
+07.05.2018 18:53:01.745 INFO     7 Query processed [abcdefghijklmnopqrstuvwxwz] in 66 ms.  
+07.05.2018 18:53:01.747 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]07.05.2018 18:53:02.378 INFO     1 Testing Client.SimpleClient started  
+07.05.2018 18:53:02.462 INFO     7 Query processed [abcdefghijklmnopqrstuvwxwz] in 61 ms.  
+07.05.2018 18:53:02.463 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]07.05.2018 18:53:03.136 INFO     1 Testing Client.SimpleClient started  
+07.05.2018 18:53:03.223 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 65 ms.  
+07.05.2018 18:53:03.224 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]07.05.2018 18:53:03.582 INFO     1 Testing Client.SimpleClient started  
+07.05.2018 18:53:03.666 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 61 ms.  
+07.05.2018 18:53:03.667 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]07.05.2018 18:53:04.049 INFO     1 Testing Client.SimpleClient started  
+07.05.2018 18:53:04.135 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 60 ms.  
+07.05.2018 18:53:04.137 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]07.05.2018 18:53:04.488 INFO     1 Testing Client.SimpleClient started  
+07.05.2018 18:53:04.580 INFO     8 Query processed [abcdefghijklmnopqrstuvwxwz] in 71 ms.  
+07.05.2018 18:53:04.581 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]07.05.2018 18:53:04.933 INFO     1 Testing Client.SimpleClient started  
+07.05.2018 18:53:05.011 INFO     8 Query processed [abcdefghijklmnopqrstuvwxwz] in 57 ms.  
+07.05.2018 18:53:05.012 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]07.05.2018 18:57:47.477 INFO     1 Testing Client.SimpleClient started  
+07.05.2018 18:57:47.556 INFO     8 Query processed [abcdefghijklmnopqrstuvwxwz] in 59 ms.  
+07.05.2018 18:57:47.558 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]07.05.2018 18:57:49.639 INFO     1 Testing Client.SimpleClient started  
+07.05.2018 18:57:49.715 INFO     8 Query processed [abcdefghijklmnopqrstuvwxwz] in 56 ms.  
+07.05.2018 18:57:49.716 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]07.05.2018 18:57:50.643 INFO     1 Testing Client.SimpleClient started  
+07.05.2018 18:57:50.722 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 59 ms.  
+07.05.2018 18:57:50.732 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]07.05.2018 18:57:51.553 INFO     1 Testing Client.SimpleClient started  
+07.05.2018 18:57:51.636 INFO     7 Query processed [abcdefghijklmnopqrstuvwxwz] in 59 ms.  
+07.05.2018 18:57:51.638 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]07.05.2018 18:57:52.303 INFO     1 Testing Client.SimpleClient started  
+07.05.2018 18:57:52.379 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 57 ms.  
+07.05.2018 18:57:52.381 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]07.05.2018 18:57:53.086 INFO     1 Testing Client.SimpleClient started  
+07.05.2018 18:57:53.170 INFO     8 Query processed [abcdefghijklmnopqrstuvwxwz] in 60 ms.  
+07.05.2018 18:57:53.171 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]07.05.2018 18:57:53.530 INFO     1 Testing Client.SimpleClient started  
+07.05.2018 18:57:53.612 INFO    10 Query processed [abcdefghijklmnopqrstuvwxwz] in 59 ms.  
+07.05.2018 18:57:53.613 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]07.05.2018 18:57:53.969 INFO     1 Testing Client.SimpleClient started  
+07.05.2018 18:57:54.051 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 59 ms.  
+07.05.2018 18:57:54.053 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]07.05.2018 18:57:54.411 INFO     1 Testing Client.SimpleClient started  
+07.05.2018 18:57:54.490 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 58 ms.  
+07.05.2018 18:57:54.491 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]07.05.2018 18:57:54.850 INFO     1 Testing Client.SimpleClient started  
+07.05.2018 18:57:54.933 INFO     8 Query processed [abcdefghijklmnopqrstuvwxwz] in 58 ms.  
+07.05.2018 18:57:54.934 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]07.05.2018 18:57:55.296 INFO     1 Testing Client.SimpleClient started  
+07.05.2018 18:57:55.375 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 58 ms.  
+07.05.2018 18:57:55.376 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]07.05.2018 18:57:55.733 INFO     1 Testing Client.SimpleClient started  
+07.05.2018 18:57:55.813 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 58 ms.  
+07.05.2018 18:57:55.815 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]07.05.2018 18:57:56.185 INFO     1 Testing Client.SimpleClient started  
+07.05.2018 18:57:56.273 INFO     8 Query processed [abcdefghijklmnopqrstuvwxwz] in 63 ms.  
+07.05.2018 18:57:56.274 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]07.05.2018 18:57:56.635 INFO     1 Testing Client.SimpleClient started  
+07.05.2018 18:57:56.710 INFO     8 Query processed [abcdefghijklmnopqrstuvwxwz] in 55 ms.  
+07.05.2018 18:57:56.711 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]07.05.2018 18:57:57.075 INFO     1 Testing Client.SimpleClient started  
+07.05.2018 18:57:57.159 INFO     8 Query processed [abcdefghijklmnopqrstuvwxwz] in 61 ms.  
+07.05.2018 18:57:57.161 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]07.05.2018 18:57:57.512 INFO     1 Testing Client.SimpleClient started  
+07.05.2018 18:57:57.595 INFO     8 Query processed [abcdefghijklmnopqrstuvwxwz] in 60 ms.  
+07.05.2018 18:57:57.597 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]07.05.2018 19:00:16.467 INFO     1 Testing Client.SimpleClient started  
+07.05.2018 19:00:16.548 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 61 ms.  
+07.05.2018 19:00:16.550 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]07.05.2018 19:00:18.377 INFO     1 Testing Client.SimpleClient started  
+07.05.2018 19:00:18.453 INFO     8 Query processed [abcdefghijklmnopqrstuvwxwz] in 56 ms.  
+07.05.2018 19:00:18.455 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]07.05.2018 19:00:19.230 INFO     1 Testing Client.SimpleClient started  
+07.05.2018 19:00:19.309 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 57 ms.  
+07.05.2018 19:00:19.311 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]07.05.2018 19:00:20.177 INFO     1 Testing Client.SimpleClient started  
+07.05.2018 19:00:20.263 INFO     8 Query processed [abcdefghijklmnopqrstuvwxwz] in 63 ms.  
+07.05.2018 19:00:20.264 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]07.05.2018 19:00:21.036 INFO     1 Testing Client.SimpleClient started  
+07.05.2018 19:00:21.110 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 54 ms.  
+07.05.2018 19:00:21.111 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]07.05.2018 19:00:21.978 INFO     1 Testing Client.SimpleClient started  
+07.05.2018 19:00:22.058 INFO     9 Query processed [abcdefghijklmnopqrstuvwxwz] in 59 ms.  
+07.05.2018 19:00:22.059 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]07.05.2018 19:00:22.822 INFO     1 Testing Client.SimpleClient started  
+07.05.2018 19:00:22.914 INFO     8 Query processed [abcdefghijklmnopqrstuvwxwz] in 62 ms.  
+07.05.2018 19:00:22.915 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]07.05.2018 19:01:43.724 INFO     1 Testing Client.SimpleClient started  
+07.05.2018 19:01:43.805 INFO     8 Query processed [abcdefghijklmnopqrstuvwxwz] in 62 ms.  
+07.05.2018 19:01:43.807 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]07.05.2018 19:02:48.087 INFO     1 Testing Client.SimpleClient started  
+07.05.2018 19:02:48.170 INFO     9 Query processed [Q3] in 11 ms.  
+07.05.2018 19:02:48.174 INFO     9 Query processed [Q4] in 15 ms.  
+07.05.2018 19:02:48.175 INFO     9 Query processed [Q6] in 17 ms.  
+07.05.2018 19:02:48.178 INFO    12 Query processed [Q1] in 69 ms.  
+07.05.2018 19:02:48.180 INFO     9 Query processed [Q2] in 21 ms.  
+07.05.2018 19:02:48.183 INFO    12 Query processed [Q5] in 25 ms.  
+07.05.2018 19:02:48.187 INFO     9 Query processed [Q7] in 29 ms.  
+07.05.2018 19:02:48.191 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]07.05.2018 19:03:30.632 INFO     1 Testing Client.SimpleClient started  
+07.05.2018 19:03:30.707 INFO    12 Query processed [Q3] in 10 ms.  
+07.05.2018 19:03:30.711 INFO    12 Query processed [Q7] in 14 ms.  
+07.05.2018 19:03:30.712 INFO    12 Query processed [Q1] in 61 ms.  
+07.05.2018 19:03:30.715 INFO    12 Query processed [Q4] in 18 ms.  
+07.05.2018 19:03:30.716 INFO    12 Query processed [Q5] in 20 ms.  
+07.05.2018 19:03:30.721 INFO    12 Query processed [Q6] in 25 ms.  
+07.05.2018 19:03:30.725 INFO    10 Query processed [Q2] in 28 ms.  
+07.05.2018 19:03:30.727 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]07.05.2018 19:03:33.078 INFO     1 Testing Client.SimpleClient started  
+07.05.2018 19:03:33.157 INFO    10 Query processed [Q6] in 10 ms.  
+07.05.2018 19:03:33.161 INFO    10 Query processed [Q4] in 14 ms.  
+07.05.2018 19:03:33.163 INFO    10 Query processed [Q1] in 65 ms.  
+07.05.2018 19:03:33.165 INFO    11 Query processed [Q7] in 18 ms.  
+07.05.2018 19:03:33.168 INFO    10 Query processed [Q3] in 21 ms.  
+07.05.2018 19:03:33.173 INFO    11 Query processed [Q2] in 26 ms.  
+07.05.2018 19:03:33.176 INFO    10 Query processed [Q5] in 29 ms.  
+07.05.2018 19:03:33.178 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]07.05.2018 19:03:34.109 INFO     1 Testing Client.SimpleClient started  
+07.05.2018 19:03:34.189 INFO    10 Query processed [Q4] in 9 ms.  
+07.05.2018 19:03:34.193 INFO    10 Query processed [Q3] in 14 ms.  
+07.05.2018 19:03:34.195 INFO    10 Query processed [Q5] in 15 ms.  
+07.05.2018 19:03:34.198 INFO    10 Query processed [Q1] in 67 ms.  
+07.05.2018 19:03:34.199 INFO    11 Query processed [Q6] in 19 ms.  
+07.05.2018 19:03:34.202 INFO    10 Query processed [Q7] in 23 ms.  
+07.05.2018 19:03:34.205 INFO    11 Query processed [Q2] in 26 ms.  
+07.05.2018 19:03:34.208 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]07.05.2018 19:03:34.822 INFO     1 Testing Client.SimpleClient started  
+07.05.2018 19:03:34.908 INFO    11 Query processed [Q1] in 64 ms.  
+07.05.2018 19:03:34.912 INFO    11 Query processed [Q5] in 16 ms.  
+07.05.2018 19:03:34.915 INFO    11 Query processed [Q7] in 18 ms.  
+07.05.2018 19:03:34.916 INFO    11 Query processed [Q2] in 21 ms.  
+07.05.2018 19:03:34.918 INFO    12 Query processed [Q4] in 22 ms.  
+07.05.2018 19:03:34.924 INFO    12 Query processed [Q3] in 28 ms.  
+07.05.2018 19:03:34.926 INFO    11 Query processed [Q6] in 30 ms.  
+07.05.2018 19:03:34.929 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]07.05.2018 19:03:36.587 INFO     1 Testing Client.SimpleClient started  
+07.05.2018 19:03:36.664 INFO    10 Query processed [Q1] in 56 ms.  
+07.05.2018 19:03:36.669 INFO    10 Query processed [Q5] in 15 ms.  
+07.05.2018 19:03:36.670 INFO    10 Query processed [Q2] in 16 ms.  
+07.05.2018 19:03:36.672 INFO    10 Query processed [Q6] in 17 ms.  
+07.05.2018 19:03:36.673 INFO    10 Query processed [Q4] in 19 ms.  
+07.05.2018 19:03:36.676 INFO    10 Query processed [Q3] in 22 ms.  
+07.05.2018 19:03:36.679 INFO    10 Query processed [Q7] in 25 ms.  
+07.05.2018 19:03:36.680 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]07.05.2018 19:03:37.775 INFO     1 Testing Client.SimpleClient started  
+07.05.2018 19:03:37.853 INFO    10 Query processed [Q2] in 10 ms.  
+07.05.2018 19:03:37.857 INFO    10 Query processed [Q4] in 13 ms.  
+07.05.2018 19:03:37.861 INFO    10 Query processed [Q5] in 17 ms.  
+07.05.2018 19:03:37.862 INFO    10 Query processed [Q6] in 18 ms.  
+07.05.2018 19:03:37.863 INFO    12 Query processed [Q3] in 20 ms.  
+07.05.2018 19:03:37.866 INFO    10 Query processed [Q1] in 71 ms.  
+07.05.2018 19:03:37.868 INFO    12 Query processed [Q7] in 25 ms.  
+07.05.2018 19:03:37.870 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]07.05.2018 19:03:38.800 INFO     1 Testing Client.SimpleClient started  
+07.05.2018 19:03:38.880 INFO     9 Query processed [Q4] in 10 ms.  
+07.05.2018 19:03:38.884 INFO     9 Query processed [Q3] in 15 ms.  
+07.05.2018 19:03:38.886 INFO    11 Query processed [Q7] in 17 ms.  
+07.05.2018 19:03:38.888 INFO    11 Query processed [Q6] in 18 ms.  
+07.05.2018 19:03:38.890 INFO    11 Query processed [Q2] in 21 ms.  
+07.05.2018 19:03:38.895 INFO    11 Query processed [Q5] in 25 ms.  
+07.05.2018 19:03:38.897 INFO    11 Query processed [Q1] in 78 ms.  
+07.05.2018 19:03:38.898 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]07.05.2018 19:03:40.064 INFO     1 Testing Client.SimpleClient started  
+07.05.2018 19:03:40.154 INFO    11 Query processed [Q4] in 12 ms.  
+07.05.2018 19:03:40.157 INFO    12 Query processed [Q5] in 15 ms.  
+07.05.2018 19:03:40.160 INFO     9 Query processed [Q6] in 18 ms.  
+07.05.2018 19:03:40.165 INFO    12 Query processed [Q2] in 23 ms.  
+07.05.2018 19:03:40.167 INFO    11 Query processed [Q1] in 80 ms.  
+07.05.2018 19:03:40.170 INFO    10 Query processed [Q3] in 28 ms.  
+07.05.2018 19:03:40.173 INFO     9 Query processed [Q7] in 31 ms.  
+07.05.2018 19:03:40.179 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]07.05.2018 19:03:41.062 INFO     1 Testing Client.SimpleClient started  
+07.05.2018 19:03:41.143 INFO     9 Query processed [Q1] in 60 ms.  
+07.05.2018 19:03:41.150 INFO     9 Query processed [Q6] in 18 ms.  
+07.05.2018 19:03:41.153 INFO     9 Query processed [Q5] in 21 ms.  
+07.05.2018 19:03:41.153 INFO    12 Query processed [Q4] in 21 ms.  
+07.05.2018 19:03:41.159 INFO     9 Query processed [Q3] in 27 ms.  
+07.05.2018 19:03:41.162 INFO    12 Query processed [Q2] in 30 ms.  
+07.05.2018 19:03:41.163 INFO    10 Query processed [Q7] in 31 ms.  
+07.05.2018 19:03:41.170 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]07.05.2018 19:03:41.962 INFO     1 Testing Client.SimpleClient started  
+07.05.2018 19:03:42.037 INFO    10 Query processed [Q3] in 10 ms.  
+07.05.2018 19:03:42.042 INFO    10 Query processed [Q7] in 14 ms.  
+07.05.2018 19:03:42.044 INFO    10 Query processed [Q5] in 16 ms.  
+07.05.2018 19:03:42.045 INFO    10 Query processed [Q4] in 18 ms.  
+07.05.2018 19:03:42.046 INFO    12 Query processed [Q1] in 64 ms.  
+07.05.2018 19:03:42.048 INFO    10 Query processed [Q2] in 21 ms.  
+07.05.2018 19:03:42.051 INFO    12 Query processed [Q6] in 24 ms.  
+07.05.2018 19:03:42.056 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]07.05.2018 19:03:42.822 INFO     1 Testing Client.SimpleClient started  
+07.05.2018 19:03:42.911 INFO    12 Query processed [Q5] in 14 ms.  
+07.05.2018 19:03:42.914 INFO    12 Query processed [Q1] in 69 ms.  
+07.05.2018 19:03:42.917 INFO    12 Query processed [Q3] in 21 ms.  
+07.05.2018 19:03:42.919 INFO     9 Query processed [Q7] in 23 ms.  
+07.05.2018 19:03:42.925 INFO     9 Query processed [Q4] in 29 ms.  
+07.05.2018 19:03:42.928 INFO     9 Query processed [Q2] in 32 ms.  
+07.05.2018 19:03:42.931 INFO     9 Query processed [Q6] in 35 ms.  
+07.05.2018 19:03:42.931 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]07.05.2018 19:03:43.679 INFO     1 Testing Client.SimpleClient started  
+07.05.2018 19:03:43.760 INFO    11 Query processed [Q2] in 10 ms.  
+07.05.2018 19:03:43.763 INFO    11 Query processed [Q6] in 13 ms.  
+07.05.2018 19:03:43.765 INFO    11 Query processed [Q4] in 15 ms.  
+07.05.2018 19:03:43.768 INFO     9 Query processed [Q1] in 67 ms.  
+07.05.2018 19:03:43.770 INFO    11 Query processed [Q3] in 20 ms.  
+07.05.2018 19:03:43.776 INFO     9 Query processed [Q7] in 26 ms.  
+07.05.2018 19:03:43.778 INFO    11 Query processed [Q5] in 28 ms.  
+07.05.2018 19:03:43.784 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]07.05.2018 19:04:50.391 INFO     1 Testing Client.SimpleClient started  
+07.05.2018 19:04:50.474 INFO    11 Query processed [Q4] in 11 ms.  
+07.05.2018 19:04:50.478 INFO    11 Query processed [Q6] in 14 ms.  
+07.05.2018 19:04:50.479 INFO    11 Query processed [Q2] in 16 ms.  
+07.05.2018 19:04:50.481 INFO    10 Query processed [Q1] in 70 ms.  
+07.05.2018 19:04:50.483 INFO    11 Query processed [Q7] in 20 ms.  
+07.05.2018 19:04:50.487 INFO    10 Query processed [Q5] in 24 ms.  
+07.05.2018 19:04:50.491 INFO    11 Query processed [Q3] in 28 ms.  
+07.05.2018 19:04:50.494 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]07.05.2018 19:04:52.078 INFO     1 Testing Client.SimpleClient started  
+07.05.2018 19:04:52.159 INFO    10 Query processed [Q4] in 12 ms.  
+07.05.2018 19:04:52.162 INFO    10 Query processed [Q2] in 15 ms.  
+07.05.2018 19:04:52.165 INFO    12 Query processed [Q6] in 17 ms.  
+07.05.2018 19:04:52.168 INFO    12 Query processed [Q1] in 69 ms.  
+07.05.2018 19:04:52.169 INFO    12 Query processed [Q3] in 22 ms.  
+07.05.2018 19:04:52.172 INFO    12 Query processed [Q5] in 25 ms.  
+07.05.2018 19:04:52.175 INFO    12 Query processed [Q7] in 27 ms.  
+07.05.2018 19:04:52.178 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]07.05.2018 19:04:53.616 INFO     1 Testing Client.SimpleClient started  
+07.05.2018 19:04:53.697 INFO     9 Query processed [Q3] in 10 ms.  
+07.05.2018 19:04:53.702 INFO     9 Query processed [Q4] in 15 ms.  
+07.05.2018 19:04:53.703 INFO     9 Query processed [Q5] in 16 ms.  
+07.05.2018 19:04:53.704 INFO    11 Query processed [Q7] in 18 ms.  
+07.05.2018 19:04:53.707 INFO    11 Query processed [Q6] in 21 ms.  
+07.05.2018 19:04:53.711 INFO     9 Query processed [Q2] in 25 ms.  
+07.05.2018 19:04:53.715 INFO    11 Query processed [Q1] in 78 ms.  
+07.05.2018 19:04:53.717 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]07.05.2018 19:04:55.038 INFO     1 Testing Client.SimpleClient started  
+07.05.2018 19:04:55.121 INFO    12 Query processed [Q4] in 11 ms.  
+07.05.2018 19:04:55.124 INFO    11 Query processed [Q6] in 14 ms.  
+07.05.2018 19:04:55.131 INFO    11 Query processed [Q5] in 20 ms.  
+07.05.2018 19:04:55.134 INFO    11 Query processed [Q2] in 24 ms.  
+07.05.2018 19:04:55.137 INFO    11 Query processed [Q3] in 27 ms.  
+07.05.2018 19:04:55.140 INFO    11 Query processed [Q1] in 79 ms.  
+07.05.2018 19:04:55.141 INFO    11 Query processed [Q7] in 31 ms.  
+07.05.2018 19:04:55.144 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]07.05.2018 19:04:56.897 INFO     1 Testing Client.SimpleClient started  
+07.05.2018 19:04:56.973 INFO    11 Query processed [Q2] in 10 ms.  
+07.05.2018 19:04:56.976 INFO    11 Query processed [Q1] in 59 ms.  
+07.05.2018 19:04:56.978 INFO    11 Query processed [Q6] in 14 ms.  
+07.05.2018 19:04:56.980 INFO    10 Query processed [Q3] in 16 ms.  
+07.05.2018 19:04:56.983 INFO    11 Query processed [Q4] in 19 ms.  
+07.05.2018 19:04:56.987 INFO    10 Query processed [Q7] in 23 ms.  
+07.05.2018 19:04:56.989 INFO    12 Query processed [Q5] in 25 ms.  
+07.05.2018 19:04:56.992 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]07.05.2018 19:04:58.433 INFO     1 Testing Client.SimpleClient started  
+07.05.2018 19:04:58.510 INFO    12 Query processed [Q4] in 10 ms.  
+07.05.2018 19:04:58.515 INFO    12 Query processed [Q3] in 15 ms.  
+07.05.2018 19:04:58.519 INFO    12 Query processed [Q5] in 19 ms.  
+07.05.2018 19:04:58.521 INFO    12 Query processed [Q6] in 21 ms.  
+07.05.2018 19:04:58.523 INFO    11 Query processed [Q1] in 71 ms.  
+07.05.2018 19:04:58.524 INFO    12 Query processed [Q7] in 24 ms.  
+07.05.2018 19:04:58.527 INFO     9 Query processed [Q2] in 28 ms.  
+07.05.2018 19:04:58.532 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]07.05.2018 19:05:00.002 INFO     1 Testing Client.SimpleClient started  
+07.05.2018 19:05:00.086 INFO    12 Query processed [Q1] in 62 ms.  
+07.05.2018 19:05:00.089 INFO    12 Query processed [Q5] in 13 ms.  
+07.05.2018 19:05:00.090 INFO    10 Query processed [Q7] in 14 ms.  
+07.05.2018 19:05:00.091 INFO    12 Query processed [Q2] in 16 ms.  
+07.05.2018 19:05:00.093 INFO    10 Query processed [Q3] in 18 ms.  
+07.05.2018 19:05:00.098 INFO     9 Query processed [Q4] in 21 ms.  
+07.05.2018 19:05:00.102 INFO    10 Query processed [Q6] in 26 ms.  
+07.05.2018 19:05:00.106 INFO     1 Testing Client.SimpleClient finished  
+[End of logging]

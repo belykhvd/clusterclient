@@ -1,0 +1,27 @@
+[Start of logging]
+10.05.2018 22:11:14.386 INFO     1 Server is starting listening prefixes: http://+:666/do/.  
+10.05.2018 22:11:14.403 INFO     1 Press <ENTER> to stop listening.  
+10.05.2018 22:12:17.498 INFO     5 Request [Q1] processed in 9 ms.  
+10.05.2018 22:12:17.498 INFO     8 Request [Q7] processed in 9 ms.  
+10.05.2018 22:12:17.498 INFO     6 Request [Q5] processed in 9 ms.  
+10.05.2018 22:12:17.498 INFO     7 Request [Q3] processed in 9 ms.  
+10.05.2018 22:12:17.499 INFO     5 Request [Q4] processed in 0 ms.  
+10.05.2018 22:12:17.499 INFO     8 Request [Q2] processed in 0 ms.  
+10.05.2018 22:12:17.500 INFO     6 Request [Q6] processed in 0 ms.  
+10.05.2018 22:12:52.862 INFO     9 Request [Q3] processed in 0 ms.  
+10.05.2018 22:12:52.862 INFO    11 Request [Q1] processed in 0 ms.  
+10.05.2018 22:12:52.862 INFO    10 Request [Q4] processed in 0 ms.  
+10.05.2018 22:12:52.863 INFO     9 Request [Q5] processed in 0 ms.  
+10.05.2018 22:12:52.863 INFO    12 Request [Q7] processed in 0 ms.  
+10.05.2018 22:12:52.865 INFO    10 Request [Q2] processed in 0 ms.  
+10.05.2018 22:12:52.865 INFO    11 Request [Q6] processed in 0 ms.  
+10.05.2018 22:12:58.153 INFO    12 Request [Q3] processed in 0 ms.  
+10.05.2018 22:12:58.153 INFO    10 Request [Q5] processed in 0 ms.  
+10.05.2018 22:12:58.154 INFO    11 Request [Q4] processed in 0 ms.  
+10.05.2018 22:12:58.154 INFO     9 Request [Q6] processed in 0 ms.  
+10.05.2018 22:12:58.155 INFO    12 Request [Q1] processed in 0 ms.  
+10.05.2018 22:12:58.156 INFO     9 Request [Q7] processed in 0 ms.  
+10.05.2018 22:12:58.157 INFO    10 Request [Q2] processed in 0 ms.  
+10.05.2018 22:13:04.382 INFO     1 Server stopped.  
+[End of logging]
+
