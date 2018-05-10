@@ -15,8 +15,8 @@ namespace Client
         public override async Task<string> ProceedRequestAsync(string query, TimeSpan timeout)
         {                        
             var uri = ReplicaAddresses[0];
-            //var guid = Guid.NewGuid();
-            var webRequest = CreateRequest($"{uri}?query={query}"); //$guid={guid}
+            var guid = Guid.NewGuid();
+            var webRequest = CreateRequest($"{uri}?query={query}&guid={guid}");
 
             var resultTask = ProceedRequestAsync(webRequest);
             await Task.WhenAny(resultTask, Task.Delay(timeout));

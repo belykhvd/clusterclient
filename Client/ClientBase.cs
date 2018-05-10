@@ -41,7 +41,7 @@ namespace Client
                 var result = await new StreamReader(responseStream, Encoding.UTF8).ReadToEndAsync();
 
                 var responseTime = profiler.ElapsedMilliseconds;
-                //Log.Info($"Response from [{request.RequestUri.Port},{request.RequestUri.Query}] received in {responseTime} ms.");
+                Log.Info($"Response [{result}] from [{request.RequestUri.Port},{request.RequestUri.Query}] received in {responseTime} ms.");
                 
                 return result;
             }

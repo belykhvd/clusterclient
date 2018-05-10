@@ -1,27 +1,285 @@
 [Start of logging]
-10.05.2018 22:11:14.386 INFO     1 Server is starting listening prefixes: http://+:666/do/.  
-10.05.2018 22:11:14.403 INFO     1 Press <ENTER> to stop listening.  
-10.05.2018 22:12:17.498 INFO     5 Request [Q1] processed in 9 ms.  
-10.05.2018 22:12:17.498 INFO     8 Request [Q7] processed in 9 ms.  
-10.05.2018 22:12:17.498 INFO     6 Request [Q5] processed in 9 ms.  
-10.05.2018 22:12:17.498 INFO     7 Request [Q3] processed in 9 ms.  
-10.05.2018 22:12:17.499 INFO     5 Request [Q4] processed in 0 ms.  
-10.05.2018 22:12:17.499 INFO     8 Request [Q2] processed in 0 ms.  
-10.05.2018 22:12:17.500 INFO     6 Request [Q6] processed in 0 ms.  
-10.05.2018 22:12:52.862 INFO     9 Request [Q3] processed in 0 ms.  
-10.05.2018 22:12:52.862 INFO    11 Request [Q1] processed in 0 ms.  
-10.05.2018 22:12:52.862 INFO    10 Request [Q4] processed in 0 ms.  
-10.05.2018 22:12:52.863 INFO     9 Request [Q5] processed in 0 ms.  
-10.05.2018 22:12:52.863 INFO    12 Request [Q7] processed in 0 ms.  
-10.05.2018 22:12:52.865 INFO    10 Request [Q2] processed in 0 ms.  
-10.05.2018 22:12:52.865 INFO    11 Request [Q6] processed in 0 ms.  
-10.05.2018 22:12:58.153 INFO    12 Request [Q3] processed in 0 ms.  
-10.05.2018 22:12:58.153 INFO    10 Request [Q5] processed in 0 ms.  
-10.05.2018 22:12:58.154 INFO    11 Request [Q4] processed in 0 ms.  
-10.05.2018 22:12:58.154 INFO     9 Request [Q6] processed in 0 ms.  
-10.05.2018 22:12:58.155 INFO    12 Request [Q1] processed in 0 ms.  
-10.05.2018 22:12:58.156 INFO     9 Request [Q7] processed in 0 ms.  
-10.05.2018 22:12:58.157 INFO    10 Request [Q2] processed in 0 ms.  
-10.05.2018 22:13:04.382 INFO     1 Server stopped.  
+11.05.2018 00:45:48.132 INFO     1 Server is starting listening prefixes: http://+:666/do/.  
+11.05.2018 00:45:48.151 INFO     1 Press <ENTER> to stop listening.  
+11.05.2018 00:45:51.573 INFO     6 Request [Q5] processed in 3 ms.  
+11.05.2018 00:45:51.573 INFO     8 Request [Q7] processed in 3 ms.  
+11.05.2018 00:45:51.574 INFO     5 Request [Q1] processed in 4 ms.  
+11.05.2018 00:45:51.574 INFO     7 Request [Q2] processed in 4 ms.  
+11.05.2018 00:45:51.575 INFO     6 Request [Q6] processed in 0 ms.  
+11.05.2018 00:45:51.579 INFO     8 Request [Q4] processed in 0 ms.  
+11.05.2018 00:45:51.582 INFO     6 Request [Q3] processed in 0 ms.  
+11.05.2018 00:45:58.769 INFO     6 Request [Q4] processed in 0 ms.  
+11.05.2018 00:45:58.769 INFO     5 Request [Q1] processed in 1 ms.  
+11.05.2018 00:45:58.769 INFO     8 Request [Q3] processed in 0 ms.  
+11.05.2018 00:45:58.770 INFO     7 Request [Q2] processed in 1 ms.  
+11.05.2018 00:45:58.770 INFO     6 Request [Q5] processed in 0 ms.  
+11.05.2018 00:45:58.775 INFO     7 Request [Q6] processed in 0 ms.  
+11.05.2018 00:45:58.775 INFO     5 Request [Q7] processed in 0 ms.  
+11.05.2018 00:46:00.652 INFO     8 Request [Q4] processed in 0 ms.  
+11.05.2018 00:46:00.652 INFO     7 Request [Q2] processed in 0 ms.  
+11.05.2018 00:46:00.652 INFO     5 Request [Q3] processed in 0 ms.  
+11.05.2018 00:46:00.653 INFO     6 Request [Q1] processed in 0 ms.  
+11.05.2018 00:46:00.654 INFO     8 Request [Q7] processed in 0 ms.  
+11.05.2018 00:46:00.658 INFO     5 Request [Q6] processed in 0 ms.  
+11.05.2018 00:46:00.660 INFO     8 Request [Q5] processed in 0 ms.  
+11.05.2018 00:46:06.147 INFO     8 Request [Q5] processed in 0 ms.  
+11.05.2018 00:46:06.147 INFO     5 Request [Q1] processed in 0 ms.  
+11.05.2018 00:46:06.147 INFO     6 Request [Q4] processed in 1 ms.  
+11.05.2018 00:46:06.148 INFO     7 Request [Q6] processed in 0 ms.  
+11.05.2018 00:46:06.148 INFO     8 Request [Q2] processed in 0 ms.  
+11.05.2018 00:46:06.153 INFO     9 Request [Q3] processed in 0 ms.  
+11.05.2018 00:46:06.154 INFO     7 Request [Q7] processed in 1 ms.  
+11.05.2018 00:46:08.436 INFO     9 Request [Q2] processed in 0 ms.  
+11.05.2018 00:46:08.436 INFO     6 Request [Q6] processed in 0 ms.  
+11.05.2018 00:46:08.436 INFO     5 Request [Q7] processed in 2 ms.  
+11.05.2018 00:46:08.437 INFO     8 Request [Q3] processed in 3 ms.  
+11.05.2018 00:46:08.436 INFO     7 Request [Q1] processed in 0 ms.  
+11.05.2018 00:46:08.438 INFO     9 Request [Q4] processed in 0 ms.  
+11.05.2018 00:46:08.455 INFO     8 Request [Q5] processed in 0 ms.  
+11.05.2018 00:46:11.126 INFO     6 Request [Q3] processed in 0 ms.  
+11.05.2018 00:46:11.126 INFO     7 Request [Q4] processed in 0 ms.  
+11.05.2018 00:46:11.126 INFO     9 Request [Q2] processed in 0 ms.  
+11.05.2018 00:46:11.127 INFO     8 Request [Q1] processed in 0 ms.  
+11.05.2018 00:46:11.127 INFO     5 Request [Q5] processed in 0 ms.  
+11.05.2018 00:46:11.128 INFO     6 Request [Q7] processed in 0 ms.  
+11.05.2018 00:46:11.133 INFO     5 Request [Q6] processed in 0 ms.  
+11.05.2018 00:46:12.893 INFO     9 Request [Q3] processed in 0 ms.  
+11.05.2018 00:46:12.893 INFO     6 Request [Q5] processed in 0 ms.  
+11.05.2018 00:46:12.894 INFO     7 Request [Q1] processed in 0 ms.  
+11.05.2018 00:46:12.894 INFO     8 Request [Q2] processed in 0 ms.  
+11.05.2018 00:46:12.894 INFO     5 Request [Q4] processed in 0 ms.  
+11.05.2018 00:46:12.895 INFO     9 Request [Q7] processed in 0 ms.  
+11.05.2018 00:46:12.898 INFO     7 Request [Q6] processed in 0 ms.  
+11.05.2018 00:46:17.902 INFO     1 Server stopped.  
+[End of logging]
+
+[Start of logging]
+11.05.2018 00:58:21.629 INFO     1 Server is starting listening prefixes: http://+:666/do/.  
+11.05.2018 00:58:21.646 INFO     1 Press <ENTER> to stop listening.  
+11.05.2018 00:58:27.383 WARN     7 Bad request: no guid passed.  
+11.05.2018 00:58:27.383 WARN     5 Bad request: no guid passed.  
+11.05.2018 00:58:27.383 WARN     6 Bad request: no guid passed.  
+11.05.2018 00:58:27.383 WARN     8 Bad request: no guid passed.  
+11.05.2018 00:58:27.384 WARN     7 Bad request: no guid passed.  
+11.05.2018 00:58:27.385 WARN     5 Bad request: no guid passed.  
+11.05.2018 00:58:27.385 WARN     7 Bad request: no guid passed.  
+11.05.2018 00:58:41.908 WARN     5 Bad request: no guid passed.  
+11.05.2018 00:58:41.908 WARN     6 Bad request: no guid passed.  
+11.05.2018 00:58:41.908 WARN     7 Bad request: no guid passed.  
+11.05.2018 00:58:41.908 WARN     8 Bad request: no guid passed.  
+11.05.2018 00:58:41.908 WARN     5 Bad request: no guid passed.  
+11.05.2018 00:58:41.913 WARN     6 Bad request: no guid passed.  
+11.05.2018 00:58:41.915 WARN     7 Bad request: no guid passed.  
+11.05.2018 01:01:05.654 WARN     9 Bad request: no guid passed.  
+11.05.2018 01:01:05.654 WARN    10 Bad request: no guid passed.  
+11.05.2018 01:01:05.654 WARN    12 Bad request: no guid passed.  
+11.05.2018 01:01:05.654 WARN    11 Bad request: no guid passed.  
+11.05.2018 01:01:05.655 WARN     9 Bad request: no guid passed.  
+11.05.2018 01:01:05.659 WARN    11 Bad request: no guid passed.  
+11.05.2018 01:01:05.663 WARN     9 Bad request: no guid passed.  
+11.05.2018 01:01:51.723 WARN    13 Bad request: no guid passed.  
+11.05.2018 01:01:51.723 WARN    15 Bad request: no guid passed.  
+11.05.2018 01:01:51.723 WARN    14 Bad request: no guid passed.  
+11.05.2018 01:01:51.724 WARN    13 Bad request: no guid passed.  
+11.05.2018 01:01:51.727 WARN    15 Bad request: no guid passed.  
+11.05.2018 01:01:51.727 WARN    16 Bad request: no guid passed.  
+11.05.2018 01:01:51.729 WARN    17 Bad request: no guid passed.  
+11.05.2018 01:03:55.934 INFO    19 Request [Q5] processed in 14 ms.  
+11.05.2018 01:03:55.934 INFO    20 Request [Q1] processed in 19 ms.  
+11.05.2018 01:03:55.934 INFO    18 Request [Q6] processed in 14 ms.  
+11.05.2018 01:03:55.935 INFO    21 Request [Q4] processed in 14 ms.  
+11.05.2018 01:03:55.936 INFO    19 Request [Q3] processed in 20 ms.  
+11.05.2018 01:03:55.940 INFO    21 Request [Q2] processed in 25 ms.  
+11.05.2018 01:03:55.942 INFO    18 Request [Q7] processed in 27 ms.  
+11.05.2018 01:04:23.511 INFO    16 Request [Q7] processed in 4 ms.  
+11.05.2018 01:04:23.511 INFO    13 Request [Q6] processed in 4 ms.  
+11.05.2018 01:04:23.511 INFO    15 Request [Q2] processed in 5 ms.  
+11.05.2018 01:04:23.512 INFO    14 Request [Q3] processed in 5 ms.  
+11.05.2018 01:04:23.512 INFO    12 Request [Q4] processed in 5 ms.  
+11.05.2018 01:04:23.513 INFO    16 Request [Q1] processed in 6 ms.  
+11.05.2018 01:04:23.517 INFO    14 Request [Q5] processed in 11 ms.  
+11.05.2018 01:04:24.965 INFO    14 Request [Q4] processed in 1 ms.  
+11.05.2018 01:04:24.965 INFO    16 Request [Q5] processed in 2 ms.  
+11.05.2018 01:04:24.965 INFO    15 Request [Q6] processed in 2 ms.  
+11.05.2018 01:04:24.966 INFO    13 Request [Q3] processed in 2 ms.  
+11.05.2018 01:04:24.966 INFO    12 Request [Q7] processed in 3 ms.  
+11.05.2018 01:04:24.967 INFO    14 Request [Q1] processed in 4 ms.  
+11.05.2018 01:04:24.972 INFO    15 Request [Q2] processed in 9 ms.  
+11.05.2018 01:04:26.496 INFO    14 Request [Q4] processed in 14 ms.  
+11.05.2018 01:04:26.496 INFO    15 Request [Q7] processed in 14 ms.  
+11.05.2018 01:04:26.496 INFO    13 Request [Q1] processed in 14 ms.  
+11.05.2018 01:04:26.497 INFO    16 Request [Q5] processed in 13 ms.  
+11.05.2018 01:04:26.497 INFO    14 Request [Q6] processed in 15 ms.  
+11.05.2018 01:04:26.502 INFO    15 Request [Q3] processed in 20 ms.  
+11.05.2018 01:04:26.504 INFO    13 Request [Q2] processed in 22 ms.  
+11.05.2018 01:04:27.980 INFO    14 Request [Q6] processed in 14 ms.  
+11.05.2018 01:04:27.980 INFO    15 Request [Q1] processed in 14 ms.  
+11.05.2018 01:04:27.980 INFO    16 Request [Q3] processed in 14 ms.  
+11.05.2018 01:04:27.980 INFO    13 Request [Q4] processed in 14 ms.  
+11.05.2018 01:04:27.981 INFO    14 Request [Q7] processed in 15 ms.  
+11.05.2018 01:04:27.986 INFO    13 Request [Q5] processed in 19 ms.  
+11.05.2018 01:04:27.988 INFO    15 Request [Q2] processed in 22 ms.  
+11.05.2018 01:04:29.199 INFO    13 Request [Q5] processed in 6 ms.  
+11.05.2018 01:04:29.200 INFO    15 Request [Q1] processed in 7 ms.  
+11.05.2018 01:04:29.199 INFO    16 Request [Q2] processed in 6 ms.  
+11.05.2018 01:04:29.199 INFO    14 Request [Q6] processed in 6 ms.  
+11.05.2018 01:04:29.201 INFO    13 Request [Q7] processed in 7 ms.  
+11.05.2018 01:04:29.205 INFO    14 Request [Q4] processed in 12 ms.  
+11.05.2018 01:04:29.207 INFO    15 Request [Q3] processed in 13 ms.  
+11.05.2018 01:04:30.449 INFO    13 Request [Q6] processed in 12 ms.  
+11.05.2018 01:04:30.449 INFO    16 Request [Q4] processed in 12 ms.  
+11.05.2018 01:04:30.450 INFO    15 Request [Q7] processed in 12 ms.  
+11.05.2018 01:04:30.450 INFO    14 Request [Q2] processed in 13 ms.  
+11.05.2018 01:04:30.451 INFO    13 Request [Q5] processed in 14 ms.  
+11.05.2018 01:04:30.450 INFO    12 Request [Q1] processed in 13 ms.  
+11.05.2018 01:04:30.456 INFO    16 Request [Q3] processed in 21 ms.  
+11.05.2018 01:04:31.637 INFO    13 Request [Q2] processed in 3 ms.  
+11.05.2018 01:04:31.638 INFO    15 Request [Q1] processed in 4 ms.  
+11.05.2018 01:04:31.637 INFO    12 Request [Q7] processed in 3 ms.  
+11.05.2018 01:04:31.637 INFO    14 Request [Q4] processed in 3 ms.  
+11.05.2018 01:04:31.637 INFO    16 Request [Q5] processed in 3 ms.  
+11.05.2018 01:04:31.639 INFO    13 Request [Q6] processed in 5 ms.  
+11.05.2018 01:04:31.643 INFO    16 Request [Q3] processed in 9 ms.  
+11.05.2018 01:04:32.808 INFO    16 Request [Q2] processed in 9 ms.  
+11.05.2018 01:04:32.809 INFO    15 Request [Q5] processed in 10 ms.  
+11.05.2018 01:04:32.809 INFO    14 Request [Q6] processed in 10 ms.  
+11.05.2018 01:04:32.809 INFO    13 Request [Q4] processed in 10 ms.  
+11.05.2018 01:04:32.808 INFO    12 Request [Q3] processed in 9 ms.  
+11.05.2018 01:04:32.811 INFO    16 Request [Q7] processed in 12 ms.  
+11.05.2018 01:04:32.819 INFO    15 Request [Q1] processed in 20 ms.  
+11.05.2018 01:04:33.917 INFO    14 Request [Q3] processed in 8 ms.  
+11.05.2018 01:04:33.918 INFO    13 Request [Q5] processed in 9 ms.  
+11.05.2018 01:04:33.919 INFO    15 Request [Q4] processed in 10 ms.  
+11.05.2018 01:04:33.917 INFO    12 Request [Q7] processed in 8 ms.  
+11.05.2018 01:04:33.917 INFO    16 Request [Q6] processed in 8 ms.  
+11.05.2018 01:04:33.920 INFO    14 Request [Q2] processed in 11 ms.  
+11.05.2018 01:04:33.925 INFO    16 Request [Q1] processed in 16 ms.  
+11.05.2018 01:04:34.918 INFO    15 Request [Q4] processed in 4 ms.  
+11.05.2018 01:04:34.918 INFO    16 Request [Q3] processed in 4 ms.  
+11.05.2018 01:04:34.918 INFO    12 Request [Q7] processed in 4 ms.  
+11.05.2018 01:04:34.919 INFO    14 Request [Q6] processed in 5 ms.  
+11.05.2018 01:04:34.920 INFO    15 Request [Q5] processed in 5 ms.  
+11.05.2018 01:04:34.923 INFO    14 Request [Q1] processed in 9 ms.  
+11.05.2018 01:04:34.926 INFO    15 Request [Q2] processed in 12 ms.  
+11.05.2018 01:04:35.981 INFO    14 Request [Q1] processed in 15 ms.  
+11.05.2018 01:04:35.981 INFO    16 Request [Q7] processed in 16 ms.  
+11.05.2018 01:04:35.981 INFO    12 Request [Q3] processed in 16 ms.  
+11.05.2018 01:04:35.981 INFO    15 Request [Q5] processed in 16 ms.  
+11.05.2018 01:04:35.982 INFO    14 Request [Q4] processed in 17 ms.  
+11.05.2018 01:04:35.987 INFO    16 Request [Q2] processed in 22 ms.  
+11.05.2018 01:04:35.989 INFO    12 Request [Q6] processed in 24 ms.  
+11.05.2018 01:04:36.902 INFO    12 Request [Q2] processed in 14 ms.  
+11.05.2018 01:04:36.902 INFO    15 Request [Q3] processed in 14 ms.  
+11.05.2018 01:04:36.902 INFO    14 Request [Q1] processed in 14 ms.  
+11.05.2018 01:04:36.903 INFO    16 Request [Q5] processed in 15 ms.  
+11.05.2018 01:04:36.904 INFO    12 Request [Q4] processed in 16 ms.  
+11.05.2018 01:04:36.908 INFO    16 Request [Q6] processed in 20 ms.  
+11.05.2018 01:04:36.912 INFO    15 Request [Q7] processed in 24 ms.  
+11.05.2018 01:04:37.823 INFO    13 Request [Q2] processed in 13 ms.  
+11.05.2018 01:04:37.823 INFO    16 Request [Q4] processed in 13 ms.  
+11.05.2018 01:04:37.824 INFO    15 Request [Q1] processed in 14 ms.  
+11.05.2018 01:04:37.824 INFO    12 Request [Q7] processed in 14 ms.  
+11.05.2018 01:04:37.824 INFO    14 Request [Q5] processed in 14 ms.  
+11.05.2018 01:04:37.824 INFO    20 Request [Q6] processed in 15 ms.  
+11.05.2018 01:04:37.826 INFO    13 Request [Q3] processed in 16 ms.  
+11.05.2018 01:04:38.761 INFO    14 Request [Q5] processed in 12 ms.  
+11.05.2018 01:04:38.761 INFO    12 Request [Q7] processed in 12 ms.  
+11.05.2018 01:04:38.762 INFO    16 Request [Q3] processed in 13 ms.  
+11.05.2018 01:04:38.762 INFO    11 Request [Q6] processed in 13 ms.  
+11.05.2018 01:04:38.762 INFO    20 Request [Q2] processed in 13 ms.  
+11.05.2018 01:04:38.762 INFO    19 Request [Q1] processed in 14 ms.  
+11.05.2018 01:04:38.763 INFO     9 Request [Q4] processed in 14 ms.  
+11.05.2018 01:04:39.778 INFO    15 Request [Q6] processed in 13 ms.  
+11.05.2018 01:04:39.779 INFO    12 Request [Q5] processed in 14 ms.  
+11.05.2018 01:04:39.779 INFO    11 Request [Q4] processed in 14 ms.  
+11.05.2018 01:04:39.779 INFO     9 Request [Q3] processed in 15 ms.  
+11.05.2018 01:04:39.780 INFO    20 Request [Q7] processed in 16 ms.  
+11.05.2018 01:04:39.781 INFO    16 Request [Q1] processed in 16 ms.  
+11.05.2018 01:04:39.781 INFO    10 Request [Q2] processed in 16 ms.  
+11.05.2018 01:04:40.668 INFO    16 Request [Q3] processed in 10 ms.  
+11.05.2018 01:04:40.668 INFO    11 Request [Q5] processed in 10 ms.  
+11.05.2018 01:04:40.668 INFO    14 Request [Q2] processed in 11 ms.  
+11.05.2018 01:04:40.669 INFO     8 Request [Q6] processed in 11 ms.  
+11.05.2018 01:04:40.669 INFO     9 Request [Q7] processed in 11 ms.  
+11.05.2018 01:04:40.669 INFO    13 Request [Q4] processed in 12 ms.  
+11.05.2018 01:04:40.669 INFO    20 Request [Q1] processed in 12 ms.  
+11.05.2018 01:04:41.418 INFO    19 Request [Q6] processed in 9 ms.  
+11.05.2018 01:04:41.419 INFO    12 Request [Q2] processed in 11 ms.  
+11.05.2018 01:04:41.419 INFO    13 Request [Q1] processed in 11 ms.  
+11.05.2018 01:04:41.419 INFO    20 Request [Q3] processed in 11 ms.  
+11.05.2018 01:04:41.419 INFO    15 Request [Q4] processed in 11 ms.  
+11.05.2018 01:04:41.418 INFO    14 Request [Q5] processed in 9 ms.  
+11.05.2018 01:04:41.418 INFO     8 Request [Q7] processed in 9 ms.  
+11.05.2018 01:04:42.340 INFO    12 Request [Q7] processed in 5 ms.  
+11.05.2018 01:04:42.341 INFO    16 Request [Q4] processed in 7 ms.  
+11.05.2018 01:04:42.341 INFO    15 Request [Q3] processed in 7 ms.  
+11.05.2018 01:04:42.341 INFO    10 Request [Q1] processed in 7 ms.  
+11.05.2018 01:04:42.340 INFO    13 Request [Q5] processed in 6 ms.  
+11.05.2018 01:04:42.340 INFO    20 Request [Q2] processed in 5 ms.  
+11.05.2018 01:04:42.340 INFO    14 Request [Q6] processed in 6 ms.  
+11.05.2018 01:04:43.246 INFO    20 Request [Q7] processed in 12 ms.  
+11.05.2018 01:04:43.246 INFO    19 Request [Q6] processed in 13 ms.  
+11.05.2018 01:04:43.246 INFO    13 Request [Q1] processed in 12 ms.  
+11.05.2018 01:04:43.247 INFO     8 Request [Q3] processed in 13 ms.  
+11.05.2018 01:04:43.247 INFO    12 Request [Q5] processed in 13 ms.  
+11.05.2018 01:04:43.247 INFO    14 Request [Q2] processed in 13 ms.  
+11.05.2018 01:04:43.246 INFO     9 Request [Q4] processed in 12 ms.  
+11.05.2018 01:04:44.137 INFO    14 Request [Q3] processed in 10 ms.  
+11.05.2018 01:04:44.137 INFO    13 Request [Q1] processed in 10 ms.  
+11.05.2018 01:04:44.137 INFO     8 Request [Q6] processed in 10 ms.  
+11.05.2018 01:04:44.137 INFO    15 Request [Q2] processed in 10 ms.  
+11.05.2018 01:04:44.137 INFO    11 Request [Q5] processed in 10 ms.  
+11.05.2018 01:04:44.137 INFO    16 Request [Q7] processed in 11 ms.  
+11.05.2018 01:04:44.137 INFO    19 Request [Q4] processed in 11 ms.  
+11.05.2018 01:04:44.965 INFO    13 Request [Q6] processed in 4 ms.  
+11.05.2018 01:04:44.965 INFO     8 Request [Q7] processed in 4 ms.  
+11.05.2018 01:04:44.965 INFO    19 Request [Q1] processed in 4 ms.  
+11.05.2018 01:04:44.965 INFO    16 Request [Q4] processed in 4 ms.  
+11.05.2018 01:04:44.966 INFO    15 Request [Q3] processed in 5 ms.  
+11.05.2018 01:04:44.966 INFO    11 Request [Q2] processed in 5 ms.  
+11.05.2018 01:04:44.966 INFO    12 Request [Q5] processed in 5 ms.  
+11.05.2018 01:04:45.856 INFO    19 Request [Q7] processed in 10 ms.  
+11.05.2018 01:04:45.856 INFO    11 Request [Q3] processed in 10 ms.  
+11.05.2018 01:04:45.856 INFO    16 Request [Q4] processed in 10 ms.  
+11.05.2018 01:04:45.857 INFO     8 Request [Q6] processed in 10 ms.  
+11.05.2018 01:04:45.857 INFO    12 Request [Q1] processed in 11 ms.  
+11.05.2018 01:04:45.857 INFO    15 Request [Q2] processed in 11 ms.  
+11.05.2018 01:04:45.857 INFO    20 Request [Q5] processed in 11 ms.  
+11.05.2018 01:04:46.778 INFO    16 Request [Q2] processed in 10 ms.  
+11.05.2018 01:04:46.779 INFO    10 Request [Q6] processed in 11 ms.  
+11.05.2018 01:04:46.779 INFO    20 Request [Q3] processed in 11 ms.  
+11.05.2018 01:04:46.779 INFO    13 Request [Q1] processed in 11 ms.  
+11.05.2018 01:04:46.778 INFO    12 Request [Q4] processed in 10 ms.  
+11.05.2018 01:04:46.778 INFO    11 Request [Q5] processed in 10 ms.  
+11.05.2018 01:04:46.778 INFO     8 Request [Q7] processed in 10 ms.  
+11.05.2018 01:04:47.793 INFO     9 Request [Q5] processed in 10 ms.  
+11.05.2018 01:04:47.793 INFO    13 Request [Q7] processed in 10 ms.  
+11.05.2018 01:04:47.793 INFO     8 Request [Q2] processed in 10 ms.  
+11.05.2018 01:04:47.793 INFO    19 Request [Q6] processed in 10 ms.  
+11.05.2018 01:04:47.795 INFO     9 Request [Q1] processed in 12 ms.  
+11.05.2018 01:04:47.799 INFO    13 Request [Q3] processed in 16 ms.  
+11.05.2018 01:04:47.802 INFO     9 Request [Q4] processed in 19 ms.  
+11.05.2018 01:04:48.684 INFO    19 Request [Q6] processed in 7 ms.  
+11.05.2018 01:04:48.684 INFO     9 Request [Q5] processed in 7 ms.  
+11.05.2018 01:04:48.684 INFO     8 Request [Q2] processed in 8 ms.  
+11.05.2018 01:04:48.684 INFO    13 Request [Q3] processed in 7 ms.  
+11.05.2018 01:04:48.686 INFO    19 Request [Q4] processed in 9 ms.  
+11.05.2018 01:04:48.689 INFO     9 Request [Q7] processed in 12 ms.  
+11.05.2018 01:04:48.691 INFO     8 Request [Q1] processed in 14 ms.  
+11.05.2018 01:04:49.605 INFO    13 Request [Q7] processed in 10 ms.  
+11.05.2018 01:04:49.605 INFO     9 Request [Q1] processed in 10 ms.  
+11.05.2018 01:04:49.606 INFO     8 Request [Q3] processed in 10 ms.  
+11.05.2018 01:04:49.605 INFO    19 Request [Q5] processed in 10 ms.  
+11.05.2018 01:04:49.607 INFO    13 Request [Q6] processed in 12 ms.  
+11.05.2018 01:04:49.611 INFO     8 Request [Q2] processed in 16 ms.  
+11.05.2018 01:04:49.613 INFO    19 Request [Q4] processed in 18 ms.  
+11.05.2018 01:04:50.419 INFO     9 Request [Q6] processed in 8 ms.  
+11.05.2018 01:04:50.419 INFO     8 Request [Q5] processed in 8 ms.  
+11.05.2018 01:04:50.419 INFO    11 Request [Q7] processed in 8 ms.  
+11.05.2018 01:04:50.420 INFO    19 Request [Q2] processed in 8 ms.  
+11.05.2018 01:04:50.420 INFO    13 Request [Q1] processed in 8 ms.  
+11.05.2018 01:04:50.420 INFO    15 Request [Q4] processed in 9 ms.  
+11.05.2018 01:04:50.420 INFO    12 Request [Q3] processed in 8 ms.  
+11.05.2018 01:05:11.974 INFO     1 Server stopped.  
 [End of logging]
 
