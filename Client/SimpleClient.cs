@@ -22,8 +22,11 @@ namespace Client
             await Task.WhenAny(resultTask, Task.Delay(timeout));
 
             if (!resultTask.IsCompleted || resultTask.IsFaulted)
+            {
+                ProceedCancelRequest(uri, guid);
                 throw new TimeoutException();
-            
+            }
+
             return resultTask.Result;
         }
 

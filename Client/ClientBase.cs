@@ -41,10 +41,18 @@ namespace Client
                 var result = await new StreamReader(responseStream, Encoding.UTF8).ReadToEndAsync();
 
                 var responseTime = profiler.ElapsedMilliseconds;
-                Log.Info($"Response [{result}] from [{request.RequestUri.Port},{request.RequestUri.Query}] received in {responseTime} ms.");
+                if (result.Length != 0)
+                    Log.Info($"Response from [{request.RequestUri.Port},{request.RequestUri.Query}] received in {responseTime} ms.");
                 
                 return result;
             }
+        }
+
+        protected async Task ProceedCancelRequest(string uri, Guid cancelGuid)
+        {
+            var cancelRequest = CreateRequest($"{uri}?cancel={cancelGuid}");
+            cancelRequest.GetResponseAsync();
+            Log.Info($"Cancel request sent [{uri}, {cancelGuid}].");
         }
     }
 }

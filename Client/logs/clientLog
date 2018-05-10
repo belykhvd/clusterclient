@@ -559,4 +559,144 @@
 11.05.2018 01:04:50.454 INFO     9 Query processed [Q2] in 51 ms.  
 11.05.2018 01:04:50.459 INFO    11 Query processed [Q5] in 56 ms.  
 11.05.2018 01:04:50.463 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]11.05.2018 01:15:28.220 INFO     1 Testing Client.SimpleClient started  
+11.05.2018 01:15:28.327 INFO     9 Response [GY1BAaj5kxBfB0ljqMoehA==] from [666,?query=Q6&guid=ffab01a0-9b7c-4680-a084-ace6abd3773d] received in 34 ms.  
+11.05.2018 01:15:28.331 INFO    11 Response [Bweh9/y9F7229JueJSdRPQ==] from [666,?query=Q5&guid=7f539d82-9ed3-455d-955a-c8c62b7431f6] received in 39 ms.  
+11.05.2018 01:15:28.332 INFO     9 Query processed [Q6] in 40 ms.  
+11.05.2018 01:15:28.333 INFO    10 Response [/iCdgnRgsbrJBoL2YrDPZA==] from [666,?query=Q3&guid=4e73aa3d-e672-494a-a603-a7ca16177a38] received in 41 ms.  
+11.05.2018 01:15:28.334 INFO    12 Response [GVtli6e2/eHEhs/xkN8pAQ==] from [666,?query=Q7&guid=e06f64f7-cfd7-4180-8d83-b739390f38f6] received in 42 ms.  
+11.05.2018 01:15:28.335 INFO    11 Query processed [Q5] in 43 ms.  
+11.05.2018 01:15:28.337 INFO    11 Response [FPlISyGrxk9wBVsLjI6xnw==] from [666,?query=Q4&guid=7340058b-e142-426e-9731-d6dadafed386] received in 45 ms.  
+11.05.2018 01:15:28.343 INFO    11 Query processed [Q4] in 51 ms.  
+11.05.2018 01:15:28.346 INFO    10 Query processed [Q3] in 54 ms.  
+11.05.2018 01:15:28.348 INFO     9 Response [iTO2n0na2A7Ekfw5bav4RQ==] from [666,?query=Q1&guid=9c21a86a-d85b-463c-887b-2c5040592ade] received in 71 ms.  
+11.05.2018 01:15:28.353 INFO    12 Query processed [Q7] in 61 ms.  
+11.05.2018 01:15:28.354 INFO    11 Response [DQ+eB6vqC/yNHC2C2BhKww==] from [666,?query=Q2&guid=7192e58e-2458-4902-921a-ff404f01d7ea] received in 63 ms.  
+11.05.2018 01:15:28.358 INFO     9 Query processed [Q1] in 116 ms.  
+11.05.2018 01:15:28.364 INFO    11 Query processed [Q2] in 72 ms.  
+11.05.2018 01:15:28.367 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]11.05.2018 01:16:05.267 INFO     1 Testing Client.SimpleClient started  
+11.05.2018 01:16:05.495 INFO    10 Cancel request sent [http://127.0.0.1:666/do, 9d46553d-c36f-44b8-81c2-33647c45584a].  
+11.05.2018 01:16:05.495 INFO     9 Response [] from [666,?query=Q7&guid=9d46553d-c36f-44b8-81c2-33647c45584a] received in 151 ms.  
+11.05.2018 01:16:05.514 WARN    10 Query [Q7] timeout (170 ms).  
+11.05.2018 01:16:05.518 INFO    10 Response [] from [666,?query=Q3&guid=e380d413-c7f8-421d-94f9-86686ca063af] received in 175 ms.  
+11.05.2018 01:16:05.519 INFO     9 Cancel request sent [http://127.0.0.1:666/do, e380d413-c7f8-421d-94f9-86686ca063af].  
+11.05.2018 01:16:05.526 WARN     9 Query [Q3] timeout (182 ms).  
+11.05.2018 01:16:05.538 INFO     9 Response [] from [666,?query=Q5&guid=2db588fd-2aca-43cd-903b-1ca520262fa4] received in 194 ms.  
+11.05.2018 01:16:05.538 INFO    10 Cancel request sent [http://127.0.0.1:666/do, 2db588fd-2aca-43cd-903b-1ca520262fa4].  
+11.05.2018 01:16:05.545 WARN    10 Query [Q5] timeout (202 ms).  
+11.05.2018 01:16:05.561 INFO    10 Response [] from [666,?query=Q6&guid=023e05a4-167d-49f2-9370-6de51ce0f101] received in 217 ms.  
+11.05.2018 01:16:05.561 INFO     9 Cancel request sent [http://127.0.0.1:666/do, 023e05a4-167d-49f2-9370-6de51ce0f101].  
+11.05.2018 01:16:05.561 INFO    12 Cancel request sent [http://127.0.0.1:666/do, 856e8fac-60ae-4248-9bcb-3fdbce20059c].  
+11.05.2018 01:16:05.563 INFO    11 Response [DQ+eB6vqC/yNHC2C2BhKww==] from [666,?query=Q2&guid=856e8fac-60ae-4248-9bcb-3fdbce20059c] received in 219 ms.  
+11.05.2018 01:16:05.570 WARN     9 Query [Q6] timeout (226 ms).  
+11.05.2018 01:16:05.581 WARN    12 Query [Q2] timeout (238 ms).  
+11.05.2018 01:16:05.591 INFO     9 Cancel request sent [http://127.0.0.1:666/do, c0400965-0eee-4a29-bb5c-9cfacd935310].  
+11.05.2018 01:16:05.591 INFO    12 Response [] from [666,?query=Q1&guid=c0400965-0eee-4a29-bb5c-9cfacd935310] received in 262 ms.  
+11.05.2018 01:16:05.594 WARN     9 Query [Q1] timeout (303 ms).  
+11.05.2018 01:16:05.616 INFO     9 Response [] from [666,?query=Q4&guid=c67be1b9-5e12-4c09-87a6-e34ac15d07b6] received in 272 ms.  
+11.05.2018 01:16:05.616 INFO    12 Cancel request sent [http://127.0.0.1:666/do, c67be1b9-5e12-4c09-87a6-e34ac15d07b6].  
+11.05.2018 01:16:05.623 WARN    12 Query [Q4] timeout (279 ms).  
+11.05.2018 01:16:05.624 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]11.05.2018 01:20:37.363 INFO     1 Testing Client.SimpleClient started  
+11.05.2018 01:20:37.475 INFO    12 Cancel request sent [http://127.0.0.1:666/do, 1fdb0a2d-8575-416d-ade6-8e25fcf2ce16].  
+11.05.2018 01:20:37.475 INFO     9 Response [] from [666,?query=Q5&guid=35672628-b08f-4d9a-b8c2-f632962d5357] received in 34 ms.  
+11.05.2018 01:20:37.475 INFO    11 Response [] from [666,?query=Q1&guid=1fdb0a2d-8575-416d-ade6-8e25fcf2ce16] received in 48 ms.  
+11.05.2018 01:20:37.475 INFO    10 Cancel request sent [http://127.0.0.1:666/do, 35672628-b08f-4d9a-b8c2-f632962d5357].  
+11.05.2018 01:20:37.477 INFO     9 Response [] from [666,?query=Q6&guid=18d9e0df-1505-464d-aeef-43a9d7f570dd] received in 36 ms.  
+11.05.2018 01:20:37.478 INFO    11 Cancel request sent [http://127.0.0.1:666/do, 18d9e0df-1505-464d-aeef-43a9d7f570dd].  
+11.05.2018 01:20:37.478 INFO     9 Response [] from [666,?query=Q4&guid=0896092d-8d59-4128-831a-9ea0ba610dc3] received in 37 ms.  
+11.05.2018 01:20:37.479 INFO     9 Cancel request sent [http://127.0.0.1:666/do, 0896092d-8d59-4128-831a-9ea0ba610dc3].  
+11.05.2018 01:20:37.487 WARN    12 Query [Q1] timeout (98 ms).  
+11.05.2018 01:20:37.487 WARN    10 Query [Q5] timeout (46 ms).  
+11.05.2018 01:20:37.487 WARN    11 Query [Q6] timeout (46 ms).  
+11.05.2018 01:20:37.487 WARN     9 Query [Q4] timeout (46 ms).  
+11.05.2018 01:20:37.488 INFO    12 Response [] from [666,?query=Q7&guid=72da3838-0645-4553-bce8-6eab6c849183] received in 47 ms.  
+11.05.2018 01:20:37.488 INFO    10 Cancel request sent [http://127.0.0.1:666/do, 72da3838-0645-4553-bce8-6eab6c849183].  
+11.05.2018 01:20:37.489 INFO    11 Response [] from [666,?query=Q2&guid=7f2b9678-8a61-40eb-b7dd-ee815927a67e] received in 48 ms.  
+11.05.2018 01:20:37.490 WARN    10 Query [Q7] timeout (49 ms).  
+11.05.2018 01:20:37.490 INFO    11 Response [] from [666,?query=Q3&guid=e7171e5b-1f77-4d19-8c34-0927a6c60e4c] received in 50 ms.  
+11.05.2018 01:20:37.490 INFO    12 Cancel request sent [http://127.0.0.1:666/do, 7f2b9678-8a61-40eb-b7dd-ee815927a67e].  
+11.05.2018 01:20:37.491 INFO    10 Cancel request sent [http://127.0.0.1:666/do, e7171e5b-1f77-4d19-8c34-0927a6c60e4c].  
+11.05.2018 01:20:37.491 WARN    12 Query [Q2] timeout (51 ms).  
+11.05.2018 01:20:37.492 WARN    10 Query [Q3] timeout (52 ms).  
+11.05.2018 01:20:37.493 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]11.05.2018 01:25:29.911 INFO     1 Testing Client.SimpleClient started  
+11.05.2018 01:25:29.991 INFO     5 Cancel request sent [http://127.0.0.1:666/do, 0c600ae1-7449-4166-866a-98a8c08c972e].  
+11.05.2018 01:25:29.991 INFO     4 Cancel request sent [http://127.0.0.1:666/do, 776f83e4-47bc-4773-9db6-ec799d5d3229].  
+11.05.2018 01:25:29.991 INFO     7 Cancel request sent [http://127.0.0.1:666/do, 69906814-645b-4c5d-9a7a-a4aa39a663d9].  
+11.05.2018 01:25:29.991 INFO     8 Cancel request sent [http://127.0.0.1:666/do, c1e6cb68-de6f-4519-b406-a0178fd010a9].  
+11.05.2018 01:25:30.005 WARN     4 Query [Q6] timeout (22 ms).  
+11.05.2018 01:25:30.005 WARN     7 Query [Q7] timeout (22 ms).  
+11.05.2018 01:25:30.005 WARN     5 Query [Q5] timeout (22 ms).  
+11.05.2018 01:25:30.005 WARN     8 Query [Q4] timeout (23 ms).  
+11.05.2018 01:25:30.006 INFO     4 Cancel request sent [http://127.0.0.1:666/do, 72db450c-a940-43e7-a526-5dff912c9323].  
+11.05.2018 01:25:30.008 INFO     7 Cancel request sent [http://127.0.0.1:666/do, 24808721-939f-4b61-b724-4860bcd61588].  
+11.05.2018 01:25:30.009 INFO    11 Response [] from [666,?query=Q6&guid=776f83e4-47bc-4773-9db6-ec799d5d3229] received in 26 ms.  
+11.05.2018 01:25:30.009 INFO     5 Cancel request sent [http://127.0.0.1:666/do, 9731361e-8666-4757-b2b2-21f48fdcc8e6].  
+11.05.2018 01:25:30.010 WARN     7 Query [Q2] timeout (29 ms).  
+11.05.2018 01:25:30.011 INFO     9 Response [] from [666,?query=Q7&guid=69906814-645b-4c5d-9a7a-a4aa39a663d9] received in 28 ms.  
+11.05.2018 01:25:30.011 INFO    10 Response [] from [666,?query=Q5&guid=0c600ae1-7449-4166-866a-98a8c08c972e] received in 29 ms.  
+11.05.2018 01:25:30.011 WARN     4 Query [Q3] timeout (32 ms).  
+11.05.2018 01:25:30.011 INFO    11 Response [] from [666,?query=Q4&guid=c1e6cb68-de6f-4519-b406-a0178fd010a9] received in 34 ms.  
+11.05.2018 01:25:30.011 INFO    12 Response [] from [666,?query=Q3&guid=72db450c-a940-43e7-a526-5dff912c9323] received in 35 ms.  
+11.05.2018 01:25:30.016 INFO     9 Response [] from [666,?query=Q2&guid=24808721-939f-4b61-b724-4860bcd61588] received in 37 ms.  
+11.05.2018 01:25:30.016 WARN     5 Query [Q1] timeout (85 ms).  
+11.05.2018 01:25:30.016 INFO    10 Response [] from [666,?query=Q1&guid=9731361e-8666-4757-b2b2-21f48fdcc8e6] received in 51 ms.  
+11.05.2018 01:25:30.016 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]11.05.2018 01:28:18.928 INFO     1 Testing Client.SimpleClient started  
+11.05.2018 01:28:19.008 INFO     8 Cancel request sent [http://127.0.0.1:666/do, 31ee7e0d-8655-4a4e-941f-062eb769c1b6].  
+11.05.2018 01:28:19.008 INFO     5 Cancel request sent [http://127.0.0.1:666/do, 3739f3e8-3e5f-48eb-ab01-5af7352d0f05].  
+11.05.2018 01:28:19.008 INFO     4 Cancel request sent [http://127.0.0.1:666/do, b9ad2fee-c731-45c2-b6be-9b9a30525d7f].  
+11.05.2018 01:28:19.008 INFO     7 Cancel request sent [http://127.0.0.1:666/do, 5f985e68-97b0-4fac-ba2d-6409eba6cadc].  
+11.05.2018 01:28:19.018 WARN     8 Query [Q7] timeout (23 ms).  
+11.05.2018 01:28:19.018 WARN     7 Query [Q6] timeout (23 ms).  
+11.05.2018 01:28:19.018 WARN     5 Query [Q4] timeout (23 ms).  
+11.05.2018 01:28:19.018 WARN     4 Query [Q5] timeout (23 ms).  
+11.05.2018 01:28:19.018 INFO     8 Cancel request sent [http://127.0.0.1:666/do, 0db3e87e-362d-4bb4-ac0b-7b3dd048a766].  
+11.05.2018 01:28:19.018 INFO     4 Cancel request sent [http://127.0.0.1:666/do, d9ded736-8f1d-44b9-96a8-757aa280f3bf].  
+11.05.2018 01:28:19.023 WARN     8 Query [Q3] timeout (26 ms).  
+11.05.2018 01:28:19.023 INFO     5 Cancel request sent [http://127.0.0.1:666/do, 1a2fa775-0fe7-4c65-ba45-07edbe4b0269].  
+11.05.2018 01:28:19.028 WARN     4 Query [Q2] timeout (33 ms).  
+11.05.2018 01:28:19.028 WARN     5 Query [Q1] timeout (79 ms).  
+11.05.2018 01:28:19.028 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]11.05.2018 01:32:19.858 INFO     1 Testing Client.SimpleClient started  
+11.05.2018 01:32:19.953 INFO     4 Cancel request sent [http://127.0.0.1:666/do, ba159e9c-5968-4b26-848a-2a4eceaa524a].  
+11.05.2018 01:32:19.953 INFO     8 Cancel request sent [http://127.0.0.1:666/do, f9a51b40-20c2-4f47-99db-09d815da70ba].  
+11.05.2018 01:32:19.953 INFO     5 Cancel request sent [http://127.0.0.1:666/do, 87cd6548-1bf3-4caf-b723-9b1cf59d526f].  
+11.05.2018 01:32:19.958 INFO     7 Cancel request sent [http://127.0.0.1:666/do, 07b8b1e5-ce77-4855-934c-049051d8dae5].  
+11.05.2018 01:32:19.986 WARN     7 Query [Q5] timeout (44 ms).  
+11.05.2018 01:32:19.986 WARN     4 Query [Q4] timeout (44 ms).  
+11.05.2018 01:32:19.986 WARN     8 Query [Q7] timeout (43 ms).  
+11.05.2018 01:32:19.986 WARN     5 Query [Q6] timeout (43 ms).  
+11.05.2018 01:32:19.988 INFO     7 Cancel request sent [http://127.0.0.1:666/do, 8b2d6058-eb0c-4ab8-bbeb-15bc859c0ee7].  
+11.05.2018 01:32:19.988 WARN     7 Query [Q3] timeout (48 ms).  
+11.05.2018 01:32:19.988 INFO     4 Cancel request sent [http://127.0.0.1:666/do, eccb6234-ab13-46e6-a267-5c06ce02ffa9].  
+11.05.2018 01:32:19.993 INFO     8 Cancel request sent [http://127.0.0.1:666/do, 24d82204-d32a-437b-8247-84c1744e8635].  
+11.05.2018 01:32:19.998 WARN     4 Query [Q2] timeout (60 ms).  
+11.05.2018 01:32:20.003 WARN     8 Query [Q1] timeout (122 ms).  
+11.05.2018 01:32:20.003 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]11.05.2018 01:32:32.918 INFO     1 Testing Client.SimpleClient started  
+11.05.2018 01:32:33.000 INFO     5 Cancel request sent [http://127.0.0.1:666/do, a1fc54c5-0aab-4b05-8a62-6b3975747dcd].  
+11.05.2018 01:32:33.000 INFO     7 Cancel request sent [http://127.0.0.1:666/do, 7c6613fd-d7ee-437e-8f8e-e81d8bc10d03].  
+11.05.2018 01:32:33.001 INFO     4 Cancel request sent [http://127.0.0.1:666/do, 84ea60e0-f7af-4103-9905-109f3600d418].  
+11.05.2018 01:32:33.001 INFO     8 Cancel request sent [http://127.0.0.1:666/do, 3329d94f-436a-4e0f-8e6f-38c192cd484c].  
+11.05.2018 01:32:33.011 WARN     5 Query [Q6] timeout (21 ms).  
+11.05.2018 01:32:33.012 WARN     7 Query [Q4] timeout (21 ms).  
+11.05.2018 01:32:33.012 WARN     8 Query [Q5] timeout (23 ms).  
+11.05.2018 01:32:33.013 WARN     4 Query [Q7] timeout (23 ms).  
+11.05.2018 01:32:33.018 INFO     5 Cancel request sent [http://127.0.0.1:666/do, c7c4578a-9d39-4d9d-8684-552877fbf8f9].  
+11.05.2018 01:32:33.018 INFO     4 Cancel request sent [http://127.0.0.1:666/do, 5cd726e2-cfa8-40e5-9dc6-f2a479ee687d].  
+11.05.2018 01:32:33.018 INFO     7 Cancel request sent [http://127.0.0.1:666/do, 11cf8fc0-9ee7-4bb8-96b1-15ae9d2a04e5].  
+11.05.2018 01:32:33.018 INFO    12 Response from [666,?query=Q7&guid=84ea60e0-f7af-4103-9905-109f3600d418] received in 31 ms.  
+11.05.2018 01:32:33.018 INFO     9 Response from [666,?query=Q2&guid=5cd726e2-cfa8-40e5-9dc6-f2a479ee687d] received in 33 ms.  
+11.05.2018 01:32:33.023 INFO    11 Response from [666,?query=Q4&guid=7c6613fd-d7ee-437e-8f8e-e81d8bc10d03] received in 35 ms.  
+11.05.2018 01:32:33.023 INFO    10 Response from [666,?query=Q3&guid=c7c4578a-9d39-4d9d-8684-552877fbf8f9] received in 38 ms.  
+11.05.2018 01:32:33.028 WARN     4 Query [Q2] timeout (40 ms).  
+11.05.2018 01:32:33.033 INFO    10 Response from [666,?query=Q5&guid=3329d94f-436a-4e0f-8e6f-38c192cd484c] received in 44 ms.  
+11.05.2018 01:32:33.033 INFO    11 Response from [666,?query=Q6&guid=a1fc54c5-0aab-4b05-8a62-6b3975747dcd] received in 48 ms.  
+11.05.2018 01:32:33.038 WARN     5 Query [Q3] timeout (51 ms).  
+11.05.2018 01:32:33.038 INFO    12 Response from [666,?query=Q1&guid=11cf8fc0-9ee7-4bb8-96b1-15ae9d2a04e5] received in 65 ms.  
+11.05.2018 01:32:33.038 WARN     7 Query [Q1] timeout (101 ms).  
+11.05.2018 01:32:33.053 INFO     1 Testing Client.SimpleClient finished  
 [End of logging]

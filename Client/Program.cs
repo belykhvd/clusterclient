@@ -37,7 +37,7 @@ namespace Client
                             var timer = Stopwatch.StartNew();
                             try
                             {
-                                await client.ProceedRequestAsync(query, TimeSpan.FromMilliseconds(1000));
+                                await client.ProceedRequestAsync(query, TimeSpan.FromMilliseconds(10));
 
                                 Log.Info($"Query processed [{query}] in {timer.ElapsedMilliseconds} ms.");
                             }

@@ -56,7 +56,14 @@ namespace Server
                             var guidCancellationToken = guidCancellationTokenSource.Token;
 
                             TaskCancellationTokenSources[clientGuid] = guidCancellationTokenSource;
-                            await ComputationalAsyncCallback(serverArguments, context, guidCancellationToken);
+                            try
+                            {
+                                await ComputationalAsyncCallback(serverArguments, context, guidCancellationToken);
+                            }
+                            catch (OperationCanceledException)
+                            {
+                                Log.Warn($"Task [{queryString["query"]}] cancelled while or after computing/sending response.");
+                            }                            
                         }
                         else Log.Warn($"Bad request: guid [{guidString}] cannot be parsed.");
                     }                    

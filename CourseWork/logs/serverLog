@@ -283,3 +283,196 @@
 11.05.2018 01:05:11.974 INFO     1 Server stopped.  
 [End of logging]
 
+[Start of logging]
+11.05.2018 01:15:24.091 INFO     1 Server is starting listening prefixes: http://+:666/do/.  
+11.05.2018 01:15:24.110 INFO     1 Press <ENTER> to stop listening.  
+11.05.2018 01:15:28.325 INFO     6 Request [Q6] processed in 14 ms.  
+11.05.2018 01:15:28.325 INFO     5 Request [Q5] processed in 14 ms.  
+11.05.2018 01:15:28.326 INFO     8 Request [Q3] processed in 19 ms.  
+11.05.2018 01:15:28.325 INFO     7 Request [Q7] processed in 14 ms.  
+11.05.2018 01:15:28.326 INFO     6 Request [Q4] processed in 20 ms.  
+11.05.2018 01:15:28.332 INFO     5 Request [Q1] processed in 26 ms.  
+11.05.2018 01:15:28.333 INFO     8 Request [Q2] processed in 27 ms.  
+11.05.2018 01:15:52.699 INFO     1 Server stopped.  
+[End of logging]
+
+[Start of logging]
+11.05.2018 01:15:56.694 INFO     1 Server is starting listening prefixes: http://+:666/do/.  
+11.05.2018 01:15:56.712 INFO     1 Press <ENTER> to stop listening.  
+11.05.2018 01:16:05.381 ERROR    8 System.Threading.Tasks.TaskCanceledException: Отменена задача.
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   в Server.Program.<ComputeResponseAsync>d__6.MoveNext() в C:\Users\Jesse Pinkman\Desktop\OOP\CourseWork\CourseWork\Program.cs:строка 125
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   в Server.Program.<ComputationalAsyncCallback>d__3.MoveNext() в C:\Users\Jesse Pinkman\Desktop\OOP\CourseWork\CourseWork\Program.cs:строка 85
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   в Server.Program.<>c__DisplayClass2_0.<<CreateAsyncCallback>b__0>d.MoveNext() в C:\Users\Jesse Pinkman\Desktop\OOP\CourseWork\CourseWork\Program.cs:строка 59
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   в Server.HttpListenerExtensions.<>c__DisplayClass1_1.<<ProceedRequestsAsync>b__0>d.MoveNext() в C:\Users\Jesse Pinkman\Desktop\OOP\CourseWork\CourseWork\HttpListenerExtensions.cs:строка 26  
+11.05.2018 01:16:05.381 ERROR    6 System.Threading.Tasks.TaskCanceledException: Отменена задача.
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   в Server.Program.<ComputeResponseAsync>d__6.MoveNext() в C:\Users\Jesse Pinkman\Desktop\OOP\CourseWork\CourseWork\Program.cs:строка 125
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   в Server.Program.<ComputationalAsyncCallback>d__3.MoveNext() в C:\Users\Jesse Pinkman\Desktop\OOP\CourseWork\CourseWork\Program.cs:строка 85
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   в Server.Program.<>c__DisplayClass2_0.<<CreateAsyncCallback>b__0>d.MoveNext() в C:\Users\Jesse Pinkman\Desktop\OOP\CourseWork\CourseWork\Program.cs:строка 59
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   в Server.HttpListenerExtensions.<>c__DisplayClass1_1.<<ProceedRequestsAsync>b__0>d.MoveNext() в C:\Users\Jesse Pinkman\Desktop\OOP\CourseWork\CourseWork\HttpListenerExtensions.cs:строка 26  
+11.05.2018 01:16:05.381 ERROR    5 System.Threading.Tasks.TaskCanceledException: Отменена задача.
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   в Server.Program.<ComputeResponseAsync>d__6.MoveNext() в C:\Users\Jesse Pinkman\Desktop\OOP\CourseWork\CourseWork\Program.cs:строка 125
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   в Server.Program.<ComputationalAsyncCallback>d__3.MoveNext() в C:\Users\Jesse Pinkman\Desktop\OOP\CourseWork\CourseWork\Program.cs:строка 85
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   в Server.Program.<>c__DisplayClass2_0.<<CreateAsyncCallback>b__0>d.MoveNext() в C:\Users\Jesse Pinkman\Desktop\OOP\CourseWork\CourseWork\Program.cs:строка 59
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   в Server.HttpListenerExtensions.<>c__DisplayClass1_1.<<ProceedRequestsAsync>b__0>d.MoveNext() в C:\Users\Jesse Pinkman\Desktop\OOP\CourseWork\CourseWork\HttpListenerExtensions.cs:строка 26  
+11.05.2018 01:16:05.381 ERROR    7 System.Threading.Tasks.TaskCanceledException: Отменена задача.
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   в Server.Program.<ComputeResponseAsync>d__6.MoveNext() в C:\Users\Jesse Pinkman\Desktop\OOP\CourseWork\CourseWork\Program.cs:строка 125
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   в Server.Program.<ComputationalAsyncCallback>d__3.MoveNext() в C:\Users\Jesse Pinkman\Desktop\OOP\CourseWork\CourseWork\Program.cs:строка 85
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   в Server.Program.<>c__DisplayClass2_0.<<CreateAsyncCallback>b__0>d.MoveNext() в C:\Users\Jesse Pinkman\Desktop\OOP\CourseWork\CourseWork\Program.cs:строка 59
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   в Server.HttpListenerExtensions.<>c__DisplayClass1_1.<<ProceedRequestsAsync>b__0>d.MoveNext() в C:\Users\Jesse Pinkman\Desktop\OOP\CourseWork\CourseWork\HttpListenerExtensions.cs:строка 26  
+11.05.2018 01:16:05.496 INFO     8 Request [Q2] processed in 129 ms.  
+11.05.2018 01:16:05.520 ERROR    6 System.Threading.Tasks.TaskCanceledException: Отменена задача.
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   в Server.Program.<ComputeResponseAsync>d__6.MoveNext() в C:\Users\Jesse Pinkman\Desktop\OOP\CourseWork\CourseWork\Program.cs:строка 125
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   в Server.Program.<ComputationalAsyncCallback>d__3.MoveNext() в C:\Users\Jesse Pinkman\Desktop\OOP\CourseWork\CourseWork\Program.cs:строка 85
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   в Server.Program.<>c__DisplayClass2_0.<<CreateAsyncCallback>b__0>d.MoveNext() в C:\Users\Jesse Pinkman\Desktop\OOP\CourseWork\CourseWork\Program.cs:строка 59
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   в Server.HttpListenerExtensions.<>c__DisplayClass1_1.<<ProceedRequestsAsync>b__0>d.MoveNext() в C:\Users\Jesse Pinkman\Desktop\OOP\CourseWork\CourseWork\HttpListenerExtensions.cs:строка 26  
+11.05.2018 01:16:05.538 ERROR    5 System.Threading.Tasks.TaskCanceledException: Отменена задача.
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   в Server.Program.<ComputeResponseAsync>d__6.MoveNext() в C:\Users\Jesse Pinkman\Desktop\OOP\CourseWork\CourseWork\Program.cs:строка 125
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   в Server.Program.<ComputationalAsyncCallback>d__3.MoveNext() в C:\Users\Jesse Pinkman\Desktop\OOP\CourseWork\CourseWork\Program.cs:строка 85
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   в Server.Program.<>c__DisplayClass2_0.<<CreateAsyncCallback>b__0>d.MoveNext() в C:\Users\Jesse Pinkman\Desktop\OOP\CourseWork\CourseWork\Program.cs:строка 59
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   в Server.HttpListenerExtensions.<>c__DisplayClass1_1.<<ProceedRequestsAsync>b__0>d.MoveNext() в C:\Users\Jesse Pinkman\Desktop\OOP\CourseWork\CourseWork\HttpListenerExtensions.cs:строка 26  
+11.05.2018 01:20:27.037 INFO     1 Server stopped.  
+[End of logging]
+
+[Start of logging]
+11.05.2018 01:20:32.567 INFO     1 Server is starting listening prefixes: http://+:666/do/.  
+11.05.2018 01:20:32.584 INFO     1 Press <ENTER> to stop listening.  
+11.05.2018 01:20:37.473 WARN     7 Task [Q1] cancelled while or after computing/sending response.  
+11.05.2018 01:20:37.473 WARN     8 Task [Q5] cancelled while or after computing/sending response.  
+11.05.2018 01:20:37.473 WARN     5 Task [Q6] cancelled while or after computing/sending response.  
+11.05.2018 01:20:37.473 WARN     6 Task [Q7] cancelled while or after computing/sending response.  
+11.05.2018 01:20:37.475 WARN     7 Task [Q4] cancelled while or after computing/sending response.  
+11.05.2018 01:20:37.475 WARN     8 Task [Q2] cancelled while or after computing/sending response.  
+11.05.2018 01:20:37.477 WARN     5 Task [Q3] cancelled while or after computing/sending response.  
+11.05.2018 01:25:30.007 WARN    11 Task [Q6] cancelled while or after computing/sending response.  
+11.05.2018 01:25:30.009 WARN    11 Task [Q7] cancelled while or after computing/sending response.  
+11.05.2018 01:25:30.010 WARN    10 Task [Q5] cancelled while or after computing/sending response.  
+11.05.2018 01:25:30.011 WARN    13 Task [Q4] cancelled while or after computing/sending response.  
+11.05.2018 01:25:30.011 WARN    10 Task [Q3] cancelled while or after computing/sending response.  
+11.05.2018 01:25:30.011 WARN    12 Task [Q2] cancelled while or after computing/sending response.  
+11.05.2018 01:25:30.011 WARN    11 Task [Q1] cancelled while or after computing/sending response.  
+11.05.2018 01:28:19.023 WARN     8 Task [Q7] cancelled while or after computing/sending response.  
+11.05.2018 01:28:19.023 WARN     7 Task [Q5] cancelled while or after computing/sending response.  
+11.05.2018 01:28:19.023 WARN     5 Task [Q4] cancelled while or after computing/sending response.  
+11.05.2018 01:28:19.028 WARN     8 Task [Q6] cancelled while or after computing/sending response.  
+11.05.2018 01:28:19.028 WARN     7 Task [Q2] cancelled while or after computing/sending response.  
+11.05.2018 01:28:19.028 WARN     6 Task [Q3] cancelled while or after computing/sending response.  
+11.05.2018 01:28:19.028 WARN     5 Task [Q1] cancelled while or after computing/sending response.  
+11.05.2018 01:31:02.451 INFO     1 Server stopped.  
+[End of logging]
+
+[Start of logging]
+11.05.2018 01:32:17.462 INFO     1 Server is starting listening prefixes: http://+:666/do/.  
+11.05.2018 01:32:17.480 INFO     1 Press <ENTER> to stop listening.  
+11.05.2018 01:32:19.998 WARN     8 Task [Q5] cancelled while or after computing/sending response.  
+11.05.2018 01:32:19.998 WARN     5 Task [Q4] cancelled while or after computing/sending response.  
+11.05.2018 01:32:19.998 WARN     6 Task [Q7] cancelled while or after computing/sending response.  
+11.05.2018 01:32:19.998 WARN     7 Task [Q6] cancelled while or after computing/sending response.  
+11.05.2018 01:32:20.003 WARN     5 Task [Q3] cancelled while or after computing/sending response.  
+11.05.2018 01:32:20.003 WARN     8 Task [Q2] cancelled while or after computing/sending response.  
+11.05.2018 01:32:20.003 WARN     6 Task [Q1] cancelled while or after computing/sending response.  
+11.05.2018 01:32:27.727 INFO     1 Server stopped.  
+[End of logging]
+
+[Start of logging]
+11.05.2018 01:32:29.729 INFO     1 Server is starting listening prefixes: http://+:666/do/.  
+11.05.2018 01:32:29.744 INFO     1 Press <ENTER> to stop listening.  
+11.05.2018 01:32:33.013 INFO     5 Request [Q7] processed in 9 ms.  
+11.05.2018 01:32:33.013 INFO     6 Request [Q2] processed in 3 ms.  
+11.05.2018 01:32:33.013 INFO     8 Request [Q6] processed in 4 ms.  
+11.05.2018 01:32:33.013 INFO     7 Request [Q1] processed in 4 ms.  
+11.05.2018 01:32:33.018 INFO     5 Request [Q5] processed in 14 ms.  
+11.05.2018 01:32:33.018 INFO     6 Request [Q4] processed in 16 ms.  
+11.05.2018 01:32:33.023 INFO     6 Request [Q3] processed in 18 ms.  
+11.05.2018 01:33:53.579 INFO     1 Server stopped.  
+[End of logging]
+
