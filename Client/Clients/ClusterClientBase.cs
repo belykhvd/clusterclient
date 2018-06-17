@@ -6,17 +6,20 @@ using System.Linq;
 using System.Net;
 using System.Text;
 using System.Threading.Tasks;
+using Client.Dependencies;
 using log4net;
 
-namespace Client
+namespace Client.Clients
 {
-    public abstract class ClientBase
+    public abstract class ClusterClientBase
     {
-        protected readonly string[] ReplicaAddresses;        
-        
-        protected ClientBase(IEnumerable<string> replicaAddresses)
+        protected readonly string[] ReplicaAddresses;
+        protected readonly ClusterManager ClusterManager;
+
+        protected ClusterClientBase(IEnumerable<string> replicaAddresses)
         {
-            ReplicaAddresses = replicaAddresses.ToArray();            
+            ReplicaAddresses = replicaAddresses.ToArray();
+            ClusterManager = new ClusterManager(ReplicaAddresses);
         }
 
         public abstract Task<string> ProceedRequestAsync(string query, TimeSpan timeout);
@@ -34,15 +37,16 @@ namespace Client
 
         protected async Task<string> ProceedRequestAsync(WebRequest request)
         {
-            var profiler = Stopwatch.StartNew();
+            var stopwatch = Stopwatch.StartNew();
             using (var response = await request.GetResponseAsync())
             {
                 var responseStream = response.GetResponseStream();
                 var result = await new StreamReader(responseStream, Encoding.UTF8).ReadToEndAsync();
 
-                var responseTime = profiler.ElapsedMilliseconds;
-                if (result.Length != 0)
-                    Log.Info($"Response from [{request.RequestUri.Port},{request.RequestUri.Query}] received in {responseTime} ms.");
+                var responseTime = stopwatch.ElapsedMilliseconds;
+                /*if (result.Length != 0)
+                    Log.Info($"Response from [{request.RequestUri.Port},{request.RequestUri.Query}] received in {responseTime} ms.");*/
+                await RebalanceReplica(request.RequestUri, TimeSpan.FromMilliseconds(responseTime));
                 
                 return result;
             }
@@ -53,6 +57,20 @@ namespace Client
             var cancelRequest = CreateRequest($"{uri}?cancel={cancelGuid}");
             cancelRequest.GetResponseAsync();
             Log.Info($"Cancel request sent [{uri}, {cancelGuid}].");
+        }
+
+        private async Task RebalanceReplica(Uri requestUri, TimeSpan responseTimeSpan)
+        {
+            var replicaUri = $"{requestUri.Scheme}://{requestUri.Authority}{requestUri.LocalPath}";
+            ClusterManager.Rebalance(replicaUri, responseTimeSpan);            
+        }
+
+        protected Task<string> WebRequestTask(string uri, string query, Guid guid)
+        {
+            var webRequest = CreateRequest($"{uri}?query={query}&guid={guid}");
+            Log.Info($"Processing request [{query}] to [{uri}].");
+
+            return ProceedRequestAsync(webRequest);
         }
     }
 }

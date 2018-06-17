@@ -47,6 +47,8 @@ namespace Server
                 var queryString = context.Request.QueryString;
                 if (queryString["query"] != null)
                 {
+                    Log.Info($"Receive request [{queryString["query"]}].");
+
                     var guidString = queryString["guid"];
                     if (guidString != null)
                     {
@@ -63,7 +65,11 @@ namespace Server
                             catch (OperationCanceledException)
                             {
                                 Log.Warn($"Task [{queryString["query"]}] cancelled while or after computing/sending response.");
-                            }                            
+                            }
+                            catch (HttpListenerException)
+                            {
+                                Log.Warn("Response writing was aborted.");
+                            }
                         }
                         else Log.Warn($"Bad request: guid [{guidString}] cannot be parsed.");
                     }                    

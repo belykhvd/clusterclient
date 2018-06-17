@@ -1,0 +1,702 @@
+[Start of logging]11.05.2018 00:45:51.477 INFO     1 Testing Client.SimpleClient started  
+11.05.2018 00:45:51.574 INFO    12 Query processed [Q5] in 20 ms.  
+11.05.2018 00:45:51.579 INFO    12 Query processed [Q7] in 25 ms.  
+11.05.2018 00:45:51.581 INFO    12 Query processed [Q6] in 27 ms.  
+11.05.2018 00:45:51.583 INFO    11 Query processed [Q2] in 29 ms.  
+11.05.2018 00:45:51.584 INFO    12 Query processed [Q4] in 30 ms.  
+11.05.2018 00:45:51.588 INFO    11 Query processed [Q1] in 86 ms.  
+11.05.2018 00:45:51.598 INFO    11 Query processed [Q3] in 44 ms.  
+11.05.2018 00:45:51.599 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]11.05.2018 00:45:58.686 INFO     1 Testing Client.SimpleClient started  
+11.05.2018 00:45:58.770 INFO    12 Query processed [Q4] in 11 ms.  
+11.05.2018 00:45:58.775 INFO    12 Query processed [Q2] in 15 ms.  
+11.05.2018 00:45:58.775 INFO     9 Query processed [Q1] in 66 ms.  
+11.05.2018 00:45:58.777 INFO     9 Query processed [Q3] in 18 ms.  
+11.05.2018 00:45:58.780 INFO    12 Query processed [Q5] in 20 ms.  
+11.05.2018 00:45:58.782 INFO     9 Query processed [Q6] in 22 ms.  
+11.05.2018 00:45:58.785 INFO    12 Query processed [Q7] in 25 ms.  
+11.05.2018 00:45:58.790 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]11.05.2018 00:46:00.575 INFO     1 Testing Client.SimpleClient started  
+11.05.2018 00:46:00.654 INFO    12 Query processed [Q4] in 9 ms.  
+11.05.2018 00:46:00.658 INFO    12 Query processed [Q3] in 14 ms.  
+11.05.2018 00:46:00.659 INFO    12 Query processed [Q7] in 14 ms.  
+11.05.2018 00:46:00.661 INFO    12 Query processed [Q1] in 65 ms.  
+11.05.2018 00:46:00.663 INFO    12 Query processed [Q2] in 19 ms.  
+11.05.2018 00:46:00.665 INFO     9 Query processed [Q6] in 20 ms.  
+11.05.2018 00:46:00.667 INFO    12 Query processed [Q5] in 23 ms.  
+11.05.2018 00:46:00.672 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]11.05.2018 00:46:06.070 INFO     1 Testing Client.SimpleClient started  
+11.05.2018 00:46:06.148 INFO    12 Query processed [Q5] in 10 ms.  
+11.05.2018 00:46:06.152 INFO    12 Query processed [Q6] in 14 ms.  
+11.05.2018 00:46:06.154 INFO    12 Query processed [Q2] in 17 ms.  
+11.05.2018 00:46:06.156 INFO    12 Query processed [Q1] in 65 ms.  
+11.05.2018 00:46:06.157 INFO    12 Query processed [Q3] in 20 ms.  
+11.05.2018 00:46:06.162 INFO     9 Query processed [Q7] in 24 ms.  
+11.05.2018 00:46:06.165 INFO    12 Query processed [Q4] in 28 ms.  
+11.05.2018 00:46:06.167 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]11.05.2018 00:46:08.352 INFO     1 Testing Client.SimpleClient started  
+11.05.2018 00:46:08.437 INFO    12 Query processed [Q2] in 13 ms.  
+11.05.2018 00:46:08.455 INFO    12 Query processed [Q3] in 31 ms.  
+11.05.2018 00:46:08.456 INFO    12 Query processed [Q6] in 32 ms.  
+11.05.2018 00:46:08.458 INFO     9 Query processed [Q7] in 34 ms.  
+11.05.2018 00:46:08.460 INFO    12 Query processed [Q4] in 36 ms.  
+11.05.2018 00:46:08.461 INFO    11 Query processed [Q1] in 86 ms.  
+11.05.2018 00:46:08.463 INFO     9 Query processed [Q5] in 39 ms.  
+11.05.2018 00:46:08.471 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]11.05.2018 00:46:11.045 INFO     1 Testing Client.SimpleClient started  
+11.05.2018 00:46:11.128 INFO    10 Query processed [Q3] in 10 ms.  
+11.05.2018 00:46:11.132 INFO    10 Query processed [Q5] in 14 ms.  
+11.05.2018 00:46:11.134 INFO    10 Query processed [Q2] in 16 ms.  
+11.05.2018 00:46:11.135 INFO    10 Query processed [Q4] in 17 ms.  
+11.05.2018 00:46:11.137 INFO    10 Query processed [Q7] in 19 ms.  
+11.05.2018 00:46:11.138 INFO    10 Query processed [Q1] in 66 ms.  
+11.05.2018 00:46:11.143 INFO    10 Query processed [Q6] in 24 ms.  
+11.05.2018 00:46:11.145 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]11.05.2018 00:46:12.816 INFO     1 Testing Client.SimpleClient started  
+11.05.2018 00:46:12.895 INFO    12 Query processed [Q3] in 9 ms.  
+11.05.2018 00:46:12.898 INFO    12 Query processed [Q1] in 60 ms.  
+11.05.2018 00:46:12.899 INFO    11 Query processed [Q7] in 13 ms.  
+11.05.2018 00:46:12.901 INFO    12 Query processed [Q4] in 15 ms.  
+11.05.2018 00:46:12.902 INFO    11 Query processed [Q2] in 17 ms.  
+11.05.2018 00:46:12.905 INFO    12 Query processed [Q5] in 19 ms.  
+11.05.2018 00:46:12.907 INFO    11 Query processed [Q6] in 22 ms.  
+11.05.2018 00:46:12.911 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]11.05.2018 00:58:27.277 INFO     1 Testing Client.SimpleClient started  
+11.05.2018 00:58:27.384 INFO     9 Query processed [Q4] in 15 ms.  
+11.05.2018 00:58:27.384 INFO    10 Query processed [Q1] in 63 ms.  
+11.05.2018 00:58:27.385 INFO    11 Query processed [Q5] in 16 ms.  
+11.05.2018 00:58:27.387 INFO     9 Query processed [Q6] in 18 ms.  
+11.05.2018 00:58:27.389 INFO    10 Query processed [Q2] in 20 ms.  
+11.05.2018 00:58:27.391 INFO    12 Query processed [Q7] in 22 ms.  
+11.05.2018 00:58:27.392 INFO     9 Query processed [Q3] in 23 ms.  
+11.05.2018 00:58:27.401 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]11.05.2018 00:58:41.820 INFO     1 Testing Client.SimpleClient started  
+11.05.2018 00:58:41.909 INFO    12 Query processed [Q5] in 9 ms.  
+11.05.2018 00:58:41.913 INFO    12 Query processed [Q2] in 13 ms.  
+11.05.2018 00:58:41.914 INFO    12 Query processed [Q7] in 14 ms.  
+11.05.2018 00:58:41.916 INFO    12 Query processed [Q4] in 16 ms.  
+11.05.2018 00:58:41.917 INFO    10 Query processed [Q1] in 64 ms.  
+11.05.2018 00:58:41.919 INFO    12 Query processed [Q3] in 19 ms.  
+11.05.2018 00:58:41.921 INFO    10 Query processed [Q6] in 21 ms.  
+11.05.2018 00:58:41.926 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]11.05.2018 01:01:05.573 INFO     1 Testing Client.SimpleClient started  
+11.05.2018 01:01:05.656 INFO    11 Response from [666,?query=Q1] received in 23 ms.  
+11.05.2018 01:01:05.659 INFO    12 Response from [666,?query=Q3] received in 12 ms.  
+11.05.2018 01:01:05.661 INFO     9 Response from [666,?query=Q4] received in 14 ms.  
+11.05.2018 01:01:05.661 INFO    11 Query processed [Q1] in 64 ms.  
+11.05.2018 01:01:05.663 INFO    10 Response from [666,?query=Q5] received in 16 ms.  
+11.05.2018 01:01:05.666 INFO    12 Query processed [Q3] in 19 ms.  
+11.05.2018 01:01:05.672 INFO    12 Response from [666,?query=Q2] received in 26 ms.  
+11.05.2018 01:01:05.674 INFO    11 Response from [666,?query=Q6] received in 28 ms.  
+11.05.2018 01:01:05.676 INFO    10 Query processed [Q5] in 30 ms.  
+11.05.2018 01:01:05.683 INFO     9 Query processed [Q4] in 36 ms.  
+11.05.2018 01:01:05.685 INFO    12 Query processed [Q2] in 39 ms.  
+11.05.2018 01:01:05.687 INFO    11 Query processed [Q6] in 41 ms.  
+11.05.2018 01:01:05.688 INFO    10 Response from [666,?query=Q7] received in 42 ms.  
+11.05.2018 01:01:05.696 INFO    10 Query processed [Q7] in 49 ms.  
+11.05.2018 01:01:05.697 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]11.05.2018 01:01:51.638 INFO     1 Testing Client.SimpleClient started  
+11.05.2018 01:01:51.725 INFO     9 Response [] from [666,?query=Q2] received in 10 ms.  
+11.05.2018 01:01:51.727 INFO    11 Response [] from [666,?query=Q1] received in 27 ms.  
+11.05.2018 01:01:51.729 INFO    10 Response [] from [666,?query=Q7] received in 14 ms.  
+11.05.2018 01:01:51.729 INFO     9 Query processed [Q2] in 16 ms.  
+11.05.2018 01:01:51.730 INFO    12 Response [] from [666,?query=Q3] received in 16 ms.  
+11.05.2018 01:01:51.732 INFO    11 Query processed [Q1] in 69 ms.  
+11.05.2018 01:01:51.735 INFO    11 Response [] from [666,?query=Q5] received in 21 ms.  
+11.05.2018 01:01:51.742 INFO    11 Query processed [Q5] in 27 ms.  
+11.05.2018 01:01:51.743 INFO     9 Response [] from [666,?query=Q4] received in 29 ms.  
+11.05.2018 01:01:51.747 INFO    12 Query processed [Q3] in 32 ms.  
+11.05.2018 01:01:51.751 INFO    10 Query processed [Q7] in 36 ms.  
+11.05.2018 01:01:51.752 INFO    11 Response [] from [666,?query=Q6] received in 38 ms.  
+11.05.2018 01:01:51.754 INFO     9 Query processed [Q4] in 40 ms.  
+11.05.2018 01:01:51.761 INFO    11 Query processed [Q6] in 47 ms.  
+11.05.2018 01:01:51.763 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]11.05.2018 01:03:55.825 INFO     1 Testing Client.SimpleClient started  
+11.05.2018 01:03:55.936 INFO    11 Response [Bweh9/y9F7229JueJSdRPQ==] from [666,?query=Q5&guid=9b8e1a63-482a-4448-9baa-e57f8ea2fa87] received in 34 ms.  
+11.05.2018 01:03:55.940 INFO     9 Response [FPlISyGrxk9wBVsLjI6xnw==] from [666,?query=Q4&guid=9a0657e1-9055-491a-8cc7-cc0c553120e6] received in 38 ms.  
+11.05.2018 01:03:55.941 INFO    10 Response [GY1BAaj5kxBfB0ljqMoehA==] from [666,?query=Q6&guid=3ac861c4-c384-4365-b599-8eeddecb2912] received in 40 ms.  
+11.05.2018 01:03:55.943 INFO    11 Query processed [Q5] in 42 ms.  
+11.05.2018 01:03:55.944 INFO    12 Response [iTO2n0na2A7Ekfw5bav4RQ==] from [666,?query=Q1&guid=d506f0a5-284a-4784-8e3d-4b45db81ff72] received in 57 ms.  
+11.05.2018 01:03:55.948 INFO     9 Query processed [Q4] in 46 ms.  
+11.05.2018 01:03:55.954 INFO    10 Query processed [Q6] in 53 ms.  
+11.05.2018 01:03:55.956 INFO    11 Response [/iCdgnRgsbrJBoL2YrDPZA==] from [666,?query=Q3&guid=73f3397d-0b81-4827-9e86-9a102cf5f8e0] received in 55 ms.  
+11.05.2018 01:03:55.960 INFO    12 Query processed [Q1] in 111 ms.  
+11.05.2018 01:03:55.961 INFO     9 Response [DQ+eB6vqC/yNHC2C2BhKww==] from [666,?query=Q2&guid=bdb8b654-2e37-4501-acd7-0cccff49ce79] received in 60 ms.  
+11.05.2018 01:03:55.964 INFO    10 Response [GVtli6e2/eHEhs/xkN8pAQ==] from [666,?query=Q7&guid=da732693-29ad-430e-ac47-d67d6c0521fc] received in 63 ms.  
+11.05.2018 01:03:55.966 INFO    11 Query processed [Q3] in 65 ms.  
+11.05.2018 01:03:55.970 INFO     9 Query processed [Q2] in 69 ms.  
+11.05.2018 01:03:55.975 INFO    10 Query processed [Q7] in 73 ms.  
+11.05.2018 01:03:55.979 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]11.05.2018 01:04:23.422 INFO     1 Testing Client.SimpleClient started  
+11.05.2018 01:04:23.513 INFO    11 Response [GVtli6e2/eHEhs/xkN8pAQ==] from [666,?query=Q7&guid=48e7dfd2-bc8f-4f67-bb69-7fa1ca68b2f7] received in 16 ms.  
+11.05.2018 01:04:23.517 INFO    12 Response [/iCdgnRgsbrJBoL2YrDPZA==] from [666,?query=Q3&guid=71abd722-e2d2-478b-bf30-576ee8d737b3] received in 21 ms.  
+11.05.2018 01:04:23.518 INFO    11 Query processed [Q7] in 22 ms.  
+11.05.2018 01:04:23.519 INFO    10 Response [GY1BAaj5kxBfB0ljqMoehA==] from [666,?query=Q6&guid=aefc27de-cca6-4467-bf2b-20272587667d] received in 22 ms.  
+11.05.2018 01:04:23.521 INFO     9 Response [FPlISyGrxk9wBVsLjI6xnw==] from [666,?query=Q4&guid=de46466b-adce-4b35-902a-5891a669e7b2] received in 25 ms.  
+11.05.2018 01:04:23.523 INFO    12 Query processed [Q3] in 27 ms.  
+11.05.2018 01:04:23.529 INFO    12 Response [DQ+eB6vqC/yNHC2C2BhKww==] from [666,?query=Q2&guid=cc1601b5-148c-4319-b90c-c39f0e12ef8b] received in 33 ms.  
+11.05.2018 01:04:23.530 INFO    11 Response [iTO2n0na2A7Ekfw5bav4RQ==] from [666,?query=Q1&guid=4640f3aa-3a51-447e-940c-2de45acb76e9] received in 48 ms.  
+11.05.2018 01:04:23.536 INFO    10 Query processed [Q6] in 39 ms.  
+11.05.2018 01:04:23.540 INFO     9 Query processed [Q4] in 44 ms.  
+11.05.2018 01:04:23.543 INFO    12 Query processed [Q2] in 47 ms.  
+11.05.2018 01:04:23.545 INFO    11 Query processed [Q1] in 100 ms.  
+11.05.2018 01:04:23.546 INFO    10 Response [Bweh9/y9F7229JueJSdRPQ==] from [666,?query=Q5&guid=05903ab7-8b47-40a4-ba19-43d06b36b4b9] received in 50 ms.  
+11.05.2018 01:04:23.554 INFO    10 Query processed [Q5] in 58 ms.  
+11.05.2018 01:04:23.556 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]11.05.2018 01:04:24.886 INFO     1 Testing Client.SimpleClient started  
+11.05.2018 01:04:24.967 INFO    10 Response [FPlISyGrxk9wBVsLjI6xnw==] from [666,?query=Q4&guid=dc5f4c89-e5ae-49de-a8f4-10437d9e6dea] received in 13 ms.  
+11.05.2018 01:04:24.971 INFO     9 Response [GY1BAaj5kxBfB0ljqMoehA==] from [666,?query=Q6&guid=28ef35f5-263d-4103-8a7a-283a0b1d4f3b] received in 18 ms.  
+11.05.2018 01:04:24.972 INFO    10 Query processed [Q4] in 18 ms.  
+11.05.2018 01:04:24.972 INFO    12 Response [Bweh9/y9F7229JueJSdRPQ==] from [666,?query=Q5&guid=b68bb103-3cec-4e24-b237-8ae17e67a1a0] received in 18 ms.  
+11.05.2018 01:04:24.976 INFO     9 Query processed [Q6] in 22 ms.  
+11.05.2018 01:04:24.981 INFO    12 Query processed [Q5] in 27 ms.  
+11.05.2018 01:04:25.000 INFO    12 Response [/iCdgnRgsbrJBoL2YrDPZA==] from [666,?query=Q3&guid=bef5d3f2-5bd6-49d5-a6bb-eeb122edbeb6] received in 46 ms.  
+11.05.2018 01:04:25.004 INFO     9 Response [GVtli6e2/eHEhs/xkN8pAQ==] from [666,?query=Q7&guid=21f1dc20-8056-423b-885d-dc42082dc5b9] received in 50 ms.  
+11.05.2018 01:04:25.006 INFO    12 Query processed [Q3] in 53 ms.  
+11.05.2018 01:04:25.007 INFO    10 Response [iTO2n0na2A7Ekfw5bav4RQ==] from [666,?query=Q1&guid=1e716094-eda9-46d2-8d59-b2c1da0cf658] received in 65 ms.  
+11.05.2018 01:04:25.009 INFO    11 Response [DQ+eB6vqC/yNHC2C2BhKww==] from [666,?query=Q2&guid=026b6ec6-2379-4595-bd3b-66613d3c86ba] received in 56 ms.  
+11.05.2018 01:04:25.014 INFO     9 Query processed [Q7] in 60 ms.  
+11.05.2018 01:04:25.018 INFO    10 Query processed [Q1] in 110 ms.  
+11.05.2018 01:04:25.021 INFO    11 Query processed [Q2] in 68 ms.  
+11.05.2018 01:04:25.027 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]11.05.2018 01:04:26.398 INFO     1 Testing Client.SimpleClient started  
+11.05.2018 01:04:26.498 INFO    12 Response [FPlISyGrxk9wBVsLjI6xnw==] from [666,?query=Q4&guid=81616a6b-5a73-4f5e-9c4b-ad5d11b84b30] received in 24 ms.  
+11.05.2018 01:04:26.502 INFO    10 Response [GVtli6e2/eHEhs/xkN8pAQ==] from [666,?query=Q7&guid=c728ed91-8cc8-459c-adce-4a796b76018f] received in 28 ms.  
+11.05.2018 01:04:26.503 INFO    12 Query processed [Q4] in 30 ms.  
+11.05.2018 01:04:26.503 INFO    11 Response [iTO2n0na2A7Ekfw5bav4RQ==] from [666,?query=Q1&guid=7ce43429-79ec-4535-9bab-9334ea32976c] received in 44 ms.  
+11.05.2018 01:04:26.505 INFO     9 Response [Bweh9/y9F7229JueJSdRPQ==] from [666,?query=Q5&guid=a4be3600-cb17-4f78-b63e-8c3bd835511d] received in 32 ms.  
+11.05.2018 01:04:26.507 INFO    10 Query processed [Q7] in 34 ms.  
+11.05.2018 01:04:26.511 INFO    10 Response [GY1BAaj5kxBfB0ljqMoehA==] from [666,?query=Q6&guid=7b2a4129-9f33-4bf9-a18f-3693a3ff6596] received in 38 ms.  
+11.05.2018 01:04:26.513 INFO    12 Response [/iCdgnRgsbrJBoL2YrDPZA==] from [666,?query=Q3&guid=cc811b28-22d0-45cb-b5c5-26006594616c] received in 40 ms.  
+11.05.2018 01:04:26.516 INFO    11 Query processed [Q1] in 94 ms.  
+11.05.2018 01:04:26.518 INFO     9 Query processed [Q5] in 45 ms.  
+11.05.2018 01:04:26.524 INFO    10 Query processed [Q6] in 51 ms.  
+11.05.2018 01:04:26.526 INFO    12 Query processed [Q3] in 53 ms.  
+11.05.2018 01:04:26.528 INFO    11 Response [DQ+eB6vqC/yNHC2C2BhKww==] from [666,?query=Q2&guid=b44d7ad7-58a1-49bf-9f66-35d4900d62a5] received in 55 ms.  
+11.05.2018 01:04:26.535 INFO    11 Query processed [Q2] in 63 ms.  
+11.05.2018 01:04:26.536 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]11.05.2018 01:04:27.888 INFO     1 Testing Client.SimpleClient started  
+11.05.2018 01:04:27.982 INFO    10 Response [GY1BAaj5kxBfB0ljqMoehA==] from [666,?query=Q6&guid=21d4ddd6-7d13-4ce3-a1bd-32fb5aab68e4] received in 24 ms.  
+11.05.2018 01:04:27.985 INFO    12 Response [FPlISyGrxk9wBVsLjI6xnw==] from [666,?query=Q4&guid=c49107f2-7fdb-4088-8cbc-8aa93dedcce3] received in 28 ms.  
+11.05.2018 01:04:27.987 INFO    10 Query processed [Q6] in 29 ms.  
+11.05.2018 01:04:27.987 INFO     9 Response [iTO2n0na2A7Ekfw5bav4RQ==] from [666,?query=Q1&guid=e14d4e08-3e13-4262-b50d-3f6ddfdbfb7e] received in 43 ms.  
+11.05.2018 01:04:27.989 INFO    11 Response [/iCdgnRgsbrJBoL2YrDPZA==] from [666,?query=Q3&guid=b783419e-fb9d-447b-b2f9-df17da9579cf] received in 32 ms.  
+11.05.2018 01:04:27.991 INFO    12 Query processed [Q4] in 34 ms.  
+11.05.2018 01:04:27.996 INFO    12 Response [GVtli6e2/eHEhs/xkN8pAQ==] from [666,?query=Q7&guid=5e3a1646-8fa2-400c-9287-a40df371f51c] received in 38 ms.  
+11.05.2018 01:04:27.997 INFO    10 Response [DQ+eB6vqC/yNHC2C2BhKww==] from [666,?query=Q2&guid=25578c26-81d1-4e91-9afb-dc234ece75d1] received in 40 ms.  
+11.05.2018 01:04:28.001 INFO     9 Query processed [Q1] in 91 ms.  
+11.05.2018 01:04:28.003 INFO    11 Query processed [Q3] in 46 ms.  
+11.05.2018 01:04:28.009 INFO    12 Query processed [Q7] in 51 ms.  
+11.05.2018 01:04:28.011 INFO    10 Query processed [Q2] in 54 ms.  
+11.05.2018 01:04:28.013 INFO     9 Response [Bweh9/y9F7229JueJSdRPQ==] from [666,?query=Q5&guid=01a51412-c51d-400f-91dd-8eda27edf388] received in 55 ms.  
+11.05.2018 01:04:28.022 INFO     9 Query processed [Q5] in 64 ms.  
+11.05.2018 01:04:28.023 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]11.05.2018 01:04:29.113 INFO     1 Testing Client.SimpleClient started  
+11.05.2018 01:04:29.201 INFO     9 Response [Bweh9/y9F7229JueJSdRPQ==] from [666,?query=Q5&guid=e2be56f7-bd2c-4d71-a2a0-61937961cc75] received in 16 ms.  
+11.05.2018 01:04:29.204 INFO    10 Response [GY1BAaj5kxBfB0ljqMoehA==] from [666,?query=Q6&guid=a9c23b1c-2ec2-4d52-bf90-90b90cbc38ac] received in 20 ms.  
+11.05.2018 01:04:29.206 INFO    11 Response [iTO2n0na2A7Ekfw5bav4RQ==] from [666,?query=Q1&guid=1e3d7241-c47d-467d-bb2c-0c0f950fda50] received in 35 ms.  
+11.05.2018 01:04:29.206 INFO     9 Query processed [Q5] in 21 ms.  
+11.05.2018 01:04:29.207 INFO    12 Response [DQ+eB6vqC/yNHC2C2BhKww==] from [666,?query=Q2&guid=3672d60a-f1c5-4b25-ab1d-fb79e3b69e15] received in 23 ms.  
+11.05.2018 01:04:29.209 INFO    10 Query processed [Q6] in 24 ms.  
+11.05.2018 01:04:29.212 INFO    10 Response [GVtli6e2/eHEhs/xkN8pAQ==] from [666,?query=Q7&guid=d6fdaf7b-31a1-416c-bf07-1a927af650b0] received in 27 ms.  
+11.05.2018 01:04:29.216 INFO    10 Query processed [Q7] in 32 ms.  
+11.05.2018 01:04:29.218 INFO    11 Query processed [Q1] in 84 ms.  
+11.05.2018 01:04:29.219 INFO     9 Response [/iCdgnRgsbrJBoL2YrDPZA==] from [666,?query=Q3&guid=78d0772b-ea83-454a-91b7-97749c2efb42] received in 36 ms.  
+11.05.2018 01:04:29.222 INFO    12 Query processed [Q2] in 39 ms.  
+11.05.2018 01:04:29.226 INFO    10 Response [FPlISyGrxk9wBVsLjI6xnw==] from [666,?query=Q4&guid=b89d6162-5b08-40c0-8c58-a70a28f953aa] received in 42 ms.  
+11.05.2018 01:04:29.230 INFO     9 Query processed [Q3] in 46 ms.  
+11.05.2018 01:04:29.233 INFO    10 Query processed [Q4] in 49 ms.  
+11.05.2018 01:04:29.238 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]11.05.2018 01:04:30.351 INFO     1 Testing Client.SimpleClient started  
+11.05.2018 01:04:30.452 INFO    10 Response [GY1BAaj5kxBfB0ljqMoehA==] from [666,?query=Q6&guid=2f2fd068-f59f-4391-815c-6e7f1dbde921] received in 24 ms.  
+11.05.2018 01:04:30.455 INFO    12 Response [FPlISyGrxk9wBVsLjI6xnw==] from [666,?query=Q4&guid=3d739e01-9152-4e41-90e0-2f39dffc64ba] received in 29 ms.  
+11.05.2018 01:04:30.456 INFO    10 Query processed [Q6] in 30 ms.  
+11.05.2018 01:04:30.458 INFO    11 Response [Bweh9/y9F7229JueJSdRPQ==] from [666,?query=Q5&guid=e3db9eb1-f8bb-4d02-8aec-532719133e28] received in 31 ms.  
+11.05.2018 01:04:30.458 INFO     9 Response [GVtli6e2/eHEhs/xkN8pAQ==] from [666,?query=Q7&guid=4d136c21-1afb-4f30-8a98-281cdfa980c0] received in 31 ms.  
+11.05.2018 01:04:30.461 INFO    12 Query processed [Q4] in 34 ms.  
+11.05.2018 01:04:30.465 INFO    12 Response [/iCdgnRgsbrJBoL2YrDPZA==] from [666,?query=Q3&guid=ec057f7f-84f4-4164-97bf-9aa9ea576f07] received in 39 ms.  
+11.05.2018 01:04:30.469 INFO    10 Response [DQ+eB6vqC/yNHC2C2BhKww==] from [666,?query=Q2&guid=a52fc6fe-f137-4dc7-85db-f5f56f846d75] received in 42 ms.  
+11.05.2018 01:04:30.471 INFO     9 Query processed [Q7] in 45 ms.  
+11.05.2018 01:04:30.473 INFO    11 Query processed [Q5] in 46 ms.  
+11.05.2018 01:04:30.478 INFO    12 Query processed [Q3] in 52 ms.  
+11.05.2018 01:04:30.480 INFO    10 Query processed [Q2] in 54 ms.  
+11.05.2018 01:04:30.482 INFO     9 Response [iTO2n0na2A7Ekfw5bav4RQ==] from [666,?query=Q1&guid=e661e299-9f1b-4304-b37d-826e35ea1983] received in 69 ms.  
+11.05.2018 01:04:30.491 INFO     9 Query processed [Q1] in 115 ms.  
+11.05.2018 01:04:30.493 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]11.05.2018 01:04:31.554 INFO     1 Testing Client.SimpleClient started  
+11.05.2018 01:04:31.640 INFO     9 Response [DQ+eB6vqC/yNHC2C2BhKww==] from [666,?query=Q2&guid=4de03210-60d2-4ef3-9c08-d5f61c4ad272] received in 14 ms.  
+11.05.2018 01:04:31.643 INFO    10 Response [Bweh9/y9F7229JueJSdRPQ==] from [666,?query=Q5&guid=84e702c9-3161-4c05-97d3-60b952b0d132] received in 17 ms.  
+11.05.2018 01:04:31.644 INFO    11 Response [FPlISyGrxk9wBVsLjI6xnw==] from [666,?query=Q4&guid=cb8f3277-ee21-4cee-ae2f-c885d9e57df9] received in 18 ms.  
+11.05.2018 01:04:31.646 INFO     9 Query processed [Q2] in 20 ms.  
+11.05.2018 01:04:31.646 INFO    12 Response [iTO2n0na2A7Ekfw5bav4RQ==] from [666,?query=Q1&guid=f0dfd0fe-5a98-452e-9128-95fd2b1e00f4] received in 34 ms.  
+11.05.2018 01:04:31.650 INFO    10 Query processed [Q5] in 24 ms.  
+11.05.2018 01:04:31.654 INFO    10 Response [GY1BAaj5kxBfB0ljqMoehA==] from [666,?query=Q6&guid=85ac8776-5321-4513-8649-660b2d5067df] received in 29 ms.  
+11.05.2018 01:04:31.659 INFO    11 Query processed [Q4] in 34 ms.  
+11.05.2018 01:04:31.662 INFO    12 Query processed [Q1] in 87 ms.  
+11.05.2018 01:04:31.666 INFO     9 Response [GVtli6e2/eHEhs/xkN8pAQ==] from [666,?query=Q7&guid=718082cc-ef9a-438a-bd49-9897c4993bee] received in 40 ms.  
+11.05.2018 01:04:31.668 INFO    10 Query processed [Q6] in 42 ms.  
+11.05.2018 01:04:31.669 INFO    11 Response [/iCdgnRgsbrJBoL2YrDPZA==] from [666,?query=Q3&guid=4096a2d3-9530-4972-ae87-ec632a86195f] received in 44 ms.  
+11.05.2018 01:04:31.673 INFO     9 Query processed [Q7] in 47 ms.  
+11.05.2018 01:04:31.678 INFO    11 Query processed [Q3] in 52 ms.  
+11.05.2018 01:04:31.680 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]11.05.2018 01:04:32.710 INFO     1 Testing Client.SimpleClient started  
+11.05.2018 01:04:32.811 INFO    12 Response [DQ+eB6vqC/yNHC2C2BhKww==] from [666,?query=Q2&guid=f0d88eff-4876-49ea-8b14-3a787c3abb05] received in 22 ms.  
+11.05.2018 01:04:32.817 INFO    12 Query processed [Q2] in 29 ms.  
+11.05.2018 01:04:32.818 INFO    11 Response [Bweh9/y9F7229JueJSdRPQ==] from [666,?query=Q5&guid=38e12c22-5667-4e23-8af8-f75d8b2597af] received in 30 ms.  
+11.05.2018 01:04:32.820 INFO    10 Response [/iCdgnRgsbrJBoL2YrDPZA==] from [666,?query=Q3&guid=0f22839e-ca2f-4dc7-a576-c82414288aa2] received in 32 ms.  
+11.05.2018 01:04:32.824 INFO    12 Response [iTO2n0na2A7Ekfw5bav4RQ==] from [666,?query=Q1&guid=8cd17f58-2e5f-4f35-9477-4dadcca4c64f] received in 51 ms.  
+11.05.2018 01:04:32.829 INFO    11 Query processed [Q5] in 41 ms.  
+11.05.2018 01:04:32.829 INFO     9 Response [GY1BAaj5kxBfB0ljqMoehA==] from [666,?query=Q6&guid=96fe9e70-1a6c-4bd8-bb50-c28593359d9d] received in 41 ms.  
+11.05.2018 01:04:32.834 INFO    10 Query processed [Q3] in 46 ms.  
+11.05.2018 01:04:32.841 INFO    12 Query processed [Q1] in 103 ms.  
+11.05.2018 01:04:32.844 INFO     9 Query processed [Q6] in 55 ms.  
+11.05.2018 01:04:32.845 INFO    11 Response [FPlISyGrxk9wBVsLjI6xnw==] from [666,?query=Q4&guid=46b479ec-0836-4918-bc6e-d9ef1d512bb7] received in 56 ms.  
+11.05.2018 01:04:32.846 INFO    10 Response [GVtli6e2/eHEhs/xkN8pAQ==] from [666,?query=Q7&guid=ca023c8d-c355-4f84-ab33-e35c920c8da5] received in 57 ms.  
+11.05.2018 01:04:32.853 INFO    11 Query processed [Q4] in 64 ms.  
+11.05.2018 01:04:32.855 INFO    10 Query processed [Q7] in 66 ms.  
+11.05.2018 01:04:32.857 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]11.05.2018 01:04:33.816 INFO     1 Testing Client.SimpleClient started  
+11.05.2018 01:04:33.921 INFO    12 Response [/iCdgnRgsbrJBoL2YrDPZA==] from [666,?query=Q3&guid=869b33e6-ee35-4960-a6c9-59d2a7fc1a95] received in 21 ms.  
+11.05.2018 01:04:33.924 INFO     9 Response [GY1BAaj5kxBfB0ljqMoehA==] from [666,?query=Q6&guid=4b0c2978-4e30-4760-ae90-bffb1fa373b0] received in 24 ms.  
+11.05.2018 01:04:33.926 INFO    11 Response [Bweh9/y9F7229JueJSdRPQ==] from [666,?query=Q5&guid=86d1071a-2401-4195-be5c-06e32b5692b5] received in 26 ms.  
+11.05.2018 01:04:33.929 INFO    10 Response [iTO2n0na2A7Ekfw5bav4RQ==] from [666,?query=Q1&guid=6b5e785e-98bf-40d2-a0ae-860d57541335] received in 53 ms.  
+11.05.2018 01:04:33.929 INFO    12 Query processed [Q3] in 30 ms.  
+11.05.2018 01:04:33.934 INFO     9 Query processed [Q6] in 34 ms.  
+11.05.2018 01:04:33.938 INFO     9 Response [FPlISyGrxk9wBVsLjI6xnw==] from [666,?query=Q4&guid=7ad591e0-5dd5-45ac-9ff6-7267ebfe83c8] received in 38 ms.  
+11.05.2018 01:04:33.944 INFO    12 Response [GVtli6e2/eHEhs/xkN8pAQ==] from [666,?query=Q7&guid=617d14bd-c2ad-4bc7-aa61-112a8d4dd387] received in 44 ms.  
+11.05.2018 01:04:33.947 INFO     9 Query processed [Q4] in 48 ms.  
+11.05.2018 01:04:33.950 INFO    11 Query processed [Q5] in 51 ms.  
+11.05.2018 01:04:33.953 INFO    10 Query processed [Q1] in 113 ms.  
+11.05.2018 01:04:33.957 INFO    12 Query processed [Q7] in 58 ms.  
+11.05.2018 01:04:33.959 INFO     9 Response [DQ+eB6vqC/yNHC2C2BhKww==] from [666,?query=Q2&guid=3bd04f25-dd81-4325-a7be-b67ea70b5d04] received in 61 ms.  
+11.05.2018 01:04:33.972 INFO     9 Query processed [Q2] in 73 ms.  
+11.05.2018 01:04:33.974 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]11.05.2018 01:04:34.837 INFO     1 Testing Client.SimpleClient started  
+11.05.2018 01:04:34.920 INFO     9 Response [FPlISyGrxk9wBVsLjI6xnw==] from [666,?query=Q4&guid=b4796128-2359-4cb9-b966-20e25ab9ad21] received in 14 ms.  
+11.05.2018 01:04:34.923 INFO    12 Response [GY1BAaj5kxBfB0ljqMoehA==] from [666,?query=Q6&guid=88d61fbc-4668-4249-8562-f9a0197224e3] received in 17 ms.  
+11.05.2018 01:04:34.925 INFO    11 Response [Bweh9/y9F7229JueJSdRPQ==] from [666,?query=Q5&guid=a7c5eb59-d148-49c2-86dc-08605f7f5597] received in 20 ms.  
+11.05.2018 01:04:34.926 INFO     9 Query processed [Q4] in 21 ms.  
+11.05.2018 01:04:34.927 INFO    10 Response [iTO2n0na2A7Ekfw5bav4RQ==] from [666,?query=Q1&guid=6a056a7d-30e6-483b-8b38-1e7fbeb9e97e] received in 35 ms.  
+11.05.2018 01:04:34.930 INFO    12 Query processed [Q6] in 24 ms.  
+11.05.2018 01:04:34.937 INFO    11 Query processed [Q5] in 31 ms.  
+11.05.2018 01:04:34.938 INFO     9 Response [/iCdgnRgsbrJBoL2YrDPZA==] from [666,?query=Q3&guid=968aa4c9-b734-42e0-b21e-8ea37854c2d3] received in 33 ms.  
+11.05.2018 01:04:34.940 INFO    10 Query processed [Q1] in 81 ms.  
+11.05.2018 01:04:34.942 INFO    12 Response [DQ+eB6vqC/yNHC2C2BhKww==] from [666,?query=Q2&guid=88cc2895-a389-4611-86b4-454a9e8ccfed] received in 37 ms.  
+11.05.2018 01:04:34.943 INFO    11 Response [GVtli6e2/eHEhs/xkN8pAQ==] from [666,?query=Q7&guid=2f14368d-39d3-49ec-9b83-d300922ccc90] received in 38 ms.  
+11.05.2018 01:04:34.945 INFO     9 Query processed [Q3] in 40 ms.  
+11.05.2018 01:04:34.950 INFO    12 Query processed [Q2] in 45 ms.  
+11.05.2018 01:04:34.952 INFO    11 Query processed [Q7] in 47 ms.  
+11.05.2018 01:04:34.956 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]11.05.2018 01:04:35.887 INFO     1 Testing Client.SimpleClient started  
+11.05.2018 01:04:35.983 INFO    12 Response [iTO2n0na2A7Ekfw5bav4RQ==] from [666,?query=Q1&guid=b246c646-273e-4699-b786-32f302b4cdbb] received in 39 ms.  
+11.05.2018 01:04:35.986 INFO     9 Response [GVtli6e2/eHEhs/xkN8pAQ==] from [666,?query=Q7&guid=9c8f6f35-e90b-4cf7-b57d-d033ac6fa9ea] received in 30 ms.  
+11.05.2018 01:04:35.988 INFO    12 Query processed [Q1] in 79 ms.  
+11.05.2018 01:04:35.988 INFO    10 Response [/iCdgnRgsbrJBoL2YrDPZA==] from [666,?query=Q3&guid=598bfb9c-24ec-4e5f-baaa-1f20f3247714] received in 32 ms.  
+11.05.2018 01:04:35.990 INFO    11 Response [Bweh9/y9F7229JueJSdRPQ==] from [666,?query=Q5&guid=9d3a6696-4a14-4f50-bc5b-b89a330a1441] received in 34 ms.  
+11.05.2018 01:04:35.993 INFO     9 Query processed [Q7] in 36 ms.  
+11.05.2018 01:04:36.008 INFO    10 Query processed [Q3] in 52 ms.  
+11.05.2018 01:04:36.008 INFO    12 Response [FPlISyGrxk9wBVsLjI6xnw==] from [666,?query=Q4&guid=742e8d95-5884-435a-92f6-a28e68963a17] received in 52 ms.  
+11.05.2018 01:04:36.010 INFO    10 Response [GY1BAaj5kxBfB0ljqMoehA==] from [666,?query=Q6&guid=3138e0da-471b-4014-8a4c-b6991ec24efe] received in 54 ms.  
+11.05.2018 01:04:36.013 INFO    10 Query processed [Q6] in 56 ms.  
+11.05.2018 01:04:36.014 INFO    10 Response [DQ+eB6vqC/yNHC2C2BhKww==] from [666,?query=Q2&guid=67434a53-46b0-472b-aebd-92ef01def54f] received in 58 ms.  
+11.05.2018 01:04:36.016 INFO    11 Query processed [Q5] in 60 ms.  
+11.05.2018 01:04:36.023 INFO    12 Query processed [Q4] in 67 ms.  
+11.05.2018 01:04:36.026 INFO    10 Query processed [Q2] in 71 ms.  
+11.05.2018 01:04:36.029 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]11.05.2018 01:04:36.802 INFO     1 Testing Client.SimpleClient started  
+11.05.2018 01:04:36.904 INFO    11 Response [DQ+eB6vqC/yNHC2C2BhKww==] from [666,?query=Q2&guid=11fdbc31-8aa1-4667-aba9-f1ebd4b22ef2] received in 27 ms.  
+11.05.2018 01:04:36.907 INFO    12 Response [Bweh9/y9F7229JueJSdRPQ==] from [666,?query=Q5&guid=8e1ca497-425e-4ae8-b52f-e0423a52e9bc] received in 30 ms.  
+11.05.2018 01:04:36.909 INFO    11 Query processed [Q2] in 32 ms.  
+11.05.2018 01:04:36.911 INFO    10 Response [/iCdgnRgsbrJBoL2YrDPZA==] from [666,?query=Q3&guid=63889bea-d2d9-4df4-b8ea-db36361fa26d] received in 34 ms.  
+11.05.2018 01:04:36.914 INFO     9 Response [iTO2n0na2A7Ekfw5bav4RQ==] from [666,?query=Q1&guid=5f8314db-89e1-4ac6-9810-bdfe66a09f93] received in 51 ms.  
+11.05.2018 01:04:36.914 INFO    12 Query processed [Q5] in 37 ms.  
+11.05.2018 01:04:36.921 INFO    12 Response [GVtli6e2/eHEhs/xkN8pAQ==] from [666,?query=Q7&guid=91a1324a-bd67-4a15-8ca8-41933bd19d53] received in 44 ms.  
+11.05.2018 01:04:36.924 INFO    11 Response [FPlISyGrxk9wBVsLjI6xnw==] from [666,?query=Q4&guid=00d3beac-d95f-474c-bfee-ed8bb1e66554] received in 47 ms.  
+11.05.2018 01:04:36.926 INFO    10 Query processed [Q3] in 49 ms.  
+11.05.2018 01:04:36.928 INFO     9 Query processed [Q1] in 103 ms.  
+11.05.2018 01:04:36.933 INFO    12 Query processed [Q7] in 55 ms.  
+11.05.2018 01:04:36.935 INFO    11 Query processed [Q4] in 57 ms.  
+11.05.2018 01:04:36.936 INFO    10 Response [GY1BAaj5kxBfB0ljqMoehA==] from [666,?query=Q6&guid=ff315f9e-13e9-4667-8b8f-82a59acb983d] received in 59 ms.  
+11.05.2018 01:04:36.945 INFO    10 Query processed [Q6] in 67 ms.  
+11.05.2018 01:04:36.946 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]11.05.2018 01:04:37.730 INFO     1 Testing Client.SimpleClient started  
+11.05.2018 01:04:37.826 INFO    11 Response [DQ+eB6vqC/yNHC2C2BhKww==] from [666,?query=Q2&guid=4c062e87-bb0f-4776-81c9-d26048c2803e] received in 26 ms.  
+11.05.2018 01:04:37.829 INFO    10 Response [/iCdgnRgsbrJBoL2YrDPZA==] from [666,?query=Q3&guid=d9f71f58-811d-44e2-a20d-220338ddc294] received in 29 ms.  
+11.05.2018 01:04:37.831 INFO    12 Response [iTO2n0na2A7Ekfw5bav4RQ==] from [666,?query=Q1&guid=c9c81192-aac0-4d7b-8602-6e6cd9b494cb] received in 45 ms.  
+11.05.2018 01:04:37.832 INFO    11 Query processed [Q2] in 33 ms.  
+11.05.2018 01:04:37.833 INFO     9 Response [GY1BAaj5kxBfB0ljqMoehA==] from [666,?query=Q6&guid=76a35a63-2f55-4422-a76a-58a17b151c0f] received in 33 ms.  
+11.05.2018 01:04:37.836 INFO    10 Query processed [Q3] in 36 ms.  
+11.05.2018 01:04:37.844 INFO     9 Query processed [Q6] in 44 ms.  
+11.05.2018 01:04:37.846 INFO    11 Response [GVtli6e2/eHEhs/xkN8pAQ==] from [666,?query=Q7&guid=5893ee54-3431-4e19-a5b8-e3459e719816] received in 46 ms.  
+11.05.2018 01:04:37.848 INFO    12 Query processed [Q1] in 95 ms.  
+11.05.2018 01:04:37.852 INFO    10 Response [FPlISyGrxk9wBVsLjI6xnw==] from [666,?query=Q4&guid=2ef48e6a-c655-4cfb-9fb0-de376b285f1d] received in 52 ms.  
+11.05.2018 01:04:37.854 INFO     9 Response [Bweh9/y9F7229JueJSdRPQ==] from [666,?query=Q5&guid=49812b3c-e43a-4856-b247-4b52224fc8eb] received in 54 ms.  
+11.05.2018 01:04:37.856 INFO    11 Query processed [Q7] in 56 ms.  
+11.05.2018 01:04:37.864 INFO    10 Query processed [Q4] in 64 ms.  
+11.05.2018 01:04:37.866 INFO     9 Query processed [Q5] in 66 ms.  
+11.05.2018 01:04:37.869 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]11.05.2018 01:04:38.671 INFO     1 Testing Client.SimpleClient started  
+11.05.2018 01:04:38.764 INFO    11 Response [Bweh9/y9F7229JueJSdRPQ==] from [666,?query=Q5&guid=739da24f-36b1-4871-a465-db4b93a3e527] received in 22 ms.  
+11.05.2018 01:04:38.767 INFO     9 Response [FPlISyGrxk9wBVsLjI6xnw==] from [666,?query=Q4&guid=fe5d3fbb-d166-4491-ba41-96c3af40ab2f] received in 27 ms.  
+11.05.2018 01:04:38.768 INFO    11 Query processed [Q5] in 28 ms.  
+11.05.2018 01:04:38.769 INFO    10 Response [/iCdgnRgsbrJBoL2YrDPZA==] from [666,?query=Q3&guid=bb25699d-5d66-4dff-8ece-8deec09209ee] received in 29 ms.  
+11.05.2018 01:04:38.771 INFO    12 Response [iTO2n0na2A7Ekfw5bav4RQ==] from [666,?query=Q1&guid=f54691ed-e59f-4099-96d3-7f2b300a6692] received in 44 ms.  
+11.05.2018 01:04:38.772 INFO     9 Query processed [Q4] in 32 ms.  
+11.05.2018 01:04:38.778 INFO     9 Response [GY1BAaj5kxBfB0ljqMoehA==] from [666,?query=Q6&guid=085ec069-dc3f-4b85-b1a8-ee18c47da900] received in 37 ms.  
+11.05.2018 01:04:38.781 INFO    11 Response [GVtli6e2/eHEhs/xkN8pAQ==] from [666,?query=Q7&guid=b25d3e2a-37ed-4019-8e0c-6c986b49245a] received in 40 ms.  
+11.05.2018 01:04:38.784 INFO    10 Query processed [Q3] in 44 ms.  
+11.05.2018 01:04:38.790 INFO    12 Query processed [Q1] in 96 ms.  
+11.05.2018 01:04:38.792 INFO     9 Query processed [Q6] in 52 ms.  
+11.05.2018 01:04:38.794 INFO    11 Query processed [Q7] in 54 ms.  
+11.05.2018 01:04:38.795 INFO    10 Response [DQ+eB6vqC/yNHC2C2BhKww==] from [666,?query=Q2&guid=bdb074e1-3c08-44e9-a445-30a3a732118c] received in 55 ms.  
+11.05.2018 01:04:38.803 INFO    10 Query processed [Q2] in 63 ms.  
+11.05.2018 01:04:38.804 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]11.05.2018 01:04:39.680 INFO     1 Testing Client.SimpleClient started  
+11.05.2018 01:04:39.781 INFO    12 Response [GY1BAaj5kxBfB0ljqMoehA==] from [666,?query=Q6&guid=3ec98646-377d-4839-b171-72f3e268675a] received in 24 ms.  
+11.05.2018 01:04:39.785 INFO     9 Response [Bweh9/y9F7229JueJSdRPQ==] from [666,?query=Q5&guid=f9f929b9-bf94-475b-a6d8-f497d2c32333] received in 29 ms.  
+11.05.2018 01:04:39.785 INFO    12 Query processed [Q6] in 30 ms.  
+11.05.2018 01:04:39.787 INFO    11 Response [GVtli6e2/eHEhs/xkN8pAQ==] from [666,?query=Q7&guid=59e937a8-0009-4be5-800c-aebff41e1b52] received in 31 ms.  
+11.05.2018 01:04:39.788 INFO    10 Response [DQ+eB6vqC/yNHC2C2BhKww==] from [666,?query=Q2&guid=f02bc103-d29d-490d-9b89-1bf43ba89dcf] received in 33 ms.  
+11.05.2018 01:04:39.790 INFO     9 Query processed [Q5] in 34 ms.  
+11.05.2018 01:04:39.794 INFO     9 Response [/iCdgnRgsbrJBoL2YrDPZA==] from [666,?query=Q3&guid=e02525f7-1894-42c6-880f-5f863d7f94c5] received in 39 ms.  
+11.05.2018 01:04:39.797 INFO    12 Response [iTO2n0na2A7Ekfw5bav4RQ==] from [666,?query=Q1&guid=e51ecc26-8f78-4cce-bcb7-f205ae6a7624] received in 55 ms.  
+11.05.2018 01:04:39.800 INFO    11 Query processed [Q7] in 45 ms.  
+11.05.2018 01:04:39.805 INFO    10 Query processed [Q2] in 50 ms.  
+11.05.2018 01:04:39.807 INFO     9 Query processed [Q3] in 52 ms.  
+11.05.2018 01:04:39.810 INFO    12 Query processed [Q1] in 105 ms.  
+11.05.2018 01:04:39.811 INFO    11 Response [FPlISyGrxk9wBVsLjI6xnw==] from [666,?query=Q4&guid=2139bf5b-a04e-475f-86fa-a3e8ebde8a3c] received in 55 ms.  
+11.05.2018 01:04:39.819 INFO    11 Query processed [Q4] in 63 ms.  
+11.05.2018 01:04:39.820 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]11.05.2018 01:04:40.572 INFO     1 Testing Client.SimpleClient started  
+11.05.2018 01:04:40.671 INFO    10 Response [/iCdgnRgsbrJBoL2YrDPZA==] from [666,?query=Q3&guid=c530e2e6-d6ed-4e35-9835-f5fc3dea84f2] received in 23 ms.  
+11.05.2018 01:04:40.676 INFO     9 Response [GY1BAaj5kxBfB0ljqMoehA==] from [666,?query=Q6&guid=e9ee3e1b-aa16-47c8-abd9-c72e6e07b1e2] received in 28 ms.  
+11.05.2018 01:04:40.676 INFO    10 Query processed [Q3] in 29 ms.  
+11.05.2018 01:04:40.678 INFO    11 Response [iTO2n0na2A7Ekfw5bav4RQ==] from [666,?query=Q1&guid=29eaa61b-f8bf-44a0-bdc9-c485123bf99d] received in 44 ms.  
+11.05.2018 01:04:40.679 INFO    12 Response [FPlISyGrxk9wBVsLjI6xnw==] from [666,?query=Q4&guid=b665c5fe-6b8e-4f15-b449-97e3e4314aa2] received in 32 ms.  
+11.05.2018 01:04:40.679 INFO     9 Query processed [Q6] in 32 ms.  
+11.05.2018 01:04:40.685 INFO    10 Response [Bweh9/y9F7229JueJSdRPQ==] from [666,?query=Q5&guid=038b5ad5-66ec-4db1-be0e-41f38bf76ba4] received in 38 ms.  
+11.05.2018 01:04:40.688 INFO     9 Response [GVtli6e2/eHEhs/xkN8pAQ==] from [666,?query=Q7&guid=412d2a6c-ea87-4dae-b03f-c946e382992c] received in 41 ms.  
+11.05.2018 01:04:40.690 INFO    11 Query processed [Q1] in 95 ms.  
+11.05.2018 01:04:40.696 INFO    12 Query processed [Q4] in 49 ms.  
+11.05.2018 01:04:40.698 INFO    10 Query processed [Q5] in 51 ms.  
+11.05.2018 01:04:40.701 INFO     9 Query processed [Q7] in 53 ms.  
+11.05.2018 01:04:40.702 INFO    11 Response [DQ+eB6vqC/yNHC2C2BhKww==] from [666,?query=Q2&guid=8c0d5ebd-7f71-4e70-bcd9-686e0c55615c] received in 55 ms.  
+11.05.2018 01:04:40.710 INFO    11 Query processed [Q2] in 63 ms.  
+11.05.2018 01:04:40.712 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]11.05.2018 01:04:41.330 INFO     1 Testing Client.SimpleClient started  
+11.05.2018 01:04:41.421 INFO    10 Response [GY1BAaj5kxBfB0ljqMoehA==] from [666,?query=Q6&guid=bd64fff6-fe0d-4cc5-9a6b-48b929f915a4] received in 19 ms.  
+11.05.2018 01:04:41.424 INFO    11 Response [GVtli6e2/eHEhs/xkN8pAQ==] from [666,?query=Q7&guid=a3e87846-b75b-4553-ac2a-71b2f25520d6] received in 23 ms.  
+11.05.2018 01:04:41.425 INFO    10 Query processed [Q6] in 24 ms.  
+11.05.2018 01:04:41.427 INFO    12 Response [/iCdgnRgsbrJBoL2YrDPZA==] from [666,?query=Q3&guid=4d23a067-46dc-47a2-8941-bad3a56b4d70] received in 27 ms.  
+11.05.2018 01:04:41.428 INFO     9 Response [DQ+eB6vqC/yNHC2C2BhKww==] from [666,?query=Q2&guid=5d09db2a-f629-420f-91bd-e61e0cada22d] received in 28 ms.  
+11.05.2018 01:04:41.429 INFO    11 Query processed [Q7] in 29 ms.  
+11.05.2018 01:04:41.436 INFO     9 Query processed [Q2] in 36 ms.  
+11.05.2018 01:04:41.438 INFO    10 Response [Bweh9/y9F7229JueJSdRPQ==] from [666,?query=Q5&guid=b0e5052f-ac60-4be2-b793-1c49918d0502] received in 38 ms.  
+11.05.2018 01:04:41.440 INFO    12 Query processed [Q3] in 40 ms.  
+11.05.2018 01:04:41.445 INFO    11 Response [iTO2n0na2A7Ekfw5bav4RQ==] from [666,?query=Q1&guid=c16c3199-e263-4fdc-9c65-7a9442927c98] received in 57 ms.  
+11.05.2018 01:04:41.447 INFO     9 Response [FPlISyGrxk9wBVsLjI6xnw==] from [666,?query=Q4&guid=66e8c032-14b7-42c8-a600-891c1c0bcba1] received in 46 ms.  
+11.05.2018 01:04:41.449 INFO    10 Query processed [Q5] in 48 ms.  
+11.05.2018 01:04:41.452 INFO    11 Query processed [Q1] in 99 ms.  
+11.05.2018 01:04:41.456 INFO     9 Query processed [Q4] in 56 ms.  
+11.05.2018 01:04:41.460 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]11.05.2018 01:04:42.247 INFO     1 Testing Client.SimpleClient started  
+11.05.2018 01:04:42.344 INFO    10 Response [GVtli6e2/eHEhs/xkN8pAQ==] from [666,?query=Q7&guid=adc1a8c3-3579-460d-a382-5dbca747f3af] received in 17 ms.  
+11.05.2018 01:04:42.348 INFO    10 Query processed [Q7] in 22 ms.  
+11.05.2018 01:04:42.351 INFO    10 Response [/iCdgnRgsbrJBoL2YrDPZA==] from [666,?query=Q3&guid=45a4d2c9-bc86-48ae-85de-3e0c150fb8dc] received in 26 ms.  
+11.05.2018 01:04:42.352 INFO    10 Query processed [Q3] in 28 ms.  
+11.05.2018 01:04:42.357 INFO    11 Response [iTO2n0na2A7Ekfw5bav4RQ==] from [666,?query=Q1&guid=829d7d1d-0f66-4178-a991-114aea51d96b] received in 47 ms.  
+11.05.2018 01:04:42.365 INFO    11 Query processed [Q1] in 94 ms.  
+11.05.2018 01:04:42.366 INFO    10 Response [FPlISyGrxk9wBVsLjI6xnw==] from [666,?query=Q4&guid=3610c247-b285-405f-85b1-0952bc13c22c] received in 40 ms.  
+11.05.2018 01:04:42.369 INFO    11 Response [GY1BAaj5kxBfB0ljqMoehA==] from [666,?query=Q6&guid=2654c4dc-d58e-406b-a6a0-379fe4360c49] received in 43 ms.  
+11.05.2018 01:04:42.373 INFO     9 Response [Bweh9/y9F7229JueJSdRPQ==] from [666,?query=Q5&guid=92ecb9f9-3a8b-4f4e-ad37-ecfd5eb8b6e9] received in 47 ms.  
+11.05.2018 01:04:42.374 INFO    11 Query processed [Q6] in 48 ms.  
+11.05.2018 01:04:42.377 INFO     9 Query processed [Q5] in 52 ms.  
+11.05.2018 01:04:42.382 INFO    12 Response [DQ+eB6vqC/yNHC2C2BhKww==] from [666,?query=Q2&guid=9d32217e-b70d-4a60-ad89-547e7cb33739] received in 57 ms.  
+11.05.2018 01:04:42.387 INFO    12 Query processed [Q2] in 62 ms.  
+11.05.2018 01:04:42.389 INFO    10 Query processed [Q4] in 64 ms.  
+11.05.2018 01:04:42.395 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]11.05.2018 01:04:43.149 INFO     1 Testing Client.SimpleClient started  
+11.05.2018 01:04:43.249 INFO    12 Response [GVtli6e2/eHEhs/xkN8pAQ==] from [666,?query=Q7&guid=8e7ef89a-0c6c-4c55-9a0f-6d1b9220bdf7] received in 23 ms.  
+11.05.2018 01:04:43.252 INFO    10 Response [FPlISyGrxk9wBVsLjI6xnw==] from [666,?query=Q4&guid=d6888c1f-d5e7-4df2-b828-8b280368c22f] received in 27 ms.  
+11.05.2018 01:04:43.253 INFO    12 Query processed [Q7] in 28 ms.  
+11.05.2018 01:04:43.254 INFO     9 Response [Bweh9/y9F7229JueJSdRPQ==] from [666,?query=Q5&guid=3643476a-6aad-400a-b155-0b84ce46a29b] received in 29 ms.  
+11.05.2018 01:04:43.255 INFO    11 Response [GY1BAaj5kxBfB0ljqMoehA==] from [666,?query=Q6&guid=b2d6864e-c211-42c0-9aba-c00fd2b5ca75] received in 31 ms.  
+11.05.2018 01:04:43.257 INFO    10 Query processed [Q4] in 33 ms.  
+11.05.2018 01:04:43.262 INFO    10 Response [/iCdgnRgsbrJBoL2YrDPZA==] from [666,?query=Q3&guid=12cf26a1-8ef6-4439-adbe-a8403491c0af] received in 38 ms.  
+11.05.2018 01:04:43.265 INFO    12 Response [iTO2n0na2A7Ekfw5bav4RQ==] from [666,?query=Q1&guid=37d4476a-ccad-49b6-9f68-623cd71a27b8] received in 54 ms.  
+11.05.2018 01:04:43.267 INFO     9 Query processed [Q5] in 42 ms.  
+11.05.2018 01:04:43.270 INFO    11 Query processed [Q6] in 45 ms.  
+11.05.2018 01:04:43.274 INFO    10 Query processed [Q3] in 50 ms.  
+11.05.2018 01:04:43.276 INFO    12 Query processed [Q1] in 103 ms.  
+11.05.2018 01:04:43.278 INFO     9 Response [DQ+eB6vqC/yNHC2C2BhKww==] from [666,?query=Q2&guid=df804227-6fe9-40aa-a282-99a7db29a059] received in 53 ms.  
+11.05.2018 01:04:43.285 INFO     9 Query processed [Q2] in 61 ms.  
+11.05.2018 01:04:43.286 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]11.05.2018 01:04:44.049 INFO     1 Testing Client.SimpleClient started  
+11.05.2018 01:04:44.139 INFO    11 Response [/iCdgnRgsbrJBoL2YrDPZA==] from [666,?query=Q3&guid=effa2d17-46ed-42bf-a8c5-7c9869892ed4] received in 21 ms.  
+11.05.2018 01:04:44.143 INFO    10 Response [Bweh9/y9F7229JueJSdRPQ==] from [666,?query=Q5&guid=0fa01d8b-20dd-441d-aa9b-e9f803e14673] received in 25 ms.  
+11.05.2018 01:04:44.144 INFO    11 Query processed [Q3] in 26 ms.  
+11.05.2018 01:04:44.144 INFO    12 Response [DQ+eB6vqC/yNHC2C2BhKww==] from [666,?query=Q2&guid=a81b7c95-8245-427a-a4e1-4063324d86ae] received in 27 ms.  
+11.05.2018 01:04:44.147 INFO     9 Response [GY1BAaj5kxBfB0ljqMoehA==] from [666,?query=Q6&guid=a565b5e5-2349-44d2-82b0-26c212912bc8] received in 29 ms.  
+11.05.2018 01:04:44.149 INFO    10 Query processed [Q5] in 31 ms.  
+11.05.2018 01:04:44.155 INFO    11 Response [iTO2n0na2A7Ekfw5bav4RQ==] from [666,?query=Q1&guid=f6c9dba7-5cb0-4af3-bc23-c50c442d58f3] received in 50 ms.  
+11.05.2018 01:04:44.159 INFO    12 Query processed [Q2] in 42 ms.  
+11.05.2018 01:04:44.164 INFO     9 Query processed [Q6] in 47 ms.  
+11.05.2018 01:04:44.166 INFO    10 Response [FPlISyGrxk9wBVsLjI6xnw==] from [666,?query=Q4&guid=4e0a9ea7-dd63-4d85-b7ae-efda2e700c19] received in 48 ms.  
+11.05.2018 01:04:44.169 INFO    11 Query processed [Q1] in 97 ms.  
+11.05.2018 01:04:44.170 INFO    12 Response [GVtli6e2/eHEhs/xkN8pAQ==] from [666,?query=Q7&guid=a5dbcf4d-70ee-4b85-90c6-947fa9366508] received in 52 ms.  
+11.05.2018 01:04:44.175 INFO    10 Query processed [Q4] in 57 ms.  
+11.05.2018 01:04:44.179 INFO    12 Query processed [Q7] in 61 ms.  
+11.05.2018 01:04:44.182 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]11.05.2018 01:04:44.883 INFO     1 Testing Client.SimpleClient started  
+11.05.2018 01:04:44.968 INFO    10 Response [GY1BAaj5kxBfB0ljqMoehA==] from [666,?query=Q6&guid=666dfffd-a385-4a64-9edc-8dcc893874f3] received in 15 ms.  
+11.05.2018 01:04:44.972 INFO    12 Response [/iCdgnRgsbrJBoL2YrDPZA==] from [666,?query=Q3&guid=b5da7dbc-5768-4c56-92d9-e5f423ce79af] received in 20 ms.  
+11.05.2018 01:04:44.973 INFO    10 Query processed [Q6] in 21 ms.  
+11.05.2018 01:04:44.973 INFO    11 Response [DQ+eB6vqC/yNHC2C2BhKww==] from [666,?query=Q2&guid=4ffb7f3d-180e-48ac-866b-4c4ea16f3e51] received in 22 ms.  
+11.05.2018 01:04:44.975 INFO     9 Response [GVtli6e2/eHEhs/xkN8pAQ==] from [666,?query=Q7&guid=31c11290-5543-4747-9466-fb3db4ffdb2d] received in 24 ms.  
+11.05.2018 01:04:44.978 INFO    12 Query processed [Q3] in 26 ms.  
+11.05.2018 01:04:44.985 INFO    11 Query processed [Q2] in 33 ms.  
+11.05.2018 01:04:44.987 INFO    10 Response [iTO2n0na2A7Ekfw5bav4RQ==] from [666,?query=Q1&guid=dfde2ca1-9a7a-46d5-8133-5e2265b96ff4] received in 48 ms.  
+11.05.2018 01:04:44.990 INFO     9 Query processed [Q7] in 38 ms.  
+11.05.2018 01:04:44.991 INFO    12 Response [FPlISyGrxk9wBVsLjI6xnw==] from [666,?query=Q4&guid=6d9bebdc-dbc5-4f28-8e8a-e6e7ee076731] received in 40 ms.  
+11.05.2018 01:04:44.995 INFO    11 Response [Bweh9/y9F7229JueJSdRPQ==] from [666,?query=Q5&guid=3c568d43-d320-4f7e-bdfe-5c4c7646630c] received in 43 ms.  
+11.05.2018 01:04:44.997 INFO    10 Query processed [Q1] in 92 ms.  
+11.05.2018 01:04:45.001 INFO    12 Query processed [Q4] in 49 ms.  
+11.05.2018 01:04:45.005 INFO    11 Query processed [Q5] in 54 ms.  
+11.05.2018 01:04:45.009 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]11.05.2018 01:04:45.764 INFO     1 Testing Client.SimpleClient started  
+11.05.2018 01:04:45.859 INFO     9 Response [GVtli6e2/eHEhs/xkN8pAQ==] from [666,?query=Q7&guid=1d80e66b-d55a-44d1-a0ad-cf1499675bf2] received in 20 ms.  
+11.05.2018 01:04:45.863 INFO    10 Response [/iCdgnRgsbrJBoL2YrDPZA==] from [666,?query=Q3&guid=969f9179-cd3c-4e30-8d4b-2c664d2c7d90] received in 25 ms.  
+11.05.2018 01:04:45.864 INFO     9 Query processed [Q7] in 25 ms.  
+11.05.2018 01:04:45.866 INFO    11 Response [DQ+eB6vqC/yNHC2C2BhKww==] from [666,?query=Q2&guid=1b774e12-c9f1-4d56-9a62-8d75c403ec48] received in 28 ms.  
+11.05.2018 01:04:45.868 INFO    12 Response [FPlISyGrxk9wBVsLjI6xnw==] from [666,?query=Q4&guid=edbe7234-9272-4533-aaa5-55c6dd1644b4] received in 29 ms.  
+11.05.2018 01:04:45.868 INFO    10 Query processed [Q3] in 30 ms.  
+11.05.2018 01:04:45.875 INFO    12 Query processed [Q4] in 37 ms.  
+11.05.2018 01:04:45.877 INFO     9 Response [iTO2n0na2A7Ekfw5bav4RQ==] from [666,?query=Q1&guid=aa15f9ed-d667-4059-8a59-eba54c0cc069] received in 53 ms.  
+11.05.2018 01:04:45.881 INFO    11 Query processed [Q2] in 43 ms.  
+11.05.2018 01:04:45.885 INFO    10 Response [Bweh9/y9F7229JueJSdRPQ==] from [666,?query=Q5&guid=2d46d9ca-29d4-48c3-8c48-bbd9248c73a0] received in 47 ms.  
+11.05.2018 01:04:45.887 INFO    12 Response [GY1BAaj5kxBfB0ljqMoehA==] from [666,?query=Q6&guid=58c7bf0c-e71b-494b-bfde-346c497b286d] received in 49 ms.  
+11.05.2018 01:04:45.889 INFO     9 Query processed [Q1] in 102 ms.  
+11.05.2018 01:04:45.895 INFO    10 Query processed [Q5] in 56 ms.  
+11.05.2018 01:04:45.897 INFO    12 Query processed [Q6] in 59 ms.  
+11.05.2018 01:04:45.901 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]11.05.2018 01:04:46.682 INFO     1 Testing Client.SimpleClient started  
+11.05.2018 01:04:46.781 INFO    10 Response [DQ+eB6vqC/yNHC2C2BhKww==] from [666,?query=Q2&guid=7f0d83ca-fbc3-4268-a220-4bdc3fb36dae] received in 22 ms.  
+11.05.2018 01:04:46.785 INFO    10 Query processed [Q2] in 27 ms.  
+11.05.2018 01:04:46.786 INFO    12 Response [GY1BAaj5kxBfB0ljqMoehA==] from [666,?query=Q6&guid=9771f067-9341-44b3-93f3-4e4ea1561861] received in 27 ms.  
+11.05.2018 01:04:46.787 INFO    10 Response [/iCdgnRgsbrJBoL2YrDPZA==] from [666,?query=Q3&guid=ebb1e215-25e1-4d5a-b580-c3f842ec46fe] received in 29 ms.  
+11.05.2018 01:04:46.788 INFO    11 Response [iTO2n0na2A7Ekfw5bav4RQ==] from [666,?query=Q1&guid=c1940c2a-c66b-4d0d-9807-4242603a2450] received in 44 ms.  
+11.05.2018 01:04:46.790 INFO     9 Response [Bweh9/y9F7229JueJSdRPQ==] from [666,?query=Q5&guid=e3d3a7a6-b288-4ae2-8f16-e3bf841d576a] received in 32 ms.  
+11.05.2018 01:04:46.790 INFO    12 Query processed [Q6] in 32 ms.  
+11.05.2018 01:04:46.796 INFO     9 Query processed [Q5] in 38 ms.  
+11.05.2018 01:04:46.798 INFO    10 Query processed [Q3] in 40 ms.  
+11.05.2018 01:04:46.801 INFO    11 Query processed [Q1] in 93 ms.  
+11.05.2018 01:04:46.803 INFO    12 Response [FPlISyGrxk9wBVsLjI6xnw==] from [666,?query=Q4&guid=9b68e5e5-78ac-4d4c-b5dd-abe8d11f7630] received in 45 ms.  
+11.05.2018 01:04:46.807 INFO     9 Response [GVtli6e2/eHEhs/xkN8pAQ==] from [666,?query=Q7&guid=d6a5be0c-4e57-4060-9b89-63f1f613f359] received in 49 ms.  
+11.05.2018 01:04:46.811 INFO    12 Query processed [Q4] in 53 ms.  
+11.05.2018 01:04:46.814 INFO     9 Query processed [Q7] in 55 ms.  
+11.05.2018 01:04:46.819 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]11.05.2018 01:04:47.698 INFO     1 Testing Client.SimpleClient started  
+11.05.2018 01:04:47.795 INFO    10 Response [Bweh9/y9F7229JueJSdRPQ==] from [666,?query=Q5&guid=351b302a-54b6-45f8-b45c-329116a10602] received in 19 ms.  
+11.05.2018 01:04:47.799 INFO    11 Response [GVtli6e2/eHEhs/xkN8pAQ==] from [666,?query=Q7&guid=1552d9e7-17ed-45b9-86c4-f4fa5b14a4e3] received in 24 ms.  
+11.05.2018 01:04:47.800 INFO    10 Query processed [Q5] in 25 ms.  
+11.05.2018 01:04:47.801 INFO     9 Response [iTO2n0na2A7Ekfw5bav4RQ==] from [666,?query=Q1&guid=e9142fb2-c0ac-4753-a14c-0e3f0db924c4] received in 40 ms.  
+11.05.2018 01:04:47.803 INFO    12 Response [DQ+eB6vqC/yNHC2C2BhKww==] from [666,?query=Q2&guid=9d352376-90c9-4938-afb6-13b84de0b8a4] received in 28 ms.  
+11.05.2018 01:04:47.805 INFO    11 Query processed [Q7] in 29 ms.  
+11.05.2018 01:04:47.809 INFO    11 Response [GY1BAaj5kxBfB0ljqMoehA==] from [666,?query=Q6&guid=b57d6ab4-7ac7-4b59-ad3a-136c45fd7b5a] received in 33 ms.  
+11.05.2018 01:04:47.811 INFO    10 Response [FPlISyGrxk9wBVsLjI6xnw==] from [666,?query=Q4&guid=cbf42e83-7d37-4016-aeed-fd50fe3379af] received in 36 ms.  
+11.05.2018 01:04:47.813 INFO     9 Query processed [Q1] in 90 ms.  
+11.05.2018 01:04:47.815 INFO    12 Query processed [Q2] in 41 ms.  
+11.05.2018 01:04:47.821 INFO    11 Query processed [Q6] in 46 ms.  
+11.05.2018 01:04:47.823 INFO    10 Query processed [Q4] in 48 ms.  
+11.05.2018 01:04:47.824 INFO     9 Response [/iCdgnRgsbrJBoL2YrDPZA==] from [666,?query=Q3&guid=7634e0b5-8a65-4c69-b4b2-c8fb91681b08] received in 49 ms.  
+11.05.2018 01:04:47.832 INFO     9 Query processed [Q3] in 58 ms.  
+11.05.2018 01:04:47.840 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]11.05.2018 01:04:48.593 INFO     1 Testing Client.SimpleClient started  
+11.05.2018 01:04:48.686 INFO    10 Response [GY1BAaj5kxBfB0ljqMoehA==] from [666,?query=Q6&guid=0c15c4b3-7cbc-4276-b14c-135d5e8c790b] received in 16 ms.  
+11.05.2018 01:04:48.689 INFO     9 Response [Bweh9/y9F7229JueJSdRPQ==] from [666,?query=Q5&guid=e15da372-f009-46a5-b25d-bfbee31a03f1] received in 20 ms.  
+11.05.2018 01:04:48.690 INFO    11 Response [DQ+eB6vqC/yNHC2C2BhKww==] from [666,?query=Q2&guid=9a665658-62f9-4f5b-84c1-d6e9cd6c7079] received in 22 ms.  
+11.05.2018 01:04:48.692 INFO    10 Query processed [Q6] in 23 ms.  
+11.05.2018 01:04:48.692 INFO    12 Response [/iCdgnRgsbrJBoL2YrDPZA==] from [666,?query=Q3&guid=5ff187e5-7665-4be7-89eb-89ecdd59cda1] received in 24 ms.  
+11.05.2018 01:04:48.697 INFO     9 Query processed [Q5] in 28 ms.  
+11.05.2018 01:04:48.705 INFO    11 Query processed [Q2] in 36 ms.  
+11.05.2018 01:04:48.706 INFO    10 Response [FPlISyGrxk9wBVsLjI6xnw==] from [666,?query=Q4&guid=2138839b-a31b-4bb3-89d8-663a34d45cd1] received in 38 ms.  
+11.05.2018 01:04:48.708 INFO    12 Query processed [Q3] in 40 ms.  
+11.05.2018 01:04:48.713 INFO     9 Response [GVtli6e2/eHEhs/xkN8pAQ==] from [666,?query=Q7&guid=02da021d-9b77-4dbe-88bb-a3951ab8a761] received in 44 ms.  
+11.05.2018 01:04:48.714 INFO    11 Response [iTO2n0na2A7Ekfw5bav4RQ==] from [666,?query=Q1&guid=005ad30b-f120-40bc-8c33-896fadc18b88] received in 60 ms.  
+11.05.2018 01:04:48.716 INFO    10 Query processed [Q4] in 47 ms.  
+11.05.2018 01:04:48.719 INFO     9 Query processed [Q7] in 51 ms.  
+11.05.2018 01:04:48.725 INFO    11 Query processed [Q1] in 108 ms.  
+11.05.2018 01:04:48.729 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]11.05.2018 01:04:49.512 INFO     1 Testing Client.SimpleClient started  
+11.05.2018 01:04:49.608 INFO    10 Response [GVtli6e2/eHEhs/xkN8pAQ==] from [666,?query=Q7&guid=bf3e25fc-9694-46fb-9daa-3569743b1d32] received in 21 ms.  
+11.05.2018 01:04:49.611 INFO    12 Response [/iCdgnRgsbrJBoL2YrDPZA==] from [666,?query=Q3&guid=33a721ee-6eff-4595-aa80-69082a4574b3] received in 25 ms.  
+11.05.2018 01:04:49.612 INFO    10 Query processed [Q7] in 26 ms.  
+11.05.2018 01:04:49.612 INFO     9 Response [Bweh9/y9F7229JueJSdRPQ==] from [666,?query=Q5&guid=c222db1f-abda-401a-b603-78517ec807db] received in 27 ms.  
+11.05.2018 01:04:49.615 INFO    11 Response [iTO2n0na2A7Ekfw5bav4RQ==] from [666,?query=Q1&guid=4f6ca211-c8aa-4f75-b230-96697319412a] received in 42 ms.  
+11.05.2018 01:04:49.617 INFO    12 Query processed [Q3] in 31 ms.  
+11.05.2018 01:04:49.622 INFO    12 Response [GY1BAaj5kxBfB0ljqMoehA==] from [666,?query=Q6&guid=7c399ad6-9555-4d9f-96bb-24e8d7e10f51] received in 36 ms.  
+11.05.2018 01:04:49.624 INFO    10 Response [DQ+eB6vqC/yNHC2C2BhKww==] from [666,?query=Q2&guid=a4306467-2eaa-4f06-9451-4ea3ccc0eab9] received in 39 ms.  
+11.05.2018 01:04:49.626 INFO     9 Query processed [Q5] in 40 ms.  
+11.05.2018 01:04:49.629 INFO    11 Query processed [Q1] in 93 ms.  
+11.05.2018 01:04:49.633 INFO    12 Query processed [Q6] in 47 ms.  
+11.05.2018 01:04:49.637 INFO    10 Query processed [Q2] in 51 ms.  
+11.05.2018 01:04:49.638 INFO     9 Response [FPlISyGrxk9wBVsLjI6xnw==] from [666,?query=Q4&guid=faad5458-f2ea-498a-b684-f346d579d6b9] received in 52 ms.  
+11.05.2018 01:04:49.646 INFO     9 Query processed [Q4] in 60 ms.  
+11.05.2018 01:04:49.647 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]11.05.2018 01:04:50.334 INFO     1 Testing Client.SimpleClient started  
+11.05.2018 01:04:50.422 INFO    10 Response [GY1BAaj5kxBfB0ljqMoehA==] from [666,?query=Q6&guid=baaca9f4-00d0-4b61-8ee3-014e3e96260a] received in 18 ms.  
+11.05.2018 01:04:50.424 INFO     9 Response [GVtli6e2/eHEhs/xkN8pAQ==] from [666,?query=Q7&guid=cf17459c-c045-481e-afd6-b0d5ea53ff6c] received in 21 ms.  
+11.05.2018 01:04:50.426 INFO    12 Response [/iCdgnRgsbrJBoL2YrDPZA==] from [666,?query=Q3&guid=5dee43c4-8ffb-4e0c-b6fb-381f16bdfffb] received in 23 ms.  
+11.05.2018 01:04:50.426 INFO    10 Query processed [Q6] in 23 ms.  
+11.05.2018 01:04:50.427 INFO    11 Response [FPlISyGrxk9wBVsLjI6xnw==] from [666,?query=Q4&guid=6c45840c-330e-4bca-adce-f2ed26afb4b2] received in 24 ms.  
+11.05.2018 01:04:50.430 INFO     9 Query processed [Q7] in 27 ms.  
+11.05.2018 01:04:50.438 INFO    11 Query processed [Q4] in 35 ms.  
+11.05.2018 01:04:50.443 INFO    12 Query processed [Q3] in 40 ms.  
+11.05.2018 01:04:50.446 INFO    10 Response [iTO2n0na2A7Ekfw5bav4RQ==] from [666,?query=Q1&guid=68d161d8-ad23-4dca-84f2-a4f882b80421] received in 56 ms.  
+11.05.2018 01:04:50.447 INFO     9 Response [DQ+eB6vqC/yNHC2C2BhKww==] from [666,?query=Q2&guid=88ecca6c-9dca-4892-adf3-c93e456c29d6] received in 45 ms.  
+11.05.2018 01:04:50.449 INFO    11 Response [Bweh9/y9F7229JueJSdRPQ==] from [666,?query=Q5&guid=15627b52-8552-4752-a92e-14e465f6aa86] received in 46 ms.  
+11.05.2018 01:04:50.452 INFO    10 Query processed [Q1] in 95 ms.  
+11.05.2018 01:04:50.454 INFO     9 Query processed [Q2] in 51 ms.  
+11.05.2018 01:04:50.459 INFO    11 Query processed [Q5] in 56 ms.  
+11.05.2018 01:04:50.463 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]11.05.2018 01:15:28.220 INFO     1 Testing Client.SimpleClient started  
+11.05.2018 01:15:28.327 INFO     9 Response [GY1BAaj5kxBfB0ljqMoehA==] from [666,?query=Q6&guid=ffab01a0-9b7c-4680-a084-ace6abd3773d] received in 34 ms.  
+11.05.2018 01:15:28.331 INFO    11 Response [Bweh9/y9F7229JueJSdRPQ==] from [666,?query=Q5&guid=7f539d82-9ed3-455d-955a-c8c62b7431f6] received in 39 ms.  
+11.05.2018 01:15:28.332 INFO     9 Query processed [Q6] in 40 ms.  
+11.05.2018 01:15:28.333 INFO    10 Response [/iCdgnRgsbrJBoL2YrDPZA==] from [666,?query=Q3&guid=4e73aa3d-e672-494a-a603-a7ca16177a38] received in 41 ms.  
+11.05.2018 01:15:28.334 INFO    12 Response [GVtli6e2/eHEhs/xkN8pAQ==] from [666,?query=Q7&guid=e06f64f7-cfd7-4180-8d83-b739390f38f6] received in 42 ms.  
+11.05.2018 01:15:28.335 INFO    11 Query processed [Q5] in 43 ms.  
+11.05.2018 01:15:28.337 INFO    11 Response [FPlISyGrxk9wBVsLjI6xnw==] from [666,?query=Q4&guid=7340058b-e142-426e-9731-d6dadafed386] received in 45 ms.  
+11.05.2018 01:15:28.343 INFO    11 Query processed [Q4] in 51 ms.  
+11.05.2018 01:15:28.346 INFO    10 Query processed [Q3] in 54 ms.  
+11.05.2018 01:15:28.348 INFO     9 Response [iTO2n0na2A7Ekfw5bav4RQ==] from [666,?query=Q1&guid=9c21a86a-d85b-463c-887b-2c5040592ade] received in 71 ms.  
+11.05.2018 01:15:28.353 INFO    12 Query processed [Q7] in 61 ms.  
+11.05.2018 01:15:28.354 INFO    11 Response [DQ+eB6vqC/yNHC2C2BhKww==] from [666,?query=Q2&guid=7192e58e-2458-4902-921a-ff404f01d7ea] received in 63 ms.  
+11.05.2018 01:15:28.358 INFO     9 Query processed [Q1] in 116 ms.  
+11.05.2018 01:15:28.364 INFO    11 Query processed [Q2] in 72 ms.  
+11.05.2018 01:15:28.367 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]11.05.2018 01:16:05.267 INFO     1 Testing Client.SimpleClient started  
+11.05.2018 01:16:05.495 INFO    10 Cancel request sent [http://127.0.0.1:666/do, 9d46553d-c36f-44b8-81c2-33647c45584a].  
+11.05.2018 01:16:05.495 INFO     9 Response [] from [666,?query=Q7&guid=9d46553d-c36f-44b8-81c2-33647c45584a] received in 151 ms.  
+11.05.2018 01:16:05.514 WARN    10 Query [Q7] timeout (170 ms).  
+11.05.2018 01:16:05.518 INFO    10 Response [] from [666,?query=Q3&guid=e380d413-c7f8-421d-94f9-86686ca063af] received in 175 ms.  
+11.05.2018 01:16:05.519 INFO     9 Cancel request sent [http://127.0.0.1:666/do, e380d413-c7f8-421d-94f9-86686ca063af].  
+11.05.2018 01:16:05.526 WARN     9 Query [Q3] timeout (182 ms).  
+11.05.2018 01:16:05.538 INFO     9 Response [] from [666,?query=Q5&guid=2db588fd-2aca-43cd-903b-1ca520262fa4] received in 194 ms.  
+11.05.2018 01:16:05.538 INFO    10 Cancel request sent [http://127.0.0.1:666/do, 2db588fd-2aca-43cd-903b-1ca520262fa4].  
+11.05.2018 01:16:05.545 WARN    10 Query [Q5] timeout (202 ms).  
+11.05.2018 01:16:05.561 INFO    10 Response [] from [666,?query=Q6&guid=023e05a4-167d-49f2-9370-6de51ce0f101] received in 217 ms.  
+11.05.2018 01:16:05.561 INFO     9 Cancel request sent [http://127.0.0.1:666/do, 023e05a4-167d-49f2-9370-6de51ce0f101].  
+11.05.2018 01:16:05.561 INFO    12 Cancel request sent [http://127.0.0.1:666/do, 856e8fac-60ae-4248-9bcb-3fdbce20059c].  
+11.05.2018 01:16:05.563 INFO    11 Response [DQ+eB6vqC/yNHC2C2BhKww==] from [666,?query=Q2&guid=856e8fac-60ae-4248-9bcb-3fdbce20059c] received in 219 ms.  
+11.05.2018 01:16:05.570 WARN     9 Query [Q6] timeout (226 ms).  
+11.05.2018 01:16:05.581 WARN    12 Query [Q2] timeout (238 ms).  
+11.05.2018 01:16:05.591 INFO     9 Cancel request sent [http://127.0.0.1:666/do, c0400965-0eee-4a29-bb5c-9cfacd935310].  
+11.05.2018 01:16:05.591 INFO    12 Response [] from [666,?query=Q1&guid=c0400965-0eee-4a29-bb5c-9cfacd935310] received in 262 ms.  
+11.05.2018 01:16:05.594 WARN     9 Query [Q1] timeout (303 ms).  
+11.05.2018 01:16:05.616 INFO     9 Response [] from [666,?query=Q4&guid=c67be1b9-5e12-4c09-87a6-e34ac15d07b6] received in 272 ms.  
+11.05.2018 01:16:05.616 INFO    12 Cancel request sent [http://127.0.0.1:666/do, c67be1b9-5e12-4c09-87a6-e34ac15d07b6].  
+11.05.2018 01:16:05.623 WARN    12 Query [Q4] timeout (279 ms).  
+11.05.2018 01:16:05.624 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]11.05.2018 01:20:37.363 INFO     1 Testing Client.SimpleClient started  
+11.05.2018 01:20:37.475 INFO    12 Cancel request sent [http://127.0.0.1:666/do, 1fdb0a2d-8575-416d-ade6-8e25fcf2ce16].  
+11.05.2018 01:20:37.475 INFO     9 Response [] from [666,?query=Q5&guid=35672628-b08f-4d9a-b8c2-f632962d5357] received in 34 ms.  
+11.05.2018 01:20:37.475 INFO    11 Response [] from [666,?query=Q1&guid=1fdb0a2d-8575-416d-ade6-8e25fcf2ce16] received in 48 ms.  
+11.05.2018 01:20:37.475 INFO    10 Cancel request sent [http://127.0.0.1:666/do, 35672628-b08f-4d9a-b8c2-f632962d5357].  
+11.05.2018 01:20:37.477 INFO     9 Response [] from [666,?query=Q6&guid=18d9e0df-1505-464d-aeef-43a9d7f570dd] received in 36 ms.  
+11.05.2018 01:20:37.478 INFO    11 Cancel request sent [http://127.0.0.1:666/do, 18d9e0df-1505-464d-aeef-43a9d7f570dd].  
+11.05.2018 01:20:37.478 INFO     9 Response [] from [666,?query=Q4&guid=0896092d-8d59-4128-831a-9ea0ba610dc3] received in 37 ms.  
+11.05.2018 01:20:37.479 INFO     9 Cancel request sent [http://127.0.0.1:666/do, 0896092d-8d59-4128-831a-9ea0ba610dc3].  
+11.05.2018 01:20:37.487 WARN    12 Query [Q1] timeout (98 ms).  
+11.05.2018 01:20:37.487 WARN    10 Query [Q5] timeout (46 ms).  
+11.05.2018 01:20:37.487 WARN    11 Query [Q6] timeout (46 ms).  
+11.05.2018 01:20:37.487 WARN     9 Query [Q4] timeout (46 ms).  
+11.05.2018 01:20:37.488 INFO    12 Response [] from [666,?query=Q7&guid=72da3838-0645-4553-bce8-6eab6c849183] received in 47 ms.  
+11.05.2018 01:20:37.488 INFO    10 Cancel request sent [http://127.0.0.1:666/do, 72da3838-0645-4553-bce8-6eab6c849183].  
+11.05.2018 01:20:37.489 INFO    11 Response [] from [666,?query=Q2&guid=7f2b9678-8a61-40eb-b7dd-ee815927a67e] received in 48 ms.  
+11.05.2018 01:20:37.490 WARN    10 Query [Q7] timeout (49 ms).  
+11.05.2018 01:20:37.490 INFO    11 Response [] from [666,?query=Q3&guid=e7171e5b-1f77-4d19-8c34-0927a6c60e4c] received in 50 ms.  
+11.05.2018 01:20:37.490 INFO    12 Cancel request sent [http://127.0.0.1:666/do, 7f2b9678-8a61-40eb-b7dd-ee815927a67e].  
+11.05.2018 01:20:37.491 INFO    10 Cancel request sent [http://127.0.0.1:666/do, e7171e5b-1f77-4d19-8c34-0927a6c60e4c].  
+11.05.2018 01:20:37.491 WARN    12 Query [Q2] timeout (51 ms).  
+11.05.2018 01:20:37.492 WARN    10 Query [Q3] timeout (52 ms).  
+11.05.2018 01:20:37.493 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]11.05.2018 01:25:29.911 INFO     1 Testing Client.SimpleClient started  
+11.05.2018 01:25:29.991 INFO     5 Cancel request sent [http://127.0.0.1:666/do, 0c600ae1-7449-4166-866a-98a8c08c972e].  
+11.05.2018 01:25:29.991 INFO     4 Cancel request sent [http://127.0.0.1:666/do, 776f83e4-47bc-4773-9db6-ec799d5d3229].  
+11.05.2018 01:25:29.991 INFO     7 Cancel request sent [http://127.0.0.1:666/do, 69906814-645b-4c5d-9a7a-a4aa39a663d9].  
+11.05.2018 01:25:29.991 INFO     8 Cancel request sent [http://127.0.0.1:666/do, c1e6cb68-de6f-4519-b406-a0178fd010a9].  
+11.05.2018 01:25:30.005 WARN     4 Query [Q6] timeout (22 ms).  
+11.05.2018 01:25:30.005 WARN     7 Query [Q7] timeout (22 ms).  
+11.05.2018 01:25:30.005 WARN     5 Query [Q5] timeout (22 ms).  
+11.05.2018 01:25:30.005 WARN     8 Query [Q4] timeout (23 ms).  
+11.05.2018 01:25:30.006 INFO     4 Cancel request sent [http://127.0.0.1:666/do, 72db450c-a940-43e7-a526-5dff912c9323].  
+11.05.2018 01:25:30.008 INFO     7 Cancel request sent [http://127.0.0.1:666/do, 24808721-939f-4b61-b724-4860bcd61588].  
+11.05.2018 01:25:30.009 INFO    11 Response [] from [666,?query=Q6&guid=776f83e4-47bc-4773-9db6-ec799d5d3229] received in 26 ms.  
+11.05.2018 01:25:30.009 INFO     5 Cancel request sent [http://127.0.0.1:666/do, 9731361e-8666-4757-b2b2-21f48fdcc8e6].  
+11.05.2018 01:25:30.010 WARN     7 Query [Q2] timeout (29 ms).  
+11.05.2018 01:25:30.011 INFO     9 Response [] from [666,?query=Q7&guid=69906814-645b-4c5d-9a7a-a4aa39a663d9] received in 28 ms.  
+11.05.2018 01:25:30.011 INFO    10 Response [] from [666,?query=Q5&guid=0c600ae1-7449-4166-866a-98a8c08c972e] received in 29 ms.  
+11.05.2018 01:25:30.011 WARN     4 Query [Q3] timeout (32 ms).  
+11.05.2018 01:25:30.011 INFO    11 Response [] from [666,?query=Q4&guid=c1e6cb68-de6f-4519-b406-a0178fd010a9] received in 34 ms.  
+11.05.2018 01:25:30.011 INFO    12 Response [] from [666,?query=Q3&guid=72db450c-a940-43e7-a526-5dff912c9323] received in 35 ms.  
+11.05.2018 01:25:30.016 INFO     9 Response [] from [666,?query=Q2&guid=24808721-939f-4b61-b724-4860bcd61588] received in 37 ms.  
+11.05.2018 01:25:30.016 WARN     5 Query [Q1] timeout (85 ms).  
+11.05.2018 01:25:30.016 INFO    10 Response [] from [666,?query=Q1&guid=9731361e-8666-4757-b2b2-21f48fdcc8e6] received in 51 ms.  
+11.05.2018 01:25:30.016 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]11.05.2018 01:28:18.928 INFO     1 Testing Client.SimpleClient started  
+11.05.2018 01:28:19.008 INFO     8 Cancel request sent [http://127.0.0.1:666/do, 31ee7e0d-8655-4a4e-941f-062eb769c1b6].  
+11.05.2018 01:28:19.008 INFO     5 Cancel request sent [http://127.0.0.1:666/do, 3739f3e8-3e5f-48eb-ab01-5af7352d0f05].  
+11.05.2018 01:28:19.008 INFO     4 Cancel request sent [http://127.0.0.1:666/do, b9ad2fee-c731-45c2-b6be-9b9a30525d7f].  
+11.05.2018 01:28:19.008 INFO     7 Cancel request sent [http://127.0.0.1:666/do, 5f985e68-97b0-4fac-ba2d-6409eba6cadc].  
+11.05.2018 01:28:19.018 WARN     8 Query [Q7] timeout (23 ms).  
+11.05.2018 01:28:19.018 WARN     7 Query [Q6] timeout (23 ms).  
+11.05.2018 01:28:19.018 WARN     5 Query [Q4] timeout (23 ms).  
+11.05.2018 01:28:19.018 WARN     4 Query [Q5] timeout (23 ms).  
+11.05.2018 01:28:19.018 INFO     8 Cancel request sent [http://127.0.0.1:666/do, 0db3e87e-362d-4bb4-ac0b-7b3dd048a766].  
+11.05.2018 01:28:19.018 INFO     4 Cancel request sent [http://127.0.0.1:666/do, d9ded736-8f1d-44b9-96a8-757aa280f3bf].  
+11.05.2018 01:28:19.023 WARN     8 Query [Q3] timeout (26 ms).  
+11.05.2018 01:28:19.023 INFO     5 Cancel request sent [http://127.0.0.1:666/do, 1a2fa775-0fe7-4c65-ba45-07edbe4b0269].  
+11.05.2018 01:28:19.028 WARN     4 Query [Q2] timeout (33 ms).  
+11.05.2018 01:28:19.028 WARN     5 Query [Q1] timeout (79 ms).  
+11.05.2018 01:28:19.028 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]11.05.2018 01:32:19.858 INFO     1 Testing Client.SimpleClient started  
+11.05.2018 01:32:19.953 INFO     4 Cancel request sent [http://127.0.0.1:666/do, ba159e9c-5968-4b26-848a-2a4eceaa524a].  
+11.05.2018 01:32:19.953 INFO     8 Cancel request sent [http://127.0.0.1:666/do, f9a51b40-20c2-4f47-99db-09d815da70ba].  
+11.05.2018 01:32:19.953 INFO     5 Cancel request sent [http://127.0.0.1:666/do, 87cd6548-1bf3-4caf-b723-9b1cf59d526f].  
+11.05.2018 01:32:19.958 INFO     7 Cancel request sent [http://127.0.0.1:666/do, 07b8b1e5-ce77-4855-934c-049051d8dae5].  
+11.05.2018 01:32:19.986 WARN     7 Query [Q5] timeout (44 ms).  
+11.05.2018 01:32:19.986 WARN     4 Query [Q4] timeout (44 ms).  
+11.05.2018 01:32:19.986 WARN     8 Query [Q7] timeout (43 ms).  
+11.05.2018 01:32:19.986 WARN     5 Query [Q6] timeout (43 ms).  
+11.05.2018 01:32:19.988 INFO     7 Cancel request sent [http://127.0.0.1:666/do, 8b2d6058-eb0c-4ab8-bbeb-15bc859c0ee7].  
+11.05.2018 01:32:19.988 WARN     7 Query [Q3] timeout (48 ms).  
+11.05.2018 01:32:19.988 INFO     4 Cancel request sent [http://127.0.0.1:666/do, eccb6234-ab13-46e6-a267-5c06ce02ffa9].  
+11.05.2018 01:32:19.993 INFO     8 Cancel request sent [http://127.0.0.1:666/do, 24d82204-d32a-437b-8247-84c1744e8635].  
+11.05.2018 01:32:19.998 WARN     4 Query [Q2] timeout (60 ms).  
+11.05.2018 01:32:20.003 WARN     8 Query [Q1] timeout (122 ms).  
+11.05.2018 01:32:20.003 INFO     1 Testing Client.SimpleClient finished  
+[End of logging][Start of logging]11.05.2018 01:32:32.918 INFO     1 Testing Client.SimpleClient started  
+11.05.2018 01:32:33.000 INFO     5 Cancel request sent [http://127.0.0.1:666/do, a1fc54c5-0aab-4b05-8a62-6b3975747dcd].  
+11.05.2018 01:32:33.000 INFO     7 Cancel request sent [http://127.0.0.1:666/do, 7c6613fd-d7ee-437e-8f8e-e81d8bc10d03].  
+11.05.2018 01:32:33.001 INFO     4 Cancel request sent [http://127.0.0.1:666/do, 84ea60e0-f7af-4103-9905-109f3600d418].  
+11.05.2018 01:32:33.001 INFO     8 Cancel request sent [http://127.0.0.1:666/do, 3329d94f-436a-4e0f-8e6f-38c192cd484c].  
+11.05.2018 01:32:33.011 WARN     5 Query [Q6] timeout (21 ms).  
+11.05.2018 01:32:33.012 WARN     7 Query [Q4] timeout (21 ms).  
+11.05.2018 01:32:33.012 WARN     8 Query [Q5] timeout (23 ms).  
+11.05.2018 01:32:33.013 WARN     4 Query [Q7] timeout (23 ms).  
+11.05.2018 01:32:33.018 INFO     5 Cancel request sent [http://127.0.0.1:666/do, c7c4578a-9d39-4d9d-8684-552877fbf8f9].  
+11.05.2018 01:32:33.018 INFO     4 Cancel request sent [http://127.0.0.1:666/do, 5cd726e2-cfa8-40e5-9dc6-f2a479ee687d].  
+11.05.2018 01:32:33.018 INFO     7 Cancel request sent [http://127.0.0.1:666/do, 11cf8fc0-9ee7-4bb8-96b1-15ae9d2a04e5].  
+11.05.2018 01:32:33.018 INFO    12 Response from [666,?query=Q7&guid=84ea60e0-f7af-4103-9905-109f3600d418] received in 31 ms.  
+11.05.2018 01:32:33.018 INFO     9 Response from [666,?query=Q2&guid=5cd726e2-cfa8-40e5-9dc6-f2a479ee687d] received in 33 ms.  
+11.05.2018 01:32:33.023 INFO    11 Response from [666,?query=Q4&guid=7c6613fd-d7ee-437e-8f8e-e81d8bc10d03] received in 35 ms.  
+11.05.2018 01:32:33.023 INFO    10 Response from [666,?query=Q3&guid=c7c4578a-9d39-4d9d-8684-552877fbf8f9] received in 38 ms.  
+11.05.2018 01:32:33.028 WARN     4 Query [Q2] timeout (40 ms).  
+11.05.2018 01:32:33.033 INFO    10 Response from [666,?query=Q5&guid=3329d94f-436a-4e0f-8e6f-38c192cd484c] received in 44 ms.  
+11.05.2018 01:32:33.033 INFO    11 Response from [666,?query=Q6&guid=a1fc54c5-0aab-4b05-8a62-6b3975747dcd] received in 48 ms.  
+11.05.2018 01:32:33.038 WARN     5 Query [Q3] timeout (51 ms).  
+11.05.2018 01:32:33.038 INFO    12 Response from [666,?query=Q1&guid=11cf8fc0-9ee7-4bb8-96b1-15ae9d2a04e5] received in 65 ms.  
+11.05.2018 01:32:33.038 WARN     7 Query [Q1] timeout (101 ms).  
+11.05.2018 01:32:33.053 INFO     1 Testing Client.SimpleClient finished  
+[End of logging]

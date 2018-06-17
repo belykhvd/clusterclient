@@ -49,10 +49,15 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ClientArguments.cs" />
-    <Compile Include="ClientBase.cs" />
+    <Compile Include="Clients\ClusterClientBase.cs" />
+    <Compile Include="Dependencies\ClusterManager.cs" />
+    <Compile Include="Dependencies\EnumerableExtensions.cs" />
+    <Compile Include="Clients\BroadcastClusterClient.cs" />
+    <Compile Include="Clients\RandomClusterClient.cs" />
+    <Compile Include="Clients\RoundRobinClusterClient.cs" />
+    <Compile Include="Clients\SmartClusterClient.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SimpleClient.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
@@ -66,8 +71,6 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Clients\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -1,0 +1,584 @@
+[Start of logging]
+12.05.2018 11:16:27.172 INFO     1 Server is starting listening prefixes: http://+:666/do/.  
+12.05.2018 11:16:27.187 INFO     1 Press <ENTER> to stop listening.  
+12.05.2018 11:16:34.007 INFO     1 Server stopped.  
+[End of logging]
+
+[Start of logging]
+12.05.2018 11:16:45.661 INFO     1 Server is starting listening prefixes: http://+:666/do/.  
+12.05.2018 11:16:45.676 INFO     1 Press <ENTER> to stop listening.  
+12.05.2018 11:17:19.792 INFO     8 Request [Q5] processed in 23 ms.  
+12.05.2018 11:17:19.792 INFO     5 Request [Q7] processed in 25 ms.  
+12.05.2018 11:17:19.792 INFO     7 Request [Q4] processed in 25 ms.  
+12.05.2018 11:17:19.792 INFO     6 Request [Q6] processed in 32 ms.  
+12.05.2018 11:17:19.792 INFO     5 Request [Q1] processed in 34 ms.  
+12.05.2018 11:17:19.792 INFO     8 Request [Q2] processed in 34 ms.  
+12.05.2018 11:17:19.792 INFO     5 Request [Q3] processed in 35 ms.  
+12.05.2018 11:35:01.595 INFO    10 Request [Q1] processed in 25 ms.  
+12.05.2018 11:35:01.595 INFO    12 Request [Q3] processed in 25 ms.  
+12.05.2018 11:35:01.595 INFO    13 Request [Q7] processed in 26 ms.  
+12.05.2018 11:35:01.595 INFO    11 Request [Q4] processed in 26 ms.  
+12.05.2018 11:35:01.595 INFO    10 Request [Q5] processed in 27 ms.  
+12.05.2018 11:35:01.595 INFO    14 Request [Q6] processed in 28 ms.  
+12.05.2018 11:35:01.595 INFO    12 Request [Q2] processed in 29 ms.  
+12.05.2018 11:36:04.641 INFO    16 Request [Q4] processed in 12 ms.  
+12.05.2018 11:36:04.641 INFO    18 Request [Q1] processed in 12 ms.  
+12.05.2018 11:36:04.641 INFO    19 Request [Q7] processed in 12 ms.  
+12.05.2018 11:36:04.641 INFO    17 Request [Q6] processed in 13 ms.  
+12.05.2018 11:36:04.641 INFO    16 Request [Q2] processed in 14 ms.  
+12.05.2018 11:36:04.641 INFO    19 Request [Q3] processed in 14 ms.  
+12.05.2018 11:36:04.641 INFO    16 Request [Q5] processed in 15 ms.  
+12.05.2018 11:36:12.622 INFO     1 Server stopped.  
+[End of logging]
+
+[Start of logging]
+12.05.2018 11:36:13.741 INFO     1 Server is starting listening prefixes: http://+:666/do/.  
+12.05.2018 11:36:13.757 INFO     1 Press <ENTER> to stop listening.  
+12.05.2018 11:36:16.855 INFO     7 Request [Q3] processed in 18 ms.  
+12.05.2018 11:36:16.855 INFO     6 Request [Q7] processed in 18 ms.  
+12.05.2018 11:36:16.855 INFO     8 Request [Q5] processed in 23 ms.  
+12.05.2018 11:36:16.855 INFO     5 Request [Q4] processed in 18 ms.  
+12.05.2018 11:36:16.855 INFO     7 Request [Q1] processed in 24 ms.  
+12.05.2018 11:36:16.855 INFO     6 Request [Q2] processed in 25 ms.  
+12.05.2018 11:36:16.855 INFO     8 Request [Q6] processed in 25 ms.  
+12.05.2018 11:39:24.700 INFO     1 Server stopped.  
+[End of logging]
+
+[Start of logging]
+12.05.2018 11:40:12.986 INFO     8 Request [Q1] processed in 30 ms.  
+12.05.2018 11:40:12.986 INFO     6 Request [Q5] processed in 29 ms.  
+12.05.2018 11:40:12.986 INFO     7 Request [Q7] processed in 31 ms.  
+12.05.2018 11:40:34.934 INFO     1 Server stopped.  
+[End of logging]
+
+[Start of logging]
+12.05.2018 11:40:36.657 INFO     1 Server stopped.  
+[End of logging]
+
+[Start of logging]
+12.05.2018 11:44:04.566 INFO     1 Server is starting listening prefixes: http://+:100/do/.  
+12.05.2018 11:44:04.597 INFO     1 Press <ENTER> to stop listening.  
+12.05.2018 11:44:17.689 INFO     6 Request [Q4] processed in 508 ms.  
+12.05.2018 11:44:17.689 INFO     8 Request [Q1] processed in 516 ms.  
+12.05.2018 11:44:17.689 INFO     7 Request [Q3] processed in 516 ms.  
+12.05.2018 11:44:17.689 INFO     5 Request [Q6] processed in 517 ms.  
+12.05.2018 11:44:18.720 ERROR   10 System.Net.HttpListenerException (0x80004005): Попытка выполнить операцию для несуществующего сетевого подключения
+   в System.Net.HttpResponseStream.BeginWrite(Byte[] buffer, Int32 offset, Int32 size, AsyncCallback callback, Object state)
+   в System.IO.Stream.<>c.<BeginEndWriteAsync>b__53_0(Stream stream, ReadWriteParameters args, AsyncCallback callback, Object state)
+   в System.Threading.Tasks.TaskFactory`1.FromAsyncTrim[TInstance,TArgs](TInstance thisRef, TArgs args, Func`5 beginMethod, Func`3 endMethod)
+   в System.IO.Stream.BeginEndWriteAsync(Byte[] buffer, Int32 offset, Int32 count)
+   в System.IO.Stream.WriteAsync(Byte[] buffer, Int32 offset, Int32 count, CancellationToken cancellationToken)
+   в Server.Program.<ComputationalAsyncCallback>d__3.MoveNext() в C:\Users\Jesse Pinkman\Desktop\OOP\CourseWork\CourseWork\Program.cs:строка 93
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   в Server.Program.<>c__DisplayClass2_0.<<CreateAsyncCallback>b__0>d.MoveNext() в C:\Users\Jesse Pinkman\Desktop\OOP\CourseWork\CourseWork\Program.cs:строка 61
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   в Server.HttpListenerExtensions.<>c__DisplayClass1_1.<<ProceedRequestsAsync>b__0>d.MoveNext() в C:\Users\Jesse Pinkman\Desktop\OOP\CourseWork\CourseWork\HttpListenerExtensions.cs:строка 26  
+12.05.2018 11:45:51.028 ERROR   11 System.Net.HttpListenerException (0x80004005): Попытка выполнить операцию для несуществующего сетевого подключения
+   в System.Net.HttpResponseStream.BeginWrite(Byte[] buffer, Int32 offset, Int32 size, AsyncCallback callback, Object state)
+   в System.IO.Stream.<>c.<BeginEndWriteAsync>b__53_0(Stream stream, ReadWriteParameters args, AsyncCallback callback, Object state)
+   в System.Threading.Tasks.TaskFactory`1.FromAsyncTrim[TInstance,TArgs](TInstance thisRef, TArgs args, Func`5 beginMethod, Func`3 endMethod)
+   в System.IO.Stream.BeginEndWriteAsync(Byte[] buffer, Int32 offset, Int32 count)
+   в System.IO.Stream.WriteAsync(Byte[] buffer, Int32 offset, Int32 count, CancellationToken cancellationToken)
+   в Server.Program.<ComputationalAsyncCallback>d__3.MoveNext() в C:\Users\Jesse Pinkman\Desktop\OOP\CourseWork\CourseWork\Program.cs:строка 93
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   в Server.Program.<>c__DisplayClass2_0.<<CreateAsyncCallback>b__0>d.MoveNext() в C:\Users\Jesse Pinkman\Desktop\OOP\CourseWork\CourseWork\Program.cs:строка 61
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   в Server.HttpListenerExtensions.<>c__DisplayClass1_1.<<ProceedRequestsAsync>b__0>d.MoveNext() в C:\Users\Jesse Pinkman\Desktop\OOP\CourseWork\CourseWork\HttpListenerExtensions.cs:строка 26  
+12.05.2018 11:45:52.028 ERROR   12 System.Net.HttpListenerException (0x80004005): Попытка выполнить операцию для несуществующего сетевого подключения
+   в System.Net.HttpResponseStream.BeginWrite(Byte[] buffer, Int32 offset, Int32 size, AsyncCallback callback, Object state)
+   в System.IO.Stream.<>c.<BeginEndWriteAsync>b__53_0(Stream stream, ReadWriteParameters args, AsyncCallback callback, Object state)
+   в System.Threading.Tasks.TaskFactory`1.FromAsyncTrim[TInstance,TArgs](TInstance thisRef, TArgs args, Func`5 beginMethod, Func`3 endMethod)
+   в System.IO.Stream.BeginEndWriteAsync(Byte[] buffer, Int32 offset, Int32 count)
+   в System.IO.Stream.WriteAsync(Byte[] buffer, Int32 offset, Int32 count, CancellationToken cancellationToken)
+   в Server.Program.<ComputationalAsyncCallback>d__3.MoveNext() в C:\Users\Jesse Pinkman\Desktop\OOP\CourseWork\CourseWork\Program.cs:строка 93
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   в Server.Program.<>c__DisplayClass2_0.<<CreateAsyncCallback>b__0>d.MoveNext() в C:\Users\Jesse Pinkman\Desktop\OOP\CourseWork\CourseWork\Program.cs:строка 61
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   в Server.HttpListenerExtensions.<>c__DisplayClass1_1.<<ProceedRequestsAsync>b__0>d.MoveNext() в C:\Users\Jesse Pinkman\Desktop\OOP\CourseWork\CourseWork\HttpListenerExtensions.cs:строка 26  
+12.05.2018 11:45:53.023 ERROR   13 System.Net.HttpListenerException (0x80004005): Попытка выполнить операцию для несуществующего сетевого подключения
+   в System.Net.HttpResponseStream.BeginWrite(Byte[] buffer, Int32 offset, Int32 size, AsyncCallback callback, Object state)
+   в System.IO.Stream.<>c.<BeginEndWriteAsync>b__53_0(Stream stream, ReadWriteParameters args, AsyncCallback callback, Object state)
+   в System.Threading.Tasks.TaskFactory`1.FromAsyncTrim[TInstance,TArgs](TInstance thisRef, TArgs args, Func`5 beginMethod, Func`3 endMethod)
+   в System.IO.Stream.BeginEndWriteAsync(Byte[] buffer, Int32 offset, Int32 count)
+   в System.IO.Stream.WriteAsync(Byte[] buffer, Int32 offset, Int32 count, CancellationToken cancellationToken)
+   в Server.Program.<ComputationalAsyncCallback>d__3.MoveNext() в C:\Users\Jesse Pinkman\Desktop\OOP\CourseWork\CourseWork\Program.cs:строка 93
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   в Server.Program.<>c__DisplayClass2_0.<<CreateAsyncCallback>b__0>d.MoveNext() в C:\Users\Jesse Pinkman\Desktop\OOP\CourseWork\CourseWork\Program.cs:строка 61
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   в Server.HttpListenerExtensions.<>c__DisplayClass1_1.<<ProceedRequestsAsync>b__0>d.MoveNext() в C:\Users\Jesse Pinkman\Desktop\OOP\CourseWork\CourseWork\HttpListenerExtensions.cs:строка 26  
+12.05.2018 11:47:40.581 ERROR   15 System.Net.HttpListenerException (0x80004005): Попытка выполнить операцию для несуществующего сетевого подключения
+   в System.Net.HttpResponseStream.BeginWrite(Byte[] buffer, Int32 offset, Int32 size, AsyncCallback callback, Object state)
+   в System.IO.Stream.<>c.<BeginEndWriteAsync>b__53_0(Stream stream, ReadWriteParameters args, AsyncCallback callback, Object state)
+   в System.Threading.Tasks.TaskFactory`1.FromAsyncTrim[TInstance,TArgs](TInstance thisRef, TArgs args, Func`5 beginMethod, Func`3 endMethod)
+   в System.IO.Stream.BeginEndWriteAsync(Byte[] buffer, Int32 offset, Int32 count)
+   в System.IO.Stream.WriteAsync(Byte[] buffer, Int32 offset, Int32 count, CancellationToken cancellationToken)
+   в Server.Program.<ComputationalAsyncCallback>d__3.MoveNext() в C:\Users\Jesse Pinkman\Desktop\OOP\CourseWork\CourseWork\Program.cs:строка 93
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   в Server.Program.<>c__DisplayClass2_0.<<CreateAsyncCallback>b__0>d.MoveNext() в C:\Users\Jesse Pinkman\Desktop\OOP\CourseWork\CourseWork\Program.cs:строка 61
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   в Server.HttpListenerExtensions.<>c__DisplayClass1_1.<<ProceedRequestsAsync>b__0>d.MoveNext() в C:\Users\Jesse Pinkman\Desktop\OOP\CourseWork\CourseWork\HttpListenerExtensions.cs:строка 26  
+12.05.2018 11:47:41.560 ERROR   16 System.Net.HttpListenerException (0x80004005): Попытка выполнить операцию для несуществующего сетевого подключения
+   в System.Net.HttpResponseStream.BeginWrite(Byte[] buffer, Int32 offset, Int32 size, AsyncCallback callback, Object state)
+   в System.IO.Stream.<>c.<BeginEndWriteAsync>b__53_0(Stream stream, ReadWriteParameters args, AsyncCallback callback, Object state)
+   в System.Threading.Tasks.TaskFactory`1.FromAsyncTrim[TInstance,TArgs](TInstance thisRef, TArgs args, Func`5 beginMethod, Func`3 endMethod)
+   в System.IO.Stream.BeginEndWriteAsync(Byte[] buffer, Int32 offset, Int32 count)
+   в System.IO.Stream.WriteAsync(Byte[] buffer, Int32 offset, Int32 count, CancellationToken cancellationToken)
+   в Server.Program.<ComputationalAsyncCallback>d__3.MoveNext() в C:\Users\Jesse Pinkman\Desktop\OOP\CourseWork\CourseWork\Program.cs:строка 93
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   в Server.Program.<>c__DisplayClass2_0.<<CreateAsyncCallback>b__0>d.MoveNext() в C:\Users\Jesse Pinkman\Desktop\OOP\CourseWork\CourseWork\Program.cs:строка 61
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   в Server.HttpListenerExtensions.<>c__DisplayClass1_1.<<ProceedRequestsAsync>b__0>d.MoveNext() в C:\Users\Jesse Pinkman\Desktop\OOP\CourseWork\CourseWork\HttpListenerExtensions.cs:строка 26  
+12.05.2018 11:47:42.560 ERROR   17 System.Net.HttpListenerException (0x80004005): Попытка выполнить операцию для несуществующего сетевого подключения
+   в System.Net.HttpResponseStream.BeginWrite(Byte[] buffer, Int32 offset, Int32 size, AsyncCallback callback, Object state)
+   в System.IO.Stream.<>c.<BeginEndWriteAsync>b__53_0(Stream stream, ReadWriteParameters args, AsyncCallback callback, Object state)
+   в System.Threading.Tasks.TaskFactory`1.FromAsyncTrim[TInstance,TArgs](TInstance thisRef, TArgs args, Func`5 beginMethod, Func`3 endMethod)
+   в System.IO.Stream.BeginEndWriteAsync(Byte[] buffer, Int32 offset, Int32 count)
+   в System.IO.Stream.WriteAsync(Byte[] buffer, Int32 offset, Int32 count, CancellationToken cancellationToken)
+   в Server.Program.<ComputationalAsyncCallback>d__3.MoveNext() в C:\Users\Jesse Pinkman\Desktop\OOP\CourseWork\CourseWork\Program.cs:строка 93
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   в Server.Program.<>c__DisplayClass2_0.<<CreateAsyncCallback>b__0>d.MoveNext() в C:\Users\Jesse Pinkman\Desktop\OOP\CourseWork\CourseWork\Program.cs:строка 61
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   в Server.HttpListenerExtensions.<>c__DisplayClass1_1.<<ProceedRequestsAsync>b__0>d.MoveNext() в C:\Users\Jesse Pinkman\Desktop\OOP\CourseWork\CourseWork\HttpListenerExtensions.cs:строка 26  
+12.05.2018 11:47:43.555 ERROR   18 System.Net.HttpListenerException (0x80004005): Попытка выполнить операцию для несуществующего сетевого подключения
+   в System.Net.HttpResponseStream.BeginWrite(Byte[] buffer, Int32 offset, Int32 size, AsyncCallback callback, Object state)
+   в System.IO.Stream.<>c.<BeginEndWriteAsync>b__53_0(Stream stream, ReadWriteParameters args, AsyncCallback callback, Object state)
+   в System.Threading.Tasks.TaskFactory`1.FromAsyncTrim[TInstance,TArgs](TInstance thisRef, TArgs args, Func`5 beginMethod, Func`3 endMethod)
+   в System.IO.Stream.BeginEndWriteAsync(Byte[] buffer, Int32 offset, Int32 count)
+   в System.IO.Stream.WriteAsync(Byte[] buffer, Int32 offset, Int32 count, CancellationToken cancellationToken)
+   в Server.Program.<ComputationalAsyncCallback>d__3.MoveNext() в C:\Users\Jesse Pinkman\Desktop\OOP\CourseWork\CourseWork\Program.cs:строка 93
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   в Server.Program.<>c__DisplayClass2_0.<<CreateAsyncCallback>b__0>d.MoveNext() в C:\Users\Jesse Pinkman\Desktop\OOP\CourseWork\CourseWork\Program.cs:строка 61
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   в Server.HttpListenerExtensions.<>c__DisplayClass1_1.<<ProceedRequestsAsync>b__0>d.MoveNext() в C:\Users\Jesse Pinkman\Desktop\OOP\CourseWork\CourseWork\HttpListenerExtensions.cs:строка 26  
+12.05.2018 11:47:44.566 ERROR   19 System.Net.HttpListenerException (0x80004005): Попытка выполнить операцию для несуществующего сетевого подключения
+   в System.Net.HttpResponseStream.BeginWrite(Byte[] buffer, Int32 offset, Int32 size, AsyncCallback callback, Object state)
+   в System.IO.Stream.<>c.<BeginEndWriteAsync>b__53_0(Stream stream, ReadWriteParameters args, AsyncCallback callback, Object state)
+   в System.Threading.Tasks.TaskFactory`1.FromAsyncTrim[TInstance,TArgs](TInstance thisRef, TArgs args, Func`5 beginMethod, Func`3 endMethod)
+   в System.IO.Stream.BeginEndWriteAsync(Byte[] buffer, Int32 offset, Int32 count)
+   в System.IO.Stream.WriteAsync(Byte[] buffer, Int32 offset, Int32 count, CancellationToken cancellationToken)
+   в Server.Program.<ComputationalAsyncCallback>d__3.MoveNext() в C:\Users\Jesse Pinkman\Desktop\OOP\CourseWork\CourseWork\Program.cs:строка 93
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   в Server.Program.<>c__DisplayClass2_0.<<CreateAsyncCallback>b__0>d.MoveNext() в C:\Users\Jesse Pinkman\Desktop\OOP\CourseWork\CourseWork\Program.cs:строка 61
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   в Server.HttpListenerExtensions.<>c__DisplayClass1_1.<<ProceedRequestsAsync>b__0>d.MoveNext() в C:\Users\Jesse Pinkman\Desktop\OOP\CourseWork\CourseWork\HttpListenerExtensions.cs:строка 26  
+12.05.2018 11:47:45.566 ERROR   20 System.Net.HttpListenerException (0x80004005): Попытка выполнить операцию для несуществующего сетевого подключения
+   в System.Net.HttpResponseStream.BeginWrite(Byte[] buffer, Int32 offset, Int32 size, AsyncCallback callback, Object state)
+   в System.IO.Stream.<>c.<BeginEndWriteAsync>b__53_0(Stream stream, ReadWriteParameters args, AsyncCallback callback, Object state)
+   в System.Threading.Tasks.TaskFactory`1.FromAsyncTrim[TInstance,TArgs](TInstance thisRef, TArgs args, Func`5 beginMethod, Func`3 endMethod)
+   в System.IO.Stream.BeginEndWriteAsync(Byte[] buffer, Int32 offset, Int32 count)
+   в System.IO.Stream.WriteAsync(Byte[] buffer, Int32 offset, Int32 count, CancellationToken cancellationToken)
+   в Server.Program.<ComputationalAsyncCallback>d__3.MoveNext() в C:\Users\Jesse Pinkman\Desktop\OOP\CourseWork\CourseWork\Program.cs:строка 93
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   в Server.Program.<>c__DisplayClass2_0.<<CreateAsyncCallback>b__0>d.MoveNext() в C:\Users\Jesse Pinkman\Desktop\OOP\CourseWork\CourseWork\Program.cs:строка 61
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   в Server.HttpListenerExtensions.<>c__DisplayClass1_1.<<ProceedRequestsAsync>b__0>d.MoveNext() в C:\Users\Jesse Pinkman\Desktop\OOP\CourseWork\CourseWork\HttpListenerExtensions.cs:строка 26  
+12.05.2018 11:49:16.138 ERROR   21 System.Net.HttpListenerException (0x80004005): Попытка выполнить операцию для несуществующего сетевого подключения
+   в System.Net.HttpResponseStream.BeginWrite(Byte[] buffer, Int32 offset, Int32 size, AsyncCallback callback, Object state)
+   в System.IO.Stream.<>c.<BeginEndWriteAsync>b__53_0(Stream stream, ReadWriteParameters args, AsyncCallback callback, Object state)
+   в System.Threading.Tasks.TaskFactory`1.FromAsyncTrim[TInstance,TArgs](TInstance thisRef, TArgs args, Func`5 beginMethod, Func`3 endMethod)
+   в System.IO.Stream.BeginEndWriteAsync(Byte[] buffer, Int32 offset, Int32 count)
+   в System.IO.Stream.WriteAsync(Byte[] buffer, Int32 offset, Int32 count, CancellationToken cancellationToken)
+   в Server.Program.<ComputationalAsyncCallback>d__3.MoveNext() в C:\Users\Jesse Pinkman\Desktop\OOP\CourseWork\CourseWork\Program.cs:строка 93
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   в Server.Program.<>c__DisplayClass2_0.<<CreateAsyncCallback>b__0>d.MoveNext() в C:\Users\Jesse Pinkman\Desktop\OOP\CourseWork\CourseWork\Program.cs:строка 61
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   в Server.HttpListenerExtensions.<>c__DisplayClass1_1.<<ProceedRequestsAsync>b__0>d.MoveNext() в C:\Users\Jesse Pinkman\Desktop\OOP\CourseWork\CourseWork\HttpListenerExtensions.cs:строка 26  
+12.05.2018 11:49:17.118 ERROR   22 System.Net.HttpListenerException (0x80004005): Попытка выполнить операцию для несуществующего сетевого подключения
+   в System.Net.HttpResponseStream.BeginWrite(Byte[] buffer, Int32 offset, Int32 size, AsyncCallback callback, Object state)
+   в System.IO.Stream.<>c.<BeginEndWriteAsync>b__53_0(Stream stream, ReadWriteParameters args, AsyncCallback callback, Object state)
+   в System.Threading.Tasks.TaskFactory`1.FromAsyncTrim[TInstance,TArgs](TInstance thisRef, TArgs args, Func`5 beginMethod, Func`3 endMethod)
+   в System.IO.Stream.BeginEndWriteAsync(Byte[] buffer, Int32 offset, Int32 count)
+   в System.IO.Stream.WriteAsync(Byte[] buffer, Int32 offset, Int32 count, CancellationToken cancellationToken)
+   в Server.Program.<ComputationalAsyncCallback>d__3.MoveNext() в C:\Users\Jesse Pinkman\Desktop\OOP\CourseWork\CourseWork\Program.cs:строка 93
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   в Server.Program.<>c__DisplayClass2_0.<<CreateAsyncCallback>b__0>d.MoveNext() в C:\Users\Jesse Pinkman\Desktop\OOP\CourseWork\CourseWork\Program.cs:строка 61
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   в Server.HttpListenerExtensions.<>c__DisplayClass1_1.<<ProceedRequestsAsync>b__0>d.MoveNext() в C:\Users\Jesse Pinkman\Desktop\OOP\CourseWork\CourseWork\HttpListenerExtensions.cs:строка 26  
+12.05.2018 11:50:41.413 ERROR   23 System.Net.HttpListenerException (0x80004005): Попытка выполнить операцию для несуществующего сетевого подключения
+   в System.Net.HttpResponseStream.BeginWrite(Byte[] buffer, Int32 offset, Int32 size, AsyncCallback callback, Object state)
+   в System.IO.Stream.<>c.<BeginEndWriteAsync>b__53_0(Stream stream, ReadWriteParameters args, AsyncCallback callback, Object state)
+   в System.Threading.Tasks.TaskFactory`1.FromAsyncTrim[TInstance,TArgs](TInstance thisRef, TArgs args, Func`5 beginMethod, Func`3 endMethod)
+   в System.IO.Stream.BeginEndWriteAsync(Byte[] buffer, Int32 offset, Int32 count)
+   в System.IO.Stream.WriteAsync(Byte[] buffer, Int32 offset, Int32 count, CancellationToken cancellationToken)
+   в Server.Program.<ComputationalAsyncCallback>d__3.MoveNext() в C:\Users\Jesse Pinkman\Desktop\OOP\CourseWork\CourseWork\Program.cs:строка 93
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   в Server.Program.<>c__DisplayClass2_0.<<CreateAsyncCallback>b__0>d.MoveNext() в C:\Users\Jesse Pinkman\Desktop\OOP\CourseWork\CourseWork\Program.cs:строка 61
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   в Server.HttpListenerExtensions.<>c__DisplayClass1_1.<<ProceedRequestsAsync>b__0>d.MoveNext() в C:\Users\Jesse Pinkman\Desktop\OOP\CourseWork\CourseWork\HttpListenerExtensions.cs:строка 26  
+12.05.2018 11:50:42.382 ERROR   24 System.Net.HttpListenerException (0x80004005): Попытка выполнить операцию для несуществующего сетевого подключения
+   в System.Net.HttpResponseStream.BeginWrite(Byte[] buffer, Int32 offset, Int32 size, AsyncCallback callback, Object state)
+   в System.IO.Stream.<>c.<BeginEndWriteAsync>b__53_0(Stream stream, ReadWriteParameters args, AsyncCallback callback, Object state)
+   в System.Threading.Tasks.TaskFactory`1.FromAsyncTrim[TInstance,TArgs](TInstance thisRef, TArgs args, Func`5 beginMethod, Func`3 endMethod)
+   в System.IO.Stream.BeginEndWriteAsync(Byte[] buffer, Int32 offset, Int32 count)
+   в System.IO.Stream.WriteAsync(Byte[] buffer, Int32 offset, Int32 count, CancellationToken cancellationToken)
+   в Server.Program.<ComputationalAsyncCallback>d__3.MoveNext() в C:\Users\Jesse Pinkman\Desktop\OOP\CourseWork\CourseWork\Program.cs:строка 93
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   в Server.Program.<>c__DisplayClass2_0.<<CreateAsyncCallback>b__0>d.MoveNext() в C:\Users\Jesse Pinkman\Desktop\OOP\CourseWork\CourseWork\Program.cs:строка 61
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   в Server.HttpListenerExtensions.<>c__DisplayClass1_1.<<ProceedRequestsAsync>b__0>d.MoveNext() в C:\Users\Jesse Pinkman\Desktop\OOP\CourseWork\CourseWork\HttpListenerExtensions.cs:строка 26  
+12.05.2018 11:50:43.376 ERROR   25 System.Net.HttpListenerException (0x80004005): Попытка выполнить операцию для несуществующего сетевого подключения
+   в System.Net.HttpResponseStream.BeginWrite(Byte[] buffer, Int32 offset, Int32 size, AsyncCallback callback, Object state)
+   в System.IO.Stream.<>c.<BeginEndWriteAsync>b__53_0(Stream stream, ReadWriteParameters args, AsyncCallback callback, Object state)
+   в System.Threading.Tasks.TaskFactory`1.FromAsyncTrim[TInstance,TArgs](TInstance thisRef, TArgs args, Func`5 beginMethod, Func`3 endMethod)
+   в System.IO.Stream.BeginEndWriteAsync(Byte[] buffer, Int32 offset, Int32 count)
+   в System.IO.Stream.WriteAsync(Byte[] buffer, Int32 offset, Int32 count, CancellationToken cancellationToken)
+   в Server.Program.<ComputationalAsyncCallback>d__3.MoveNext() в C:\Users\Jesse Pinkman\Desktop\OOP\CourseWork\CourseWork\Program.cs:строка 93
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   в Server.Program.<>c__DisplayClass2_0.<<CreateAsyncCallback>b__0>d.MoveNext() в C:\Users\Jesse Pinkman\Desktop\OOP\CourseWork\CourseWork\Program.cs:строка 61
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   в Server.HttpListenerExtensions.<>c__DisplayClass1_1.<<ProceedRequestsAsync>b__0>d.MoveNext() в C:\Users\Jesse Pinkman\Desktop\OOP\CourseWork\CourseWork\HttpListenerExtensions.cs:строка 26  
+12.05.2018 11:50:44.387 ERROR   26 System.Net.HttpListenerException (0x80004005): Попытка выполнить операцию для несуществующего сетевого подключения
+   в System.Net.HttpResponseStream.BeginWrite(Byte[] buffer, Int32 offset, Int32 size, AsyncCallback callback, Object state)
+   в System.IO.Stream.<>c.<BeginEndWriteAsync>b__53_0(Stream stream, ReadWriteParameters args, AsyncCallback callback, Object state)
+   в System.Threading.Tasks.TaskFactory`1.FromAsyncTrim[TInstance,TArgs](TInstance thisRef, TArgs args, Func`5 beginMethod, Func`3 endMethod)
+   в System.IO.Stream.BeginEndWriteAsync(Byte[] buffer, Int32 offset, Int32 count)
+   в System.IO.Stream.WriteAsync(Byte[] buffer, Int32 offset, Int32 count, CancellationToken cancellationToken)
+   в Server.Program.<ComputationalAsyncCallback>d__3.MoveNext() в C:\Users\Jesse Pinkman\Desktop\OOP\CourseWork\CourseWork\Program.cs:строка 93
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   в Server.Program.<>c__DisplayClass2_0.<<CreateAsyncCallback>b__0>d.MoveNext() в C:\Users\Jesse Pinkman\Desktop\OOP\CourseWork\CourseWork\Program.cs:строка 61
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   в Server.HttpListenerExtensions.<>c__DisplayClass1_1.<<ProceedRequestsAsync>b__0>d.MoveNext() в C:\Users\Jesse Pinkman\Desktop\OOP\CourseWork\CourseWork\HttpListenerExtensions.cs:строка 26  
+12.05.2018 11:51:28.950 ERROR   28 System.Net.HttpListenerException (0x80004005): Попытка выполнить операцию для несуществующего сетевого подключения
+   в System.Net.HttpResponseStream.BeginWrite(Byte[] buffer, Int32 offset, Int32 size, AsyncCallback callback, Object state)
+   в System.IO.Stream.<>c.<BeginEndWriteAsync>b__53_0(Stream stream, ReadWriteParameters args, AsyncCallback callback, Object state)
+   в System.Threading.Tasks.TaskFactory`1.FromAsyncTrim[TInstance,TArgs](TInstance thisRef, TArgs args, Func`5 beginMethod, Func`3 endMethod)
+   в System.IO.Stream.BeginEndWriteAsync(Byte[] buffer, Int32 offset, Int32 count)
+   в System.IO.Stream.WriteAsync(Byte[] buffer, Int32 offset, Int32 count, CancellationToken cancellationToken)
+   в Server.Program.<ComputationalAsyncCallback>d__3.MoveNext() в C:\Users\Jesse Pinkman\Desktop\OOP\CourseWork\CourseWork\Program.cs:строка 93
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   в Server.Program.<>c__DisplayClass2_0.<<CreateAsyncCallback>b__0>d.MoveNext() в C:\Users\Jesse Pinkman\Desktop\OOP\CourseWork\CourseWork\Program.cs:строка 61
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   в Server.HttpListenerExtensions.<>c__DisplayClass1_1.<<ProceedRequestsAsync>b__0>d.MoveNext() в C:\Users\Jesse Pinkman\Desktop\OOP\CourseWork\CourseWork\HttpListenerExtensions.cs:строка 26  
+12.05.2018 11:51:29.929 ERROR   29 System.Net.HttpListenerException (0x80004005): Попытка выполнить операцию для несуществующего сетевого подключения
+   в System.Net.HttpResponseStream.BeginWrite(Byte[] buffer, Int32 offset, Int32 size, AsyncCallback callback, Object state)
+   в System.IO.Stream.<>c.<BeginEndWriteAsync>b__53_0(Stream stream, ReadWriteParameters args, AsyncCallback callback, Object state)
+   в System.Threading.Tasks.TaskFactory`1.FromAsyncTrim[TInstance,TArgs](TInstance thisRef, TArgs args, Func`5 beginMethod, Func`3 endMethod)
+   в System.IO.Stream.BeginEndWriteAsync(Byte[] buffer, Int32 offset, Int32 count)
+   в System.IO.Stream.WriteAsync(Byte[] buffer, Int32 offset, Int32 count, CancellationToken cancellationToken)
+   в Server.Program.<ComputationalAsyncCallback>d__3.MoveNext() в C:\Users\Jesse Pinkman\Desktop\OOP\CourseWork\CourseWork\Program.cs:строка 93
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   в Server.Program.<>c__DisplayClass2_0.<<CreateAsyncCallback>b__0>d.MoveNext() в C:\Users\Jesse Pinkman\Desktop\OOP\CourseWork\CourseWork\Program.cs:строка 61
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   в Server.HttpListenerExtensions.<>c__DisplayClass1_1.<<ProceedRequestsAsync>b__0>d.MoveNext() в C:\Users\Jesse Pinkman\Desktop\OOP\CourseWork\CourseWork\HttpListenerExtensions.cs:строка 26  
+12.05.2018 11:51:30.940 ERROR   30 System.Net.HttpListenerException (0x80004005): Попытка выполнить операцию для несуществующего сетевого подключения
+   в System.Net.HttpResponseStream.BeginWrite(Byte[] buffer, Int32 offset, Int32 size, AsyncCallback callback, Object state)
+   в System.IO.Stream.<>c.<BeginEndWriteAsync>b__53_0(Stream stream, ReadWriteParameters args, AsyncCallback callback, Object state)
+   в System.Threading.Tasks.TaskFactory`1.FromAsyncTrim[TInstance,TArgs](TInstance thisRef, TArgs args, Func`5 beginMethod, Func`3 endMethod)
+   в System.IO.Stream.BeginEndWriteAsync(Byte[] buffer, Int32 offset, Int32 count)
+   в System.IO.Stream.WriteAsync(Byte[] buffer, Int32 offset, Int32 count, CancellationToken cancellationToken)
+   в Server.Program.<ComputationalAsyncCallback>d__3.MoveNext() в C:\Users\Jesse Pinkman\Desktop\OOP\CourseWork\CourseWork\Program.cs:строка 93
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   в Server.Program.<>c__DisplayClass2_0.<<CreateAsyncCallback>b__0>d.MoveNext() в C:\Users\Jesse Pinkman\Desktop\OOP\CourseWork\CourseWork\Program.cs:строка 61
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   в Server.HttpListenerExtensions.<>c__DisplayClass1_1.<<ProceedRequestsAsync>b__0>d.MoveNext() в C:\Users\Jesse Pinkman\Desktop\OOP\CourseWork\CourseWork\HttpListenerExtensions.cs:строка 26  
+12.05.2018 11:51:31.940 ERROR   31 System.Net.HttpListenerException (0x80004005): Попытка выполнить операцию для несуществующего сетевого подключения
+   в System.Net.HttpResponseStream.BeginWrite(Byte[] buffer, Int32 offset, Int32 size, AsyncCallback callback, Object state)
+   в System.IO.Stream.<>c.<BeginEndWriteAsync>b__53_0(Stream stream, ReadWriteParameters args, AsyncCallback callback, Object state)
+   в System.Threading.Tasks.TaskFactory`1.FromAsyncTrim[TInstance,TArgs](TInstance thisRef, TArgs args, Func`5 beginMethod, Func`3 endMethod)
+   в System.IO.Stream.BeginEndWriteAsync(Byte[] buffer, Int32 offset, Int32 count)
+   в System.IO.Stream.WriteAsync(Byte[] buffer, Int32 offset, Int32 count, CancellationToken cancellationToken)
+   в Server.Program.<ComputationalAsyncCallback>d__3.MoveNext() в C:\Users\Jesse Pinkman\Desktop\OOP\CourseWork\CourseWork\Program.cs:строка 93
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   в Server.Program.<>c__DisplayClass2_0.<<CreateAsyncCallback>b__0>d.MoveNext() в C:\Users\Jesse Pinkman\Desktop\OOP\CourseWork\CourseWork\Program.cs:строка 61
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   в Server.HttpListenerExtensions.<>c__DisplayClass1_1.<<ProceedRequestsAsync>b__0>d.MoveNext() в C:\Users\Jesse Pinkman\Desktop\OOP\CourseWork\CourseWork\HttpListenerExtensions.cs:строка 26  
+12.05.2018 11:52:54.472 INFO     1 Server stopped.  
+[End of logging]
+
+[Start of logging]
+12.05.2018 11:59:33.867 INFO     1 Server is starting listening prefixes: http://+:100/do/.  
+12.05.2018 11:59:33.882 INFO     1 Press <ENTER> to stop listening.  
+12.05.2018 11:59:39.983 INFO     6 Receive request [Q1].  
+12.05.2018 11:59:39.983 INFO     5 Receive request [Q3].  
+12.05.2018 11:59:39.983 INFO     8 Receive request [Q7].  
+12.05.2018 11:59:39.983 INFO     7 Receive request [Q4].  
+12.05.2018 11:59:39.983 INFO     8 Receive request [Q5].  
+12.05.2018 11:59:39.983 INFO     7 Receive request [Q6].  
+12.05.2018 11:59:39.983 INFO     5 Receive request [Q2].  
+12.05.2018 11:59:40.499 INFO     6 Request [Q6] processed in 504 ms.  
+12.05.2018 11:59:40.499 INFO     5 Request [Q5] processed in 506 ms.  
+12.05.2018 11:59:40.499 INFO     8 Request [Q2] processed in 507 ms.  
+12.05.2018 11:59:40.499 INFO     7 Request [Q4] processed in 513 ms.  
+12.05.2018 11:59:40.499 INFO     6 Request [Q1] processed in 517 ms.  
+12.05.2018 11:59:40.499 INFO     6 Request [Q3] processed in 519 ms.  
+12.05.2018 11:59:40.499 INFO     6 Request [Q7] processed in 521 ms.  
+12.05.2018 12:00:15.122 INFO    11 Receive request [Q6].  
+12.05.2018 12:00:15.122 INFO    12 Receive request [Q4].  
+12.05.2018 12:00:15.122 INFO    13 Receive request [Q5].  
+12.05.2018 12:00:15.122 INFO    14 Receive request [Q7].  
+12.05.2018 12:00:15.137 INFO    11 Receive request [Q3].  
+12.05.2018 12:00:15.653 INFO    11 Request [Q5] processed in 516 ms.  
+12.05.2018 12:00:15.653 INFO    12 Request [Q7] processed in 517 ms.  
+12.05.2018 12:00:15.653 INFO    14 Request [Q4] processed in 519 ms.  
+12.05.2018 12:00:15.653 INFO    13 Request [Q3] processed in 522 ms.  
+12.05.2018 12:00:15.653 INFO    11 Request [Q6] processed in 529 ms.  
+12.05.2018 12:04:02.095 INFO     1 Server stopped.  
+[End of logging]
+
+[Start of logging]
+12.05.2018 12:04:04.208 INFO     1 Server stopped.  
+[End of logging]
+
+[Start of logging]
+12.05.2018 12:04:21.332 INFO     1 Server is starting listening prefixes: http://+:100/do/.  
+12.05.2018 12:04:21.347 INFO     1 Press <ENTER> to stop listening.  
+12.05.2018 12:04:25.081 INFO     5 Receive request [Q2].  
+12.05.2018 12:04:25.081 INFO     7 Receive request [Q6].  
+12.05.2018 12:04:25.081 INFO     6 Receive request [Q3].  
+12.05.2018 12:04:25.081 INFO     8 Receive request [Q1].  
+12.05.2018 12:04:25.081 INFO     7 Receive request [Q5].  
+12.05.2018 12:04:25.081 INFO     8 Receive request [Q7].  
+12.05.2018 12:04:25.612 INFO     5 Request [Q7] processed in 520 ms.  
+12.05.2018 12:04:25.612 INFO     6 Request [Q5] processed in 521 ms.  
+12.05.2018 12:04:25.612 INFO     7 Request [Q2] processed in 529 ms.  
+12.05.2018 12:04:25.612 INFO     8 Request [Q3] processed in 529 ms.  
+12.05.2018 12:04:25.612 INFO     5 Request [Q6] processed in 537 ms.  
+12.05.2018 12:04:25.612 INFO     5 Request [Q1] processed in 539 ms.  
+12.05.2018 12:04:34.299 INFO     1 Server stopped.  
+[End of logging]
+
+[Start of logging]
+12.05.2018 12:04:36.411 INFO     1 Server stopped.  
+[End of logging]
+
+[Start of logging]
+12.05.2018 12:04:55.367 INFO     1 Server is starting listening prefixes: http://+:100/do/.  
+12.05.2018 12:04:55.382 INFO     1 Press <ENTER> to stop listening.  
+12.05.2018 12:04:57.838 INFO     6 Receive request [Q1].  
+12.05.2018 12:04:57.838 INFO     7 Receive request [Q7].  
+12.05.2018 12:04:57.838 INFO     8 Receive request [Q5].  
+12.05.2018 12:04:57.838 INFO     5 Receive request [Q3].  
+12.05.2018 12:04:58.354 INFO     6 Request [Q3] processed in 503 ms.  
+12.05.2018 12:04:58.354 INFO     7 Request [Q7] processed in 508 ms.  
+12.05.2018 12:04:58.354 INFO     8 Request [Q5] processed in 504 ms.  
+12.05.2018 12:04:58.354 INFO     5 Request [Q1] processed in 512 ms.  
+12.05.2018 12:05:02.711 INFO     1 Server stopped.  
+[End of logging]
+
+[Start of logging]
+12.05.2018 15:12:08.183 INFO     1 Server is starting listening prefixes: http://+:200/do/.  
+12.05.2018 15:12:08.204 INFO     1 Press <ENTER> to stop listening.  
+12.05.2018 15:12:45.139 INFO     5 Receive request [Q1].  
+12.05.2018 15:12:45.141 INFO     6 Receive request [Q2].  
+12.05.2018 15:12:45.142 INFO     7 Receive request [Q3].  
+12.05.2018 15:12:45.172 INFO     6 Request [Q3] processed in 27 ms.  
+12.05.2018 15:12:45.172 INFO     7 Request [Q2] processed in 27 ms.  
+12.05.2018 15:12:45.172 INFO     8 Request [Q1] processed in 27 ms.  
+12.05.2018 15:12:45.206 INFO     5 Receive request [Q1].  
+12.05.2018 15:12:45.231 INFO     7 Request [Q1] processed in 23 ms.  
+12.05.2018 15:12:45.466 INFO     8 Receive request [Q3].  
+12.05.2018 15:12:45.470 INFO     6 Receive request [Q2].  
+12.05.2018 15:12:45.497 INFO     5 Request [Q2] processed in 26 ms.  
+12.05.2018 15:12:45.497 INFO     7 Request [Q3] processed in 27 ms.  
+12.05.2018 15:12:45.517 INFO     6 Receive request [Q1].  
+12.05.2018 15:12:45.519 INFO     5 Receive request [Q3].  
+12.05.2018 15:12:45.519 INFO     6 Receive request [Q2].  
+12.05.2018 15:12:45.544 INFO     5 Request [Q1] processed in 26 ms.  
+12.05.2018 15:12:45.544 INFO     7 Request [Q3] processed in 23 ms.  
+12.05.2018 15:12:45.544 INFO     8 Request [Q2] processed in 22 ms.  
+12.05.2018 15:13:25.468 INFO     1 Server stopped.  
+[End of logging]
+
+[Start of logging]
+12.05.2018 15:13:53.924 INFO     1 Server is starting listening prefixes: http://+:100/do/.  
+12.05.2018 15:13:53.945 INFO     1 Press <ENTER> to stop listening.  
+12.05.2018 15:13:59.381 INFO     5 Receive request [Q3].  
+12.05.2018 15:13:59.381 INFO     6 Receive request [Q1].  
+12.05.2018 15:13:59.381 INFO     7 Receive request [Q2].  
+12.05.2018 15:13:59.411 INFO     8 Request [Q1] processed in 25 ms.  
+12.05.2018 15:13:59.411 INFO     6 Request [Q2] processed in 26 ms.  
+12.05.2018 15:13:59.411 INFO     7 Request [Q3] processed in 26 ms.  
+12.05.2018 15:13:59.441 INFO     5 Receive request [Q1].  
+12.05.2018 15:13:59.448 INFO     7 Receive request [Q3].  
+12.05.2018 15:13:59.448 INFO     7 Receive request [Q2].  
+12.05.2018 15:13:59.454 INFO     8 Request [Q1] processed in 11 ms.  
+12.05.2018 15:13:59.464 INFO     6 Request [Q3] processed in 16 ms.  
+12.05.2018 15:13:59.465 INFO     5 Request [Q2] processed in 15 ms.  
+12.05.2018 15:13:59.559 INFO     8 Receive request [Q2].  
+12.05.2018 15:13:59.559 INFO     7 Receive request [Q3].  
+12.05.2018 15:13:59.572 INFO     6 Request [Q2] processed in 13 ms.  
+12.05.2018 15:13:59.573 INFO     5 Request [Q3] processed in 12 ms.  
+12.05.2018 15:40:10.829 INFO     1 Server stopped.  
+[End of logging]
+
+[Start of logging]
+12.05.2018 23:39:53.802 INFO     1 Server is starting listening prefixes: http://+:200/do/.  
+12.05.2018 23:39:53.826 INFO     1 Press <ENTER> to stop listening.  
+12.05.2018 23:40:03.185 INFO     5 Receive request [Q1].  
+12.05.2018 23:40:03.186 INFO     6 Receive request [Q2].  
+12.05.2018 23:40:03.188 INFO     8 Receive request [Q3].  
+12.05.2018 23:40:03.208 INFO     8 Request [Q2] processed in 18 ms.  
+12.05.2018 23:40:03.210 INFO     5 Request [Q1] processed in 20 ms.  
+12.05.2018 23:40:03.210 INFO     7 Request [Q3] processed in 20 ms.  
+12.05.2018 23:40:03.244 INFO     7 Receive request [Q3].  
+12.05.2018 23:40:03.267 INFO     5 Request [Q3] processed in 22 ms.  
+12.05.2018 23:40:29.482 INFO    11 Receive request [Q1].  
+12.05.2018 23:40:29.482 INFO    12 Receive request [Q3].  
+12.05.2018 23:40:29.494 INFO    13 Request [Q1] processed in 11 ms.  
+12.05.2018 23:40:29.495 INFO    11 Request [Q3] processed in 10 ms.  
+12.05.2018 23:40:29.565 INFO    12 Receive request [Q1].  
+12.05.2018 23:40:29.579 INFO    12 Request [Q1] processed in 13 ms.  
+12.05.2018 23:40:29.590 INFO    13 Receive request [Q2].  
+12.05.2018 23:40:29.607 INFO    12 Receive request [Q3].  
+12.05.2018 23:40:29.618 INFO    14 Request [Q2] processed in 11 ms.  
+12.05.2018 23:40:29.635 INFO    11 Request [Q3] processed in 26 ms.  
+12.05.2018 23:40:29.658 INFO    11 Receive request [Q3].  
+12.05.2018 23:40:29.671 INFO    12 Request [Q3] processed in 11 ms.  
+12.05.2018 23:40:29.699 INFO    14 Receive request [Q1].  
+12.05.2018 23:40:29.701 INFO    14 Receive request [Q2].  
+12.05.2018 23:40:29.722 INFO    11 Request [Q2] processed in 17 ms.  
+12.05.2018 23:40:29.722 INFO    12 Request [Q1] processed in 22 ms.  
+12.05.2018 23:48:44.362 INFO    16 Receive request [Q2].  
+12.05.2018 23:48:44.374 INFO    17 Request [Q2] processed in 10 ms.  
+12.05.2018 23:48:44.428 INFO    16 Receive request [Q1].  
+12.05.2018 23:48:44.438 INFO    17 Receive request [Q2].  
+12.05.2018 23:48:44.444 INFO    16 Receive request [Q3].  
+12.05.2018 23:48:44.456 INFO    17 Request [Q2] processed in 11 ms.  
+12.05.2018 23:48:44.456 INFO    14 Request [Q1] processed in 22 ms.  
+12.05.2018 23:48:44.464 INFO    14 Request [Q3] processed in 15 ms.  
+12.05.2018 23:48:44.512 INFO    16 Receive request [Q1].  
+12.05.2018 23:48:44.514 INFO    16 Receive request [Q2].  
+12.05.2018 23:48:44.535 INFO    14 Request [Q2] processed in 18 ms.  
+12.05.2018 23:48:44.536 INFO    17 Request [Q1] processed in 22 ms.  
+12.05.2018 23:48:44.574 INFO    16 Receive request [Q1].  
+12.05.2018 23:48:44.587 INFO    17 Request [Q1] processed in 11 ms.  
+12.05.2018 23:49:44.289 INFO    12 Receive request [Q2].  
+12.05.2018 23:49:44.289 INFO    11 Receive request [Q1].  
+12.05.2018 23:49:44.289 INFO     8 Receive request [Q3].  
+12.05.2018 23:49:44.312 INFO    12 Request [Q1] processed in 20 ms.  
+12.05.2018 23:49:44.312 INFO     7 Request [Q3] processed in 19 ms.  
+12.05.2018 23:49:44.312 INFO    11 Request [Q2] processed in 21 ms.  
+12.05.2018 23:49:44.345 INFO     8 Receive request [Q1].  
+12.05.2018 23:49:44.351 INFO     8 Receive request [Q2].  
+12.05.2018 23:49:44.356 INFO     8 Receive request [Q3].  
+12.05.2018 23:49:44.357 INFO     7 Request [Q1] processed in 11 ms.  
+12.05.2018 23:49:44.370 INFO     8 Request [Q3] processed in 13 ms.  
+12.05.2018 23:49:44.371 INFO     7 Request [Q2] processed in 18 ms.  
+12.05.2018 23:49:44.407 INFO     7 Receive request [Q2].  
+12.05.2018 23:49:44.440 INFO    11 Request [Q2] processed in 25 ms.  
+12.05.2018 23:49:44.479 INFO     8 Receive request [Q1].  
+12.05.2018 23:49:44.483 INFO     8 Receive request [Q3].  
+12.05.2018 23:49:44.493 INFO     7 Request [Q1] processed in 11 ms.  
+12.05.2018 23:49:44.510 INFO    11 Request [Q3] processed in 25 ms.  
+[End of logging]
+
